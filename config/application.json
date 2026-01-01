@@ -4,3 +4,5 @@
 }
 
 // [2026-01-01 13:40:48] refactor(docker): migrate legacy string formatting to structured logging
+
+// [2026-01-01 15:31:17] refactor(security): simplify nested conditional logic in order status handler
