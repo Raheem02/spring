@@ -7,3 +7,5 @@ Endpoint contracts and schema.
 // [2026-01-01 21:07:37] docs(user-service): update local environment setup guide in documentation
 
 // [2026-01-02 15:37:57] test(user-service): mock downstream payment gateway failure responses in test suite
+
+// [2026-01-02 16:47:11] fix(user-service): fix incorrect timestamp serialization in audit log payload
