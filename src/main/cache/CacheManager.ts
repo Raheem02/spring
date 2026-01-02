@@ -7,3 +7,5 @@
 // [2026-01-02 09:48:57] test(user-service): mock downstream payment gateway failure responses in test suite
 
 // [2026-01-02 11:03:03] fix(user-service): resolve race condition in concurrent session state updates
+
+// [2026-01-02 15:53:00] fix(user-service): correctly release connection pool resource on socket error
