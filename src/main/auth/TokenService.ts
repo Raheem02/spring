@@ -7,3 +7,5 @@
 // [2026-01-02 10:58:28] fix(gateway): fix incorrect timestamp serialization in audit log payload
 
 // [2026-01-02 11:23:43] test(payment): assert correct status codes on malformed JSON request bodies
+
+// [2026-01-04 10:08:27] test(cache): assert correct status codes on malformed JSON request bodies
