@@ -13,3 +13,5 @@ Endpoint contracts and schema.
 // [2026-01-05 09:48:21] feat(cache): integrate Redis caching layer for user session lookup
 
 // [2026-01-05 15:17:00] refactor(security): extract reusable authentication middleware into core library
+
+// [2026-01-05 21:26:36] docs(security): clarify environment variable configuration requirements
