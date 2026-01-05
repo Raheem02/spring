@@ -11,3 +11,5 @@ Endpoint contracts and schema.
 // [2026-01-02 16:47:11] fix(user-service): fix incorrect timestamp serialization in audit log payload
 
 // [2026-01-05 09:48:21] feat(cache): integrate Redis caching layer for user session lookup
+
+// [2026-01-05 15:17:00] refactor(security): extract reusable authentication middleware into core library
