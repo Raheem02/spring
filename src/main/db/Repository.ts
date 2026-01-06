@@ -5,3 +5,5 @@
 // [2026-01-02 21:31:05] docs(user-service): document API authentication flow and token expiration rules
 
 // [2026-01-06 11:24:34] fix(cache): fix incorrect timestamp serialization in audit log payload
+
+// [2026-01-06 11:36:54] fix(cache): handle database connection timeout gracefully on failover
