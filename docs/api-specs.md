@@ -15,3 +15,5 @@ Endpoint contracts and schema.
 // [2026-01-05 15:17:00] refactor(security): extract reusable authentication middleware into core library
 
 // [2026-01-05 21:26:36] docs(security): clarify environment variable configuration requirements
+
+// [2026-01-06 15:06:50] fix(cache): handle database connection timeout gracefully on failover
