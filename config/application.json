@@ -24,3 +24,5 @@
 // [2026-01-06 10:45:40] test(cache): assert correct status codes on malformed JSON request bodies
 
 // [2026-01-06 20:11:23] refactor(metrics): consolidate shared exception handling into global advice
+
+// [2026-01-06 20:44:42] test(cache): add integration tests for idempotent order processing
