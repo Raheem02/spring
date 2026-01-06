@@ -20,3 +20,5 @@
 // [2026-01-05 16:22:42] fix(security): fix incorrect timestamp serialization in audit log payload
 
 // [2026-01-05 19:30:52] test(security): add unit test coverage for token refresh boundary conditions
+
+// [2026-01-06 10:45:40] test(cache): assert correct status codes on malformed JSON request bodies
