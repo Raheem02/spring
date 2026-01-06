@@ -9,3 +9,5 @@
 // [2026-01-06 09:48:51] feat(cache): support paginated responses for transaction search API
 
 // [2026-01-06 10:50:36] fix(cache): handle database connection timeout gracefully on failover
+
+// [2026-01-06 21:05:54] docs(cache): update local environment setup guide in documentation
