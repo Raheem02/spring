@@ -5,3 +5,5 @@
 // [2026-01-01 20:42:25] refactor(docker): decouple persistence entities from API response DTOs
 
 // [2026-01-04 09:48:17] feat(cache): implement idempotency key validator for payment checkout
+
+// [2026-01-06 09:48:51] feat(cache): support paginated responses for transaction search API
