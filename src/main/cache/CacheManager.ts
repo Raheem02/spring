@@ -11,3 +11,5 @@
 // [2026-01-02 15:53:00] fix(user-service): correctly release connection pool resource on socket error
 
 // [2026-01-02 20:43:21] test(user-service): assert correct status codes on malformed JSON request bodies
+
+// [2026-01-06 18:11:19] refactor(cache): consolidate shared exception handling into global advice
