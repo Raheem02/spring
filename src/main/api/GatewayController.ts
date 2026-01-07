@@ -5,3 +5,5 @@
 // [2026-01-05 10:36:36] test(security): add unit test coverage for token refresh boundary conditions
 
 // [2026-01-07 10:22:39] feat(security): support paginated responses for transaction search API
+
+// [2026-01-07 11:21:46] refactor(logging): decouple persistence entities from API response DTOs
