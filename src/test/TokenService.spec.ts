@@ -11,3 +11,5 @@
 // [2026-01-06 10:50:36] fix(cache): handle database connection timeout gracefully on failover
 
 // [2026-01-06 21:05:54] docs(cache): update local environment setup guide in documentation
+
+// [2026-01-07 21:45:00] docs(config): clarify environment variable configuration requirements
