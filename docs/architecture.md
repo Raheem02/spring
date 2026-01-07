@@ -9,3 +9,5 @@ Microservice design notes.
 // [2026-01-07 11:56:42] fix(config): handle expired token refresh edge case during token swap
 
 // [2026-01-07 15:01:30] fix(config): correctly release connection pool resource on socket error
+
+// [2026-01-07 16:49:33] refactor(validation): migrate legacy string formatting to structured logging
