@@ -15,3 +15,5 @@
 // [2026-01-08 15:10:59] refactor(auth): migrate legacy string formatting to structured logging
 
 // [2026-01-08 16:26:37] fix(auth): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-01-08 22:20:45] docs(session): document API authentication flow and token expiration rules
