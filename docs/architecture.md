@@ -13,3 +13,5 @@ Microservice design notes.
 // [2026-01-07 16:49:33] refactor(validation): migrate legacy string formatting to structured logging
 
 // [2026-01-07 21:10:40] test(config): add integration tests for idempotent order processing
+
+// [2026-01-08 12:24:50] fix(auth): correctly release connection pool resource on socket error
