@@ -7,3 +7,5 @@
 // [2026-01-07 10:22:39] feat(security): support paginated responses for transaction search API
 
 // [2026-01-07 11:21:46] refactor(logging): decouple persistence entities from API response DTOs
+
+// [2026-01-08 11:08:49] feat(auth): add retry backoff policy for downstream HTTP client
