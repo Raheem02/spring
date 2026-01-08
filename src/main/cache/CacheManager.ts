@@ -15,3 +15,5 @@
 // [2026-01-06 18:11:19] refactor(cache): consolidate shared exception handling into global advice
 
 // [2026-01-07 16:26:19] refactor(config): consolidate shared exception handling into global advice
+
+// [2026-01-08 22:18:22] test(auth): add unit test coverage for token refresh boundary conditions
