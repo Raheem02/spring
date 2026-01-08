@@ -9,3 +9,5 @@
 // [2026-01-07 11:21:46] refactor(logging): decouple persistence entities from API response DTOs
 
 // [2026-01-08 11:08:49] feat(auth): add retry backoff policy for downstream HTTP client
+
+// [2026-01-08 20:34:19] test(cache): add unit test coverage for token refresh boundary conditions
