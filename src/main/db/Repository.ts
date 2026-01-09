@@ -11,3 +11,5 @@
 // [2026-01-08 11:31:46] test(auth): mock downstream payment gateway failure responses in test suite
 
 // [2026-01-08 13:05:58] test(auth): mock downstream payment gateway failure responses in test suite
+
+// [2026-01-09 21:39:39] docs(auth): add architecture overview diagram and data flow notes
