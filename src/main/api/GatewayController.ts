@@ -13,3 +13,5 @@
 // [2026-01-08 20:34:19] test(cache): add unit test coverage for token refresh boundary conditions
 
 // [2026-01-09 09:48:12] feat(auth): implement asynchronous event publisher for notifications
+
+// [2026-01-12 15:33:42] test(order-api): assert correct status codes on malformed JSON request bodies
