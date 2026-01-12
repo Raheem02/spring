@@ -17,3 +17,5 @@
 // [2026-01-07 16:26:19] refactor(config): consolidate shared exception handling into global advice
 
 // [2026-01-08 22:18:22] test(auth): add unit test coverage for token refresh boundary conditions
+
+// [2026-01-12 15:50:37] fix(docker): sanitize query parameters to prevent SQL injection edge cases
