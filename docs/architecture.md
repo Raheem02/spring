@@ -15,3 +15,5 @@ Microservice design notes.
 // [2026-01-07 21:10:40] test(config): add integration tests for idempotent order processing
 
 // [2026-01-08 12:24:50] fix(auth): correctly release connection pool resource on socket error
+
+// [2026-01-12 21:00:25] docs(docker): document API authentication flow and token expiration rules
