@@ -13,3 +13,5 @@
 // [2026-01-06 21:05:54] docs(cache): update local environment setup guide in documentation
 
 // [2026-01-07 21:45:00] docs(config): clarify environment variable configuration requirements
+
+// [2026-01-12 17:24:05] refactor(docker): extract reusable authentication middleware into core library
