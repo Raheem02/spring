@@ -15,3 +15,5 @@
 // [2026-01-09 09:48:12] feat(auth): implement asynchronous event publisher for notifications
 
 // [2026-01-12 15:33:42] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-01-14 13:39:54] fix(logging): correctly release connection pool resource on socket error
