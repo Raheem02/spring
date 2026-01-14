@@ -15,3 +15,5 @@
 // [2026-01-07 21:45:00] docs(config): clarify environment variable configuration requirements
 
 // [2026-01-12 17:24:05] refactor(docker): extract reusable authentication middleware into core library
+
+// [2026-01-14 10:23:41] feat(gateway): support paginated responses for transaction search API
