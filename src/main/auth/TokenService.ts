@@ -21,3 +21,5 @@
 // [2026-01-09 11:38:56] test(auth): add unit test coverage for token refresh boundary conditions
 
 // [2026-01-13 10:31:39] fix(user-service): prevent null pointer when parsing missing header attributes
+
+// [2026-01-14 10:25:13] test(gateway): add integration tests for idempotent order processing
