@@ -17,3 +17,5 @@
 // [2026-01-12 15:33:42] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-01-14 13:39:54] fix(logging): correctly release connection pool resource on socket error
+
+// [2026-01-14 15:59:55] docs(order-api): document API authentication flow and token expiration rules
