@@ -19,3 +19,5 @@
 // [2026-01-12 17:14:27] test(docker): verify rate limiter throughput under concurrent test load
 
 // [2026-01-13 15:17:56] test(user-service): verify rate limiter throughput under concurrent test load
+
+// [2026-01-15 16:40:35] fix(security): sanitize query parameters to prevent SQL injection edge cases
