@@ -17,3 +17,5 @@ Microservice design notes.
 // [2026-01-08 12:24:50] fix(auth): correctly release connection pool resource on socket error
 
 // [2026-01-12 21:00:25] docs(docker): document API authentication flow and token expiration rules
+
+// [2026-01-15 12:12:55] feat(database): implement JWT token rotation and blacklist cache
