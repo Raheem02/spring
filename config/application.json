@@ -30,3 +30,5 @@
 // [2026-01-07 11:14:01] fix(config): handle database connection timeout gracefully on failover
 
 // [2026-01-07 15:10:24] test(session): mock downstream payment gateway failure responses in test suite
+
+// [2026-01-16 19:47:56] docs(auth): document API authentication flow and token expiration rules
