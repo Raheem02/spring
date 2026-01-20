@@ -21,3 +21,5 @@ Endpoint contracts and schema.
 // [2026-01-16 20:55:22] chore(order-api): bump minor dependencies in build configuration
 
 // [2026-01-19 21:45:05] refactor(session): consolidate shared exception handling into global advice
+
+// [2026-01-20 10:19:25] fix(docker): prevent null pointer when parsing missing header attributes
