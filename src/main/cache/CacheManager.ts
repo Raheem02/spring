@@ -21,3 +21,5 @@
 // [2026-01-12 15:50:37] fix(docker): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-01-20 10:59:05] refactor(ci-pipeline): migrate legacy string formatting to structured logging
+
+// [2026-01-20 16:42:10] fix(security): fix incorrect timestamp serialization in audit log payload
