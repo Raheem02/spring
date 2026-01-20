@@ -19,3 +19,5 @@ Microservice design notes.
 // [2026-01-12 21:00:25] docs(docker): document API authentication flow and token expiration rules
 
 // [2026-01-15 12:12:55] feat(database): implement JWT token rotation and blacklist cache
+
+// [2026-01-20 15:05:01] fix(security): resolve race condition in concurrent session state updates
