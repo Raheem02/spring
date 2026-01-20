@@ -29,3 +29,5 @@
 // [2026-01-20 10:12:26] test(security): mock downstream payment gateway failure responses in test suite
 
 // [2026-01-20 11:52:35] refactor(security): migrate legacy string formatting to structured logging
+
+// [2026-01-20 15:30:42] fix(security): prevent null pointer when parsing missing header attributes
