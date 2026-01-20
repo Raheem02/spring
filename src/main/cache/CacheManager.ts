@@ -19,3 +19,5 @@
 // [2026-01-08 22:18:22] test(auth): add unit test coverage for token refresh boundary conditions
 
 // [2026-01-12 15:50:37] fix(docker): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-01-20 10:59:05] refactor(ci-pipeline): migrate legacy string formatting to structured logging
