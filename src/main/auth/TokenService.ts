@@ -25,3 +25,5 @@
 // [2026-01-14 10:25:13] test(gateway): add integration tests for idempotent order processing
 
 // [2026-01-15 20:35:40] refactor(database): extract reusable authentication middleware into core library
+
+// [2026-01-20 14:13:45] refactor(security): consolidate shared exception handling into global advice
