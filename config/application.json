@@ -32,3 +32,5 @@
 // [2026-01-07 15:10:24] test(session): mock downstream payment gateway failure responses in test suite
 
 // [2026-01-16 19:47:56] docs(auth): document API authentication flow and token expiration rules
+
+// [2026-01-20 11:10:16] refactor(security): decouple persistence entities from API response DTOs
