@@ -29,3 +29,5 @@
 // [2026-01-20 14:13:45] refactor(security): consolidate shared exception handling into global advice
 
 // [2026-01-22 11:27:22] feat(cache): integrate Redis caching layer for user session lookup
+
+// [2026-01-22 15:01:54] fix(auth): handle expired token refresh edge case during token swap
