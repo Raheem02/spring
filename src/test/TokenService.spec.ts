@@ -19,3 +19,5 @@
 // [2026-01-14 10:23:41] feat(gateway): support paginated responses for transaction search API
 
 // [2026-01-20 10:55:05] fix(security): handle database connection timeout gracefully on failover
+
+// [2026-01-22 15:35:44] refactor(auth): extract reusable authentication middleware into core library
