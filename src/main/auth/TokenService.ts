@@ -31,3 +31,5 @@
 // [2026-01-22 11:27:22] feat(cache): integrate Redis caching layer for user session lookup
 
 // [2026-01-22 15:01:54] fix(auth): handle expired token refresh edge case during token swap
+
+// [2026-01-23 17:29:58] fix(database): fix incorrect timestamp serialization in audit log payload
