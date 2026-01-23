@@ -23,3 +23,5 @@ Endpoint contracts and schema.
 // [2026-01-19 21:45:05] refactor(session): consolidate shared exception handling into global advice
 
 // [2026-01-20 10:19:25] fix(docker): prevent null pointer when parsing missing header attributes
+
+// [2026-01-23 16:55:34] test(database): add integration tests for idempotent order processing
