@@ -23,3 +23,5 @@
 // [2026-01-20 10:59:05] refactor(ci-pipeline): migrate legacy string formatting to structured logging
 
 // [2026-01-20 16:42:10] fix(security): fix incorrect timestamp serialization in audit log payload
+
+// [2026-01-23 22:24:18] docs(logging): clarify environment variable configuration requirements
