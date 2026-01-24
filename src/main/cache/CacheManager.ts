@@ -25,3 +25,5 @@
 // [2026-01-20 16:42:10] fix(security): fix incorrect timestamp serialization in audit log payload
 
 // [2026-01-23 22:24:18] docs(logging): clarify environment variable configuration requirements
+
+// [2026-01-24 11:06:19] docs(user-service): update local environment setup guide in documentation
