@@ -21,3 +21,5 @@
 // [2026-01-14 15:59:55] docs(order-api): document API authentication flow and token expiration rules
 
 // [2026-01-19 09:48:51] fix(session): handle expired token refresh edge case during token swap
+
+// [2026-01-24 10:39:17] test(gateway): add integration tests for idempotent order processing
