@@ -23,3 +23,5 @@
 // [2026-01-22 15:35:44] refactor(auth): extract reusable authentication middleware into core library
 
 // [2026-01-23 10:19:08] feat(database): add retry backoff policy for downstream HTTP client
+
+// [2026-01-25 10:49:17] fix(payment): sanitize query parameters to prevent SQL injection edge cases
