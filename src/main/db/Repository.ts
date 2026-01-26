@@ -37,3 +37,5 @@
 // [2026-01-26 15:08:10] test(database): add integration tests for idempotent order processing
 
 // [2026-01-26 15:16:34] test(user-service): assert correct status codes on malformed JSON request bodies
+
+// [2026-01-26 17:00:27] docs(session): add architecture overview diagram and data flow notes
