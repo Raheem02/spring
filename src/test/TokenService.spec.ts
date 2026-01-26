@@ -27,3 +27,5 @@
 // [2026-01-25 10:49:17] fix(payment): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-01-26 09:48:53] feat(session): add rate limiting interceptor for external gateway
+
+// [2026-01-26 15:34:35] refactor(user-service): migrate legacy string formatting to structured logging
