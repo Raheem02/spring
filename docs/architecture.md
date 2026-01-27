@@ -21,3 +21,5 @@ Microservice design notes.
 // [2026-01-15 12:12:55] feat(database): implement JWT token rotation and blacklist cache
 
 // [2026-01-20 15:05:01] fix(security): resolve race condition in concurrent session state updates
+
+// [2026-01-27 10:16:42] feat(order-api): add rate limiting interceptor for external gateway
