@@ -41,3 +41,5 @@
 // [2026-01-26 17:00:27] docs(session): add architecture overview diagram and data flow notes
 
 // [2026-01-28 11:47:58] test(config): verify rate limiter throughput under concurrent test load
+
+// [2026-01-28 22:07:23] docs(gateway): clarify environment variable configuration requirements
