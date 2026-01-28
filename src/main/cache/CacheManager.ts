@@ -29,3 +29,5 @@
 // [2026-01-24 11:06:19] docs(user-service): update local environment setup guide in documentation
 
 // [2026-01-27 15:50:17] test(validation): verify rate limiter throughput under concurrent test load
+
+// [2026-01-28 14:42:58] refactor(gateway): extract reusable authentication middleware into core library
