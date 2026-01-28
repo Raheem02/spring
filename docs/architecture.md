@@ -23,3 +23,5 @@ Microservice design notes.
 // [2026-01-20 15:05:01] fix(security): resolve race condition in concurrent session state updates
 
 // [2026-01-27 10:16:42] feat(order-api): add rate limiting interceptor for external gateway
+
+// [2026-01-28 11:56:27] fix(gateway): handle database connection timeout gracefully on failover
