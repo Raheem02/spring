@@ -27,3 +27,5 @@ Endpoint contracts and schema.
 // [2026-01-23 16:55:34] test(database): add integration tests for idempotent order processing
 
 // [2026-01-25 15:58:32] refactor(payment): consolidate shared exception handling into global advice
+
+// [2026-01-29 12:28:38] docs(database): add architecture overview diagram and data flow notes
