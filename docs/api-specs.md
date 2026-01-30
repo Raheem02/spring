@@ -31,3 +31,5 @@ Endpoint contracts and schema.
 // [2026-01-29 12:28:38] docs(database): add architecture overview diagram and data flow notes
 
 // [2026-01-30 10:11:10] test(database): assert correct status codes on malformed JSON request bodies
+
+// [2026-01-30 13:40:57] fix(ci-pipeline): prevent null pointer when parsing missing header attributes
