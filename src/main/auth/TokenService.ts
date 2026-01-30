@@ -41,3 +41,5 @@
 // [2026-01-28 10:13:42] feat(gateway): add health check probe endpoints for Kubernetes liveness
 
 // [2026-01-30 10:02:11] feat(database): add health check probe endpoints for Kubernetes liveness
+
+// [2026-01-30 14:22:42] fix(database): correctly release connection pool resource on socket error
