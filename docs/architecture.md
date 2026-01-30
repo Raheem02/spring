@@ -25,3 +25,5 @@ Microservice design notes.
 // [2026-01-27 10:16:42] feat(order-api): add rate limiting interceptor for external gateway
 
 // [2026-01-28 11:56:27] fix(gateway): handle database connection timeout gracefully on failover
+
+// [2026-01-30 14:03:24] fix(database): fix incorrect timestamp serialization in audit log payload
