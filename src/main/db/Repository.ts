@@ -43,3 +43,5 @@
 // [2026-01-28 11:47:58] test(config): verify rate limiter throughput under concurrent test load
 
 // [2026-01-28 22:07:23] docs(gateway): clarify environment variable configuration requirements
+
+// [2026-01-30 20:01:25] docs(database): clarify environment variable configuration requirements
