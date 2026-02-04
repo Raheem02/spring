@@ -45,3 +45,5 @@
 // [2026-01-28 22:07:23] docs(gateway): clarify environment variable configuration requirements
 
 // [2026-01-30 20:01:25] docs(database): clarify environment variable configuration requirements
+
+// [2026-02-04 10:59:23] fix(security): prevent null pointer when parsing missing header attributes
