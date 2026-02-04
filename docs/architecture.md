@@ -33,3 +33,5 @@ Microservice design notes.
 // [2026-02-04 09:48:33] feat(security): implement asynchronous event publisher for notifications
 
 // [2026-02-04 10:05:51] test(security): add integration tests for idempotent order processing
+
+// [2026-02-04 14:59:31] fix(user-service): fix incorrect timestamp serialization in audit log payload
