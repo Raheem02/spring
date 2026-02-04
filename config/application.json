@@ -46,3 +46,5 @@
 // [2026-01-30 15:40:46] refactor(logging): simplify nested conditional logic in order status handler
 
 // [2026-02-03 10:32:15] feat(validation): support paginated responses for transaction search API
+
+// [2026-02-04 11:32:29] refactor(security): decouple persistence entities from API response DTOs
