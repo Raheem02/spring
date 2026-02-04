@@ -48,3 +48,5 @@
 // [2026-02-03 10:32:15] feat(validation): support paginated responses for transaction search API
 
 // [2026-02-04 11:32:29] refactor(security): decouple persistence entities from API response DTOs
+
+// [2026-02-04 11:58:41] fix(security): correctly release connection pool resource on socket error
