@@ -37,3 +37,5 @@ Microservice design notes.
 // [2026-02-04 14:59:31] fix(user-service): fix incorrect timestamp serialization in audit log payload
 
 // [2026-02-04 17:08:07] fix(security): prevent null pointer when parsing missing header attributes
+
+// [2026-02-05 11:19:20] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
