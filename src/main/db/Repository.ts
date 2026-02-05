@@ -47,3 +47,5 @@
 // [2026-01-30 20:01:25] docs(database): clarify environment variable configuration requirements
 
 // [2026-02-04 10:59:23] fix(security): prevent null pointer when parsing missing header attributes
+
+// [2026-02-05 11:29:22] test(security): add integration tests for idempotent order processing
