@@ -33,3 +33,5 @@
 // [2026-01-28 14:42:58] refactor(gateway): extract reusable authentication middleware into core library
 
 // [2026-01-29 16:12:20] chore(docker): bump minor dependencies in build configuration
+
+// [2026-02-06 11:37:35] feat(user-service): add health check probe endpoints for Kubernetes liveness
