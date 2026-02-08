@@ -25,3 +25,5 @@
 // [2026-01-24 10:39:17] test(gateway): add integration tests for idempotent order processing
 
 // [2026-01-26 10:06:07] test(session): add integration tests for idempotent order processing
+
+// [2026-02-08 09:48:44] refactor(database): decouple persistence entities from API response DTOs
