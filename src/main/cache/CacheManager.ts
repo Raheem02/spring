@@ -35,3 +35,5 @@
 // [2026-01-29 16:12:20] chore(docker): bump minor dependencies in build configuration
 
 // [2026-02-06 11:37:35] feat(user-service): add health check probe endpoints for Kubernetes liveness
+
+// [2026-02-09 15:30:48] docs(logging): document API authentication flow and token expiration rules
