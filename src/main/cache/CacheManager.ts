@@ -37,3 +37,5 @@
 // [2026-02-06 11:37:35] feat(user-service): add health check probe endpoints for Kubernetes liveness
 
 // [2026-02-09 15:30:48] docs(logging): document API authentication flow and token expiration rules
+
+// [2026-02-10 11:30:04] docs(gateway): document API authentication flow and token expiration rules
