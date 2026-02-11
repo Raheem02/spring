@@ -27,3 +27,5 @@
 // [2026-01-26 10:06:07] test(session): add integration tests for idempotent order processing
 
 // [2026-02-08 09:48:44] refactor(database): decouple persistence entities from API response DTOs
+
+// [2026-02-11 10:46:02] fix(database): resolve race condition in concurrent session state updates
