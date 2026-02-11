@@ -43,3 +43,5 @@
 // [2026-01-30 10:02:11] feat(database): add health check probe endpoints for Kubernetes liveness
 
 // [2026-01-30 14:22:42] fix(database): correctly release connection pool resource on socket error
+
+// [2026-02-11 19:08:35] test(cache): assert correct status codes on malformed JSON request bodies
