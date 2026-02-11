@@ -39,3 +39,5 @@
 // [2026-02-09 15:30:48] docs(logging): document API authentication flow and token expiration rules
 
 // [2026-02-10 11:30:04] docs(gateway): document API authentication flow and token expiration rules
+
+// [2026-02-11 11:28:24] refactor(database): decouple persistence entities from API response DTOs
