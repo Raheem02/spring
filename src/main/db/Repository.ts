@@ -51,3 +51,5 @@
 // [2026-02-05 11:29:22] test(security): add integration tests for idempotent order processing
 
 // [2026-02-11 09:48:49] feat(database): support paginated responses for transaction search API
+
+// [2026-02-11 15:29:18] fix(database): correctly release connection pool resource on socket error
