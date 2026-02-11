@@ -45,3 +45,5 @@ Microservice design notes.
 // [2026-02-11 10:27:12] test(database): mock downstream payment gateway failure responses in test suite
 
 // [2026-02-11 14:16:12] fix(logging): correctly release connection pool resource on socket error
+
+// [2026-02-11 16:29:45] test(database): assert correct status codes on malformed JSON request bodies
