@@ -43,3 +43,5 @@ Microservice design notes.
 // [2026-02-05 17:12:00] docs(security): update local environment setup guide in documentation
 
 // [2026-02-11 10:27:12] test(database): mock downstream payment gateway failure responses in test suite
+
+// [2026-02-11 14:16:12] fix(logging): correctly release connection pool resource on socket error
