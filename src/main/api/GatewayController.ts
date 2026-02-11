@@ -29,3 +29,5 @@
 // [2026-02-08 09:48:44] refactor(database): decouple persistence entities from API response DTOs
 
 // [2026-02-11 10:46:02] fix(database): resolve race condition in concurrent session state updates
+
+// [2026-02-11 16:25:54] test(database): assert correct status codes on malformed JSON request bodies
