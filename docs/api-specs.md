@@ -37,3 +37,5 @@ Endpoint contracts and schema.
 // [2026-02-06 15:26:37] refactor(security): simplify nested conditional logic in order status handler
 
 // [2026-02-11 11:40:43] fix(database): handle expired token refresh edge case during token swap
+
+// [2026-02-11 11:44:33] fix(database): fix incorrect timestamp serialization in audit log payload
