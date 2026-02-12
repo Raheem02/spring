@@ -45,3 +45,5 @@
 // [2026-01-30 14:22:42] fix(database): correctly release connection pool resource on socket error
 
 // [2026-02-11 19:08:35] test(cache): assert correct status codes on malformed JSON request bodies
+
+// [2026-02-12 10:09:58] feat(cache): add retry backoff policy for downstream HTTP client
