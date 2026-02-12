@@ -41,3 +41,5 @@
 // [2026-02-10 11:30:04] docs(gateway): document API authentication flow and token expiration rules
 
 // [2026-02-11 11:28:24] refactor(database): decouple persistence entities from API response DTOs
+
+// [2026-02-12 15:19:55] fix(database): prevent null pointer when parsing missing header attributes
