@@ -43,3 +43,5 @@
 // [2026-02-11 11:28:24] refactor(database): decouple persistence entities from API response DTOs
 
 // [2026-02-12 15:19:55] fix(database): prevent null pointer when parsing missing header attributes
+
+// [2026-02-12 17:02:46] test(database): assert correct status codes on malformed JSON request bodies
