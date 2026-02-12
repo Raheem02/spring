@@ -41,3 +41,5 @@ Endpoint contracts and schema.
 // [2026-02-11 11:44:33] fix(database): fix incorrect timestamp serialization in audit log payload
 
 // [2026-02-11 15:14:18] refactor(database): simplify nested conditional logic in order status handler
+
+// [2026-02-12 18:48:33] docs(logging): clarify environment variable configuration requirements
