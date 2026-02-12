@@ -45,3 +45,5 @@
 // [2026-02-12 15:19:55] fix(database): prevent null pointer when parsing missing header attributes
 
 // [2026-02-12 17:02:46] test(database): assert correct status codes on malformed JSON request bodies
+
+// [2026-02-12 17:51:22] fix(database): resolve race condition in concurrent session state updates
