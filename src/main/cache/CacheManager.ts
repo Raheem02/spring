@@ -51,3 +51,5 @@
 // [2026-02-13 14:45:08] test(logging): mock downstream payment gateway failure responses in test suite
 
 // [2026-02-13 15:09:18] fix(logging): prevent null pointer when parsing missing header attributes
+
+// [2026-02-13 16:20:31] fix(logging): handle expired token refresh edge case during token swap
