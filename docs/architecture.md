@@ -49,3 +49,5 @@ Microservice design notes.
 // [2026-02-11 16:29:45] test(database): assert correct status codes on malformed JSON request bodies
 
 // [2026-02-11 22:48:59] docs(gateway): document API authentication flow and token expiration rules
+
+// [2026-02-13 21:26:39] docs(logging): clarify environment variable configuration requirements
