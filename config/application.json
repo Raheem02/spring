@@ -60,3 +60,5 @@
 // [2026-02-11 11:46:36] test(database): add integration tests for idempotent order processing
 
 // [2026-02-11 11:46:55] refactor(database): decouple persistence entities from API response DTOs
+
+// [2026-02-13 11:22:31] feat(session): implement JWT token rotation and blacklist cache
