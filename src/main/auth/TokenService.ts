@@ -51,3 +51,5 @@
 // [2026-02-13 16:38:09] refactor(logging): extract reusable authentication middleware into core library
 
 // [2026-02-16 10:20:19] feat(logging): implement asynchronous event publisher for notifications
+
+// [2026-02-16 16:22:33] fix(config): handle expired token refresh edge case during token swap
