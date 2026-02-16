@@ -57,3 +57,5 @@
 // [2026-02-16 11:16:20] test(config): mock downstream payment gateway failure responses in test suite
 
 // [2026-02-16 14:17:33] refactor(session): migrate legacy string formatting to structured logging
+
+// [2026-02-16 17:10:15] docs(security): add architecture overview diagram and data flow notes
