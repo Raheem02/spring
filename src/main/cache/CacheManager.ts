@@ -55,3 +55,5 @@
 // [2026-02-13 16:20:31] fix(logging): handle expired token refresh edge case during token swap
 
 // [2026-02-16 11:16:20] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-02-16 14:17:33] refactor(session): migrate legacy string formatting to structured logging
