@@ -53,3 +53,5 @@
 // [2026-02-16 10:20:19] feat(logging): implement asynchronous event publisher for notifications
 
 // [2026-02-16 16:22:33] fix(config): handle expired token refresh edge case during token swap
+
+// [2026-02-17 10:59:34] fix(logging): resolve race condition in concurrent session state updates
