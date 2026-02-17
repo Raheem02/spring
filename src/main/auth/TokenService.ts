@@ -55,3 +55,5 @@
 // [2026-02-16 16:22:33] fix(config): handle expired token refresh edge case during token swap
 
 // [2026-02-17 10:59:34] fix(logging): resolve race condition in concurrent session state updates
+
+// [2026-02-17 18:36:11] refactor(logging): decouple persistence entities from API response DTOs
