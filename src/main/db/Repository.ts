@@ -57,3 +57,5 @@
 // [2026-02-13 15:40:56] refactor(logging): decouple persistence entities from API response DTOs
 
 // [2026-02-17 14:26:58] fix(logging): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-02-17 15:31:19] test(logging): mock downstream payment gateway failure responses in test suite
