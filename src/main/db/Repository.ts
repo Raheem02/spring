@@ -55,3 +55,5 @@
 // [2026-02-11 15:29:18] fix(database): correctly release connection pool resource on socket error
 
 // [2026-02-13 15:40:56] refactor(logging): decouple persistence entities from API response DTOs
+
+// [2026-02-17 14:26:58] fix(logging): sanitize query parameters to prevent SQL injection edge cases
