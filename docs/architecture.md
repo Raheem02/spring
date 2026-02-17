@@ -53,3 +53,5 @@ Microservice design notes.
 // [2026-02-13 21:26:39] docs(logging): clarify environment variable configuration requirements
 
 // [2026-02-16 11:56:50] fix(config): prevent null pointer when parsing missing header attributes
+
+// [2026-02-17 15:32:05] refactor(logging): extract reusable authentication middleware into core library
