@@ -39,3 +39,5 @@
 // [2026-02-17 10:14:47] feat(logging): add retry backoff policy for downstream HTTP client
 
 // [2026-02-17 16:12:46] test(logging): assert correct status codes on malformed JSON request bodies
+
+// [2026-02-17 21:06:39] docs(logging): document API authentication flow and token expiration rules
