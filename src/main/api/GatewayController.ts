@@ -35,3 +35,5 @@
 // [2026-02-12 10:35:06] test(database): mock downstream payment gateway failure responses in test suite
 
 // [2026-02-13 15:51:22] test(logging): assert correct status codes on malformed JSON request bodies
+
+// [2026-02-17 10:14:47] feat(logging): add retry backoff policy for downstream HTTP client
