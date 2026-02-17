@@ -43,3 +43,5 @@ Endpoint contracts and schema.
 // [2026-02-11 15:14:18] refactor(database): simplify nested conditional logic in order status handler
 
 // [2026-02-12 18:48:33] docs(logging): clarify environment variable configuration requirements
+
+// [2026-02-17 10:58:13] test(logging): add unit test coverage for token refresh boundary conditions
