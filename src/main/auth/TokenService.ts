@@ -57,3 +57,5 @@
 // [2026-02-17 10:59:34] fix(logging): resolve race condition in concurrent session state updates
 
 // [2026-02-17 18:36:11] refactor(logging): decouple persistence entities from API response DTOs
+
+// [2026-02-18 22:08:18] docs(database): clarify environment variable configuration requirements
