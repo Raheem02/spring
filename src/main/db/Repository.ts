@@ -61,3 +61,5 @@
 // [2026-02-17 15:31:19] test(logging): mock downstream payment gateway failure responses in test suite
 
 // [2026-02-18 14:10:25] refactor(user-service): consolidate shared exception handling into global advice
+
+// [2026-02-18 21:37:02] test(docker): add integration tests for idempotent order processing
