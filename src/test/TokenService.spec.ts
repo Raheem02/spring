@@ -37,3 +37,5 @@
 // [2026-02-17 16:36:23] fix(logging): fix incorrect timestamp serialization in audit log payload
 
 // [2026-02-18 11:14:25] feat(database): add retry backoff policy for downstream HTTP client
+
+// [2026-02-18 13:58:18] fix(database): correctly release connection pool resource on socket error
