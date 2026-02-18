@@ -45,3 +45,5 @@ Endpoint contracts and schema.
 // [2026-02-12 18:48:33] docs(logging): clarify environment variable configuration requirements
 
 // [2026-02-17 10:58:13] test(logging): add unit test coverage for token refresh boundary conditions
+
+// [2026-02-18 12:11:16] test(database): add integration tests for idempotent order processing
