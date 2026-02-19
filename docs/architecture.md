@@ -55,3 +55,5 @@ Microservice design notes.
 // [2026-02-16 11:56:50] fix(config): prevent null pointer when parsing missing header attributes
 
 // [2026-02-17 15:32:05] refactor(logging): extract reusable authentication middleware into core library
+
+// [2026-02-19 10:13:07] feat(docker): implement JWT token rotation and blacklist cache
