@@ -57,3 +57,5 @@ Microservice design notes.
 // [2026-02-17 15:32:05] refactor(logging): extract reusable authentication middleware into core library
 
 // [2026-02-19 10:13:07] feat(docker): implement JWT token rotation and blacklist cache
+
+// [2026-02-19 16:34:26] test(docker): assert correct status codes on malformed JSON request bodies
