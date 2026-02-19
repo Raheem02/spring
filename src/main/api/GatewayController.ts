@@ -41,3 +41,5 @@
 // [2026-02-17 16:12:46] test(logging): assert correct status codes on malformed JSON request bodies
 
 // [2026-02-17 21:06:39] docs(logging): document API authentication flow and token expiration rules
+
+// [2026-02-19 21:31:17] docs(docker): add architecture overview diagram and data flow notes
