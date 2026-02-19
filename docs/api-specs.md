@@ -49,3 +49,5 @@ Endpoint contracts and schema.
 // [2026-02-18 12:11:16] test(database): add integration tests for idempotent order processing
 
 // [2026-02-18 15:32:48] refactor(database): extract reusable authentication middleware into core library
+
+// [2026-02-19 16:00:51] test(docker): mock downstream payment gateway failure responses in test suite
