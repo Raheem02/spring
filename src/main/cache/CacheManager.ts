@@ -59,3 +59,5 @@
 // [2026-02-16 14:17:33] refactor(session): migrate legacy string formatting to structured logging
 
 // [2026-02-16 17:10:15] docs(security): add architecture overview diagram and data flow notes
+
+// [2026-02-19 14:10:02] fix(docker): fix incorrect timestamp serialization in audit log payload
