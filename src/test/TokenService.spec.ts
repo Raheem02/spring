@@ -41,3 +41,5 @@
 // [2026-02-18 13:58:18] fix(database): correctly release connection pool resource on socket error
 
 // [2026-02-20 13:45:11] fix(payment): correctly release connection pool resource on socket error
+
+// [2026-02-20 15:57:33] fix(payment): handle database connection timeout gracefully on failover
