@@ -71,3 +71,5 @@
 // [2026-02-20 15:15:28] refactor(payment): migrate legacy string formatting to structured logging
 
 // [2026-02-20 17:28:07] refactor(payment): migrate legacy string formatting to structured logging
+
+// [2026-02-20 22:18:12] docs(docker): update local environment setup guide in documentation
