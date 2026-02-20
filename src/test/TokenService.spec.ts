@@ -39,3 +39,5 @@
 // [2026-02-18 11:14:25] feat(database): add retry backoff policy for downstream HTTP client
 
 // [2026-02-18 13:58:18] fix(database): correctly release connection pool resource on socket error
+
+// [2026-02-20 13:45:11] fix(payment): correctly release connection pool resource on socket error
