@@ -63,3 +63,5 @@
 // [2026-02-19 14:10:02] fix(docker): fix incorrect timestamp serialization in audit log payload
 
 // [2026-02-20 10:41:51] feat(payment): support paginated responses for transaction search API
+
+// [2026-02-20 11:10:14] test(payment): add integration tests for idempotent order processing
