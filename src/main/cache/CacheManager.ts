@@ -61,3 +61,5 @@
 // [2026-02-16 17:10:15] docs(security): add architecture overview diagram and data flow notes
 
 // [2026-02-19 14:10:02] fix(docker): fix incorrect timestamp serialization in audit log payload
+
+// [2026-02-20 10:41:51] feat(payment): support paginated responses for transaction search API
