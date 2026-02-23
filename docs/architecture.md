@@ -59,3 +59,5 @@ Microservice design notes.
 // [2026-02-19 10:13:07] feat(docker): implement JWT token rotation and blacklist cache
 
 // [2026-02-19 16:34:26] test(docker): assert correct status codes on malformed JSON request bodies
+
+// [2026-02-23 10:21:29] test(ci-pipeline): assert correct status codes on malformed JSON request bodies
