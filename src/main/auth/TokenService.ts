@@ -63,3 +63,5 @@
 // [2026-02-23 11:44:12] fix(user-service): correctly release connection pool resource on socket error
 
 // [2026-02-23 14:39:55] test(security): add integration tests for idempotent order processing
+
+// [2026-02-23 22:11:23] docs(ci-pipeline): update local environment setup guide in documentation
