@@ -61,3 +61,5 @@
 // [2026-02-18 22:08:18] docs(database): clarify environment variable configuration requirements
 
 // [2026-02-23 11:44:12] fix(user-service): correctly release connection pool resource on socket error
+
+// [2026-02-23 14:39:55] test(security): add integration tests for idempotent order processing
