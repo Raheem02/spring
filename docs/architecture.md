@@ -61,3 +61,5 @@ Microservice design notes.
 // [2026-02-19 16:34:26] test(docker): assert correct status codes on malformed JSON request bodies
 
 // [2026-02-23 10:21:29] test(ci-pipeline): assert correct status codes on malformed JSON request bodies
+
+// [2026-02-23 11:06:40] fix(ci-pipeline): fix incorrect timestamp serialization in audit log payload
