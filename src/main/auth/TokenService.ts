@@ -59,3 +59,5 @@
 // [2026-02-17 18:36:11] refactor(logging): decouple persistence entities from API response DTOs
 
 // [2026-02-18 22:08:18] docs(database): clarify environment variable configuration requirements
+
+// [2026-02-23 11:44:12] fix(user-service): correctly release connection pool resource on socket error
