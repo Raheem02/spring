@@ -53,3 +53,5 @@ Endpoint contracts and schema.
 // [2026-02-19 16:00:51] test(docker): mock downstream payment gateway failure responses in test suite
 
 // [2026-02-20 20:11:55] refactor(payment): migrate legacy string formatting to structured logging
+
+// [2026-02-25 14:36:40] fix(docker): handle database connection timeout gracefully on failover
