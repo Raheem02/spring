@@ -67,3 +67,5 @@
 // [2026-02-23 22:11:23] docs(ci-pipeline): update local environment setup guide in documentation
 
 // [2026-02-25 09:48:57] feat(metrics): add rate limiting interceptor for external gateway
+
+// [2026-02-25 16:10:03] refactor(metrics): consolidate shared exception handling into global advice
