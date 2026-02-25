@@ -43,3 +43,5 @@
 // [2026-02-17 21:06:39] docs(logging): document API authentication flow and token expiration rules
 
 // [2026-02-19 21:31:17] docs(docker): add architecture overview diagram and data flow notes
+
+// [2026-02-25 16:32:34] refactor(cache): decouple persistence entities from API response DTOs
