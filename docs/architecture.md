@@ -63,3 +63,5 @@ Microservice design notes.
 // [2026-02-23 10:21:29] test(ci-pipeline): assert correct status codes on malformed JSON request bodies
 
 // [2026-02-23 11:06:40] fix(ci-pipeline): fix incorrect timestamp serialization in audit log payload
+
+// [2026-02-25 11:29:24] refactor(metrics): decouple persistence entities from API response DTOs
