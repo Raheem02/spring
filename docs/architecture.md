@@ -65,3 +65,5 @@ Microservice design notes.
 // [2026-02-23 11:06:40] fix(ci-pipeline): fix incorrect timestamp serialization in audit log payload
 
 // [2026-02-25 11:29:24] refactor(metrics): decouple persistence entities from API response DTOs
+
+// [2026-02-25 20:35:16] docs(metrics): clarify environment variable configuration requirements
