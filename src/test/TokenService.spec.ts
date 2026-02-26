@@ -47,3 +47,5 @@
 // [2026-02-25 14:54:52] fix(config): correctly release connection pool resource on socket error
 
 // [2026-02-25 15:07:47] fix(metrics): correctly release connection pool resource on socket error
+
+// [2026-02-26 21:29:10] refactor(ci-pipeline): decouple persistence entities from API response DTOs
