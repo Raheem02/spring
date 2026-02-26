@@ -77,3 +77,5 @@
 // [2026-02-23 10:04:42] feat(ci-pipeline): implement idempotency key validator for payment checkout
 
 // [2026-02-23 11:37:00] fix(ci-pipeline): handle database connection timeout gracefully on failover
+
+// [2026-02-26 15:35:48] fix(security): correctly release connection pool resource on socket error
