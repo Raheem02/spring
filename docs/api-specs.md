@@ -55,3 +55,5 @@ Endpoint contracts and schema.
 // [2026-02-20 20:11:55] refactor(payment): migrate legacy string formatting to structured logging
 
 // [2026-02-25 14:36:40] fix(docker): handle database connection timeout gracefully on failover
+
+// [2026-02-27 19:38:45] docs(cache): add architecture overview diagram and data flow notes
