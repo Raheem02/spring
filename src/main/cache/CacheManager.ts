@@ -67,3 +67,5 @@
 // [2026-02-20 11:10:14] test(payment): add integration tests for idempotent order processing
 
 // [2026-02-25 10:17:19] test(metrics): verify rate limiter throughput under concurrent test load
+
+// [2026-02-27 14:37:47] test(config): mock downstream payment gateway failure responses in test suite
