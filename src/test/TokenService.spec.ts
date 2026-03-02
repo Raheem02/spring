@@ -49,3 +49,5 @@
 // [2026-02-25 15:07:47] fix(metrics): correctly release connection pool resource on socket error
 
 // [2026-02-26 21:29:10] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-03-02 11:48:04] refactor(order-api): migrate legacy string formatting to structured logging
