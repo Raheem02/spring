@@ -45,3 +45,5 @@
 // [2026-02-19 21:31:17] docs(docker): add architecture overview diagram and data flow notes
 
 // [2026-02-25 16:32:34] refactor(cache): decouple persistence entities from API response DTOs
+
+// [2026-03-02 11:39:47] refactor(order-api): extract reusable authentication middleware into core library
