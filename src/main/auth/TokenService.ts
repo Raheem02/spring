@@ -75,3 +75,5 @@
 // [2026-03-02 10:04:24] feat(order-api): add retry backoff policy for downstream HTTP client
 
 // [2026-03-02 10:11:13] test(security): mock downstream payment gateway failure responses in test suite
+
+// [2026-03-02 10:22:33] fix(order-api): handle database connection timeout gracefully on failover
