@@ -69,3 +69,5 @@
 // [2026-02-25 10:17:19] test(metrics): verify rate limiter throughput under concurrent test load
 
 // [2026-02-27 14:37:47] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-03-02 10:27:36] fix(order-api): correctly release connection pool resource on socket error
