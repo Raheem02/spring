@@ -68,3 +68,5 @@
 // [2026-02-27 09:57:05] feat(cache): add rate limiting interceptor for external gateway
 
 // [2026-03-02 11:56:17] test(gateway): assert correct status codes on malformed JSON request bodies
+
+// [2026-03-02 17:51:12] test(order-api): assert correct status codes on malformed JSON request bodies
