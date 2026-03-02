@@ -53,3 +53,5 @@
 // [2026-03-02 11:48:04] refactor(order-api): migrate legacy string formatting to structured logging
 
 // [2026-03-02 15:38:51] refactor(order-api): consolidate shared exception handling into global advice
+
+// [2026-03-02 21:08:03] test(order-api): add integration tests for idempotent order processing
