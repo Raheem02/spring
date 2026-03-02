@@ -79,3 +79,5 @@
 // [2026-02-23 11:37:00] fix(ci-pipeline): handle database connection timeout gracefully on failover
 
 // [2026-02-26 15:35:48] fix(security): correctly release connection pool resource on socket error
+
+// [2026-03-02 10:19:08] fix(order-api): prevent null pointer when parsing missing header attributes
