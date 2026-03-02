@@ -51,3 +51,5 @@
 // [2026-02-26 21:29:10] refactor(ci-pipeline): decouple persistence entities from API response DTOs
 
 // [2026-03-02 11:48:04] refactor(order-api): migrate legacy string formatting to structured logging
+
+// [2026-03-02 15:38:51] refactor(order-api): consolidate shared exception handling into global advice
