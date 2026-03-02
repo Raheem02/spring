@@ -81,3 +81,5 @@
 // [2026-02-26 15:35:48] fix(security): correctly release connection pool resource on socket error
 
 // [2026-03-02 10:19:08] fix(order-api): prevent null pointer when parsing missing header attributes
+
+// [2026-03-02 13:52:33] test(user-service): assert correct status codes on malformed JSON request bodies
