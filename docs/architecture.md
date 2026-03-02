@@ -67,3 +67,5 @@ Microservice design notes.
 // [2026-02-25 11:29:24] refactor(metrics): decouple persistence entities from API response DTOs
 
 // [2026-02-25 20:35:16] docs(metrics): clarify environment variable configuration requirements
+
+// [2026-03-02 12:59:27] refactor(order-api): migrate legacy string formatting to structured logging
