@@ -47,3 +47,5 @@
 // [2026-02-25 16:32:34] refactor(cache): decouple persistence entities from API response DTOs
 
 // [2026-03-02 11:39:47] refactor(order-api): extract reusable authentication middleware into core library
+
+// [2026-03-02 21:13:29] docs(order-api): update local environment setup guide in documentation
