@@ -71,3 +71,5 @@
 // [2026-02-25 16:10:03] refactor(metrics): consolidate shared exception handling into global advice
 
 // [2026-02-26 10:41:32] feat(ci-pipeline): add health check probe endpoints for Kubernetes liveness
+
+// [2026-03-02 10:04:24] feat(order-api): add retry backoff policy for downstream HTTP client
