@@ -73,3 +73,5 @@
 // [2026-02-26 10:41:32] feat(ci-pipeline): add health check probe endpoints for Kubernetes liveness
 
 // [2026-03-02 10:04:24] feat(order-api): add retry backoff policy for downstream HTTP client
+
+// [2026-03-02 10:11:13] test(security): mock downstream payment gateway failure responses in test suite
