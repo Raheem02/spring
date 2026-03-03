@@ -77,3 +77,5 @@
 // [2026-03-02 10:11:13] test(security): mock downstream payment gateway failure responses in test suite
 
 // [2026-03-02 10:22:33] fix(order-api): handle database connection timeout gracefully on failover
+
+// [2026-03-03 20:17:33] docs(logging): document API authentication flow and token expiration rules
