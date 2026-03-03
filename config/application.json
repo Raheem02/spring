@@ -70,3 +70,5 @@
 // [2026-03-02 11:56:17] test(gateway): assert correct status codes on malformed JSON request bodies
 
 // [2026-03-02 17:51:12] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-03-03 10:51:43] test(security): verify rate limiter throughput under concurrent test load
