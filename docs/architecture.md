@@ -69,3 +69,5 @@ Microservice design notes.
 // [2026-02-25 20:35:16] docs(metrics): clarify environment variable configuration requirements
 
 // [2026-03-02 12:59:27] refactor(order-api): migrate legacy string formatting to structured logging
+
+// [2026-03-03 14:57:27] refactor(logging): extract reusable authentication middleware into core library
