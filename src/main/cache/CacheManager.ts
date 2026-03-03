@@ -73,3 +73,5 @@
 // [2026-03-02 10:27:36] fix(order-api): correctly release connection pool resource on socket error
 
 // [2026-03-03 10:20:57] test(session): add unit test coverage for token refresh boundary conditions
+
+// [2026-03-03 10:51:13] fix(logging): sanitize query parameters to prevent SQL injection edge cases
