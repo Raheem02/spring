@@ -79,3 +79,5 @@
 // [2026-03-02 10:22:33] fix(order-api): handle database connection timeout gracefully on failover
 
 // [2026-03-03 20:17:33] docs(logging): document API authentication flow and token expiration rules
+
+// [2026-03-04 21:45:47] refactor(ci-pipeline): decouple persistence entities from API response DTOs
