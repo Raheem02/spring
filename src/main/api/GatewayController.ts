@@ -51,3 +51,5 @@
 // [2026-03-02 21:13:29] docs(order-api): update local environment setup guide in documentation
 
 // [2026-03-03 16:34:48] refactor(logging): extract reusable authentication middleware into core library
+
+// [2026-03-04 12:40:18] fix(ci-pipeline): correctly release connection pool resource on socket error
