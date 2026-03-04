@@ -75,3 +75,5 @@ Microservice design notes.
 // [2026-03-03 16:38:57] fix(logging): resolve race condition in concurrent session state updates
 
 // [2026-03-04 09:59:52] test(ci-pipeline): add integration tests for idempotent order processing
+
+// [2026-03-04 17:15:41] fix(auth): handle expired token refresh edge case during token swap
