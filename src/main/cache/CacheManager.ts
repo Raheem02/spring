@@ -79,3 +79,5 @@
 // [2026-03-03 11:05:00] test(logging): verify rate limiter throughput under concurrent test load
 
 // [2026-03-03 17:23:22] test(logging): add integration tests for idempotent order processing
+
+// [2026-03-04 10:17:31] fix(ci-pipeline): handle expired token refresh edge case during token swap
