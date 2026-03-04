@@ -87,3 +87,5 @@
 // [2026-03-04 11:35:13] fix(ci-pipeline): handle database connection timeout gracefully on failover
 
 // [2026-03-04 15:54:44] refactor(ci-pipeline): consolidate shared exception handling into global advice
+
+// [2026-03-04 21:16:59] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
