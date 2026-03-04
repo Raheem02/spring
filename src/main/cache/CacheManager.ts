@@ -89,3 +89,5 @@
 // [2026-03-04 15:54:44] refactor(ci-pipeline): consolidate shared exception handling into global advice
 
 // [2026-03-04 21:16:59] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-03-04 21:55:15] docs(ci-pipeline): update local environment setup guide in documentation
