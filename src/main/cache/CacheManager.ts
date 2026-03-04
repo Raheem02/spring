@@ -81,3 +81,5 @@
 // [2026-03-03 17:23:22] test(logging): add integration tests for idempotent order processing
 
 // [2026-03-04 10:17:31] fix(ci-pipeline): handle expired token refresh edge case during token swap
+
+// [2026-03-04 10:29:44] refactor(ci-pipeline): consolidate shared exception handling into global advice
