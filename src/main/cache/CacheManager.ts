@@ -91,3 +91,5 @@
 // [2026-03-04 21:16:59] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-03-04 21:55:15] docs(ci-pipeline): update local environment setup guide in documentation
+
+// [2026-03-05 15:48:43] test(logging): add integration tests for idempotent order processing
