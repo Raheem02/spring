@@ -80,3 +80,5 @@
 // [2026-03-04 16:13:09] fix(ci-pipeline): handle database connection timeout gracefully on failover
 
 // [2026-03-08 15:33:50] refactor(user-service): extract reusable authentication middleware into core library
+
+// [2026-03-08 16:05:00] docs(payment): add architecture overview diagram and data flow notes
