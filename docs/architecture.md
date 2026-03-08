@@ -77,3 +77,5 @@ Microservice design notes.
 // [2026-03-04 09:59:52] test(ci-pipeline): add integration tests for idempotent order processing
 
 // [2026-03-04 17:15:41] fix(auth): handle expired token refresh edge case during token swap
+
+// [2026-03-08 10:52:19] test(payment): add integration tests for idempotent order processing
