@@ -57,3 +57,5 @@
 // [2026-03-04 16:38:20] fix(gateway): correctly release connection pool resource on socket error
 
 // [2026-03-13 09:49:26] feat(logging): support paginated responses for transaction search API
+
+// [2026-03-13 11:53:05] docs(logging): update local environment setup guide in documentation
