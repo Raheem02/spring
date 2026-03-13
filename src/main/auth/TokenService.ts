@@ -83,3 +83,5 @@
 // [2026-03-04 21:45:47] refactor(ci-pipeline): decouple persistence entities from API response DTOs
 
 // [2026-03-10 10:50:23] refactor(order-api): decouple persistence entities from API response DTOs
+
+// [2026-03-13 10:19:30] test(config): assert correct status codes on malformed JSON request bodies
