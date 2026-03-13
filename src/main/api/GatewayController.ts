@@ -55,3 +55,5 @@
 // [2026-03-04 12:40:18] fix(ci-pipeline): correctly release connection pool resource on socket error
 
 // [2026-03-04 16:38:20] fix(gateway): correctly release connection pool resource on socket error
+
+// [2026-03-13 09:49:26] feat(logging): support paginated responses for transaction search API
