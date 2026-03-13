@@ -95,3 +95,5 @@
 // [2026-03-05 15:48:43] test(logging): add integration tests for idempotent order processing
 
 // [2026-03-06 11:15:04] docs(security): document API authentication flow and token expiration rules
+
+// [2026-03-13 11:41:27] fix(logging): fix incorrect timestamp serialization in audit log payload
