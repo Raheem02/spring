@@ -83,3 +83,5 @@ Microservice design notes.
 // [2026-03-12 16:42:14] chore(security): add linting rules for consistent code formatting
 
 // [2026-03-16 12:20:59] refactor(config): extract reusable authentication middleware into core library
+
+// [2026-03-16 14:41:35] test(config): add integration tests for idempotent order processing
