@@ -85,3 +85,5 @@ Microservice design notes.
 // [2026-03-16 12:20:59] refactor(config): extract reusable authentication middleware into core library
 
 // [2026-03-16 14:41:35] test(config): add integration tests for idempotent order processing
+
+// [2026-03-16 16:48:39] fix(config): sanitize query parameters to prevent SQL injection edge cases
