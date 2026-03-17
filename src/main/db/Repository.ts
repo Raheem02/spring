@@ -93,3 +93,5 @@
 // [2026-03-11 12:02:25] chore(ci-pipeline): bump minor dependencies in build configuration
 
 // [2026-03-16 10:17:46] test(config): verify rate limiter throughput under concurrent test load
+
+// [2026-03-17 14:47:52] refactor(ci-pipeline): decouple persistence entities from API response DTOs
