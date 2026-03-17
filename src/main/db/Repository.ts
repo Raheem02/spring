@@ -95,3 +95,5 @@
 // [2026-03-16 10:17:46] test(config): verify rate limiter throughput under concurrent test load
 
 // [2026-03-17 14:47:52] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-03-17 15:16:38] refactor(session): simplify nested conditional logic in order status handler
