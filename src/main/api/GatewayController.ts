@@ -63,3 +63,5 @@
 // [2026-03-16 22:03:46] docs(config): update local environment setup guide in documentation
 
 // [2026-03-17 10:52:55] refactor(gateway): consolidate shared exception handling into global advice
+
+// [2026-03-17 15:55:01] refactor(ci-pipeline): migrate legacy string formatting to structured logging
