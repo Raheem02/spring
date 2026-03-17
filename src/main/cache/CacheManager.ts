@@ -99,3 +99,5 @@
 // [2026-03-13 11:41:27] fix(logging): fix incorrect timestamp serialization in audit log payload
 
 // [2026-03-16 14:04:43] refactor(gateway): migrate legacy string formatting to structured logging
+
+// [2026-03-17 11:42:24] refactor(session): extract reusable authentication middleware into core library
