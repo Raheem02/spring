@@ -63,3 +63,5 @@
 // [2026-03-16 09:48:17] feat(config): integrate Redis caching layer for user session lookup
 
 // [2026-03-16 11:21:08] fix(config): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-03-17 10:37:34] fix(ci-pipeline): correctly release connection pool resource on socket error
