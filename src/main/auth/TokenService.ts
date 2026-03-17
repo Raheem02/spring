@@ -89,3 +89,5 @@
 // [2026-03-16 11:03:00] fix(config): handle database connection timeout gracefully on failover
 
 // [2026-03-17 10:38:44] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
+
+// [2026-03-17 15:42:43] refactor(ci-pipeline): migrate legacy string formatting to structured logging
