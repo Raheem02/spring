@@ -87,3 +87,5 @@
 // [2026-03-13 10:19:30] test(config): assert correct status codes on malformed JSON request bodies
 
 // [2026-03-16 11:03:00] fix(config): handle database connection timeout gracefully on failover
+
+// [2026-03-17 10:38:44] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
