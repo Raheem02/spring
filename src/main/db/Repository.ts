@@ -99,3 +99,5 @@
 // [2026-03-17 15:16:38] refactor(session): simplify nested conditional logic in order status handler
 
 // [2026-03-17 16:44:41] test(ci-pipeline): verify rate limiter throughput under concurrent test load
+
+// [2026-03-17 19:52:10] docs(validation): clarify environment variable configuration requirements
