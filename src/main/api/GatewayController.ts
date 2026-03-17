@@ -61,3 +61,5 @@
 // [2026-03-13 11:53:05] docs(logging): update local environment setup guide in documentation
 
 // [2026-03-16 22:03:46] docs(config): update local environment setup guide in documentation
+
+// [2026-03-17 10:52:55] refactor(gateway): consolidate shared exception handling into global advice
