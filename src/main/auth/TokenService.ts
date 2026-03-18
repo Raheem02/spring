@@ -93,3 +93,5 @@
 // [2026-03-17 15:42:43] refactor(ci-pipeline): migrate legacy string formatting to structured logging
 
 // [2026-03-17 18:49:33] fix(config): handle expired token refresh edge case during token swap
+
+// [2026-03-18 21:39:50] docs(ci-pipeline): add architecture overview diagram and data flow notes
