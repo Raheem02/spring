@@ -67,3 +67,5 @@
 // [2026-03-17 10:37:34] fix(ci-pipeline): correctly release connection pool resource on socket error
 
 // [2026-03-17 17:22:42] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-03-18 15:51:18] refactor(ci-pipeline): migrate legacy string formatting to structured logging
