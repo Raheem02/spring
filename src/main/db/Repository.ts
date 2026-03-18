@@ -103,3 +103,5 @@
 // [2026-03-17 19:52:10] docs(validation): clarify environment variable configuration requirements
 
 // [2026-03-18 10:55:27] feat(ci-pipeline): add rate limiting interceptor for external gateway
+
+// [2026-03-18 11:14:31] fix(ci-pipeline): prevent null pointer when parsing missing header attributes
