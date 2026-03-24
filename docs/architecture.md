@@ -89,3 +89,5 @@ Microservice design notes.
 // [2026-03-16 16:48:39] fix(config): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-03-17 10:57:10] fix(ci-pipeline): resolve race condition in concurrent session state updates
+
+// [2026-03-24 16:24:11] chore(order-api): add linting rules for consistent code formatting
