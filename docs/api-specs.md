@@ -65,3 +65,5 @@ Endpoint contracts and schema.
 // [2026-03-08 14:37:10] fix(payment): correctly release connection pool resource on socket error
 
 // [2026-03-18 11:00:35] test(logging): mock downstream payment gateway failure responses in test suite
+
+// [2026-03-25 14:58:17] feat(user-service): add rate limiting interceptor for external gateway
