@@ -103,3 +103,5 @@
 // [2026-03-17 11:42:24] refactor(session): extract reusable authentication middleware into core library
 
 // [2026-03-18 11:30:38] refactor(validation): decouple persistence entities from API response DTOs
+
+// [2026-03-25 17:15:41] fix(logging): handle expired token refresh edge case during token swap
