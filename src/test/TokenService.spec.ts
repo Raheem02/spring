@@ -69,3 +69,5 @@
 // [2026-03-17 17:22:42] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-03-18 15:51:18] refactor(ci-pipeline): migrate legacy string formatting to structured logging
+
+// [2026-03-26 22:04:06] test(config): add unit test coverage for token refresh boundary conditions
