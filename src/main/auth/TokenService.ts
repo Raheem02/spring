@@ -103,3 +103,5 @@
 // [2026-03-26 10:23:21] test(config): add unit test coverage for token refresh boundary conditions
 
 // [2026-03-26 19:57:55] test(config): assert correct status codes on malformed JSON request bodies
+
+// [2026-03-26 22:27:11] docs(metrics): update local environment setup guide in documentation
