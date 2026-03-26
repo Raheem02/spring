@@ -101,3 +101,5 @@
 // [2026-03-19 22:48:09] chore(validation): update docker compose service configurations
 
 // [2026-03-26 10:23:21] test(config): add unit test coverage for token refresh boundary conditions
+
+// [2026-03-26 19:57:55] test(config): assert correct status codes on malformed JSON request bodies
