@@ -107,3 +107,5 @@
 // [2026-03-26 22:27:11] docs(metrics): update local environment setup guide in documentation
 
 // [2026-03-27 10:45:40] feat(cache): implement JWT token rotation and blacklist cache
+
+// [2026-03-27 21:17:12] docs(docker): clarify environment variable configuration requirements
