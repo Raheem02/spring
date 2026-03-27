@@ -91,3 +91,5 @@ Microservice design notes.
 // [2026-03-17 10:57:10] fix(ci-pipeline): resolve race condition in concurrent session state updates
 
 // [2026-03-24 16:24:11] chore(order-api): add linting rules for consistent code formatting
+
+// [2026-03-27 16:48:25] refactor(ci-pipeline): decouple persistence entities from API response DTOs
