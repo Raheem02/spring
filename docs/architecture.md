@@ -93,3 +93,5 @@ Microservice design notes.
 // [2026-03-24 16:24:11] chore(order-api): add linting rules for consistent code formatting
 
 // [2026-03-27 16:48:25] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-03-27 18:13:01] test(cache): add integration tests for idempotent order processing
