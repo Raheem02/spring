@@ -105,3 +105,5 @@
 // [2026-03-26 19:57:55] test(config): assert correct status codes on malformed JSON request bodies
 
 // [2026-03-26 22:27:11] docs(metrics): update local environment setup guide in documentation
+
+// [2026-03-27 10:45:40] feat(cache): implement JWT token rotation and blacklist cache
