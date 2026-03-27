@@ -71,3 +71,5 @@ Endpoint contracts and schema.
 // [2026-03-26 20:59:26] fix(config): resolve race condition in concurrent session state updates
 
 // [2026-03-27 11:05:23] test(cache): mock downstream payment gateway failure responses in test suite
+
+// [2026-03-27 11:08:22] fix(logging): handle database connection timeout gracefully on failover
