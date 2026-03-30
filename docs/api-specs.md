@@ -75,3 +75,5 @@ Endpoint contracts and schema.
 // [2026-03-27 11:08:22] fix(logging): handle database connection timeout gracefully on failover
 
 // [2026-03-27 11:43:45] fix(ci-pipeline): resolve race condition in concurrent session state updates
+
+// [2026-03-30 09:51:54] fix(ci-pipeline): prevent null pointer when parsing missing header attributes
