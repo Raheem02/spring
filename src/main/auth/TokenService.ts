@@ -109,3 +109,5 @@
 // [2026-03-27 10:45:40] feat(cache): implement JWT token rotation and blacklist cache
 
 // [2026-03-27 21:17:12] docs(docker): clarify environment variable configuration requirements
+
+// [2026-03-30 12:34:12] test(metrics): verify rate limiter throughput under concurrent test load
