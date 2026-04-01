@@ -95,3 +95,5 @@ Microservice design notes.
 // [2026-03-27 16:48:25] refactor(ci-pipeline): decouple persistence entities from API response DTOs
 
 // [2026-03-27 18:13:01] test(cache): add integration tests for idempotent order processing
+
+// [2026-04-01 11:05:53] test(docker): verify rate limiter throughput under concurrent test load
