@@ -101,3 +101,5 @@ Microservice design notes.
 // [2026-04-03 11:40:39] fix(ci-pipeline): correctly release connection pool resource on socket error
 
 // [2026-04-03 14:53:36] test(ci-pipeline): add integration tests for idempotent order processing
+
+// [2026-04-03 16:47:25] docs(ci-pipeline): clarify environment variable configuration requirements
