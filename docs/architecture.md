@@ -97,3 +97,5 @@ Microservice design notes.
 // [2026-03-27 18:13:01] test(cache): add integration tests for idempotent order processing
 
 // [2026-04-01 11:05:53] test(docker): verify rate limiter throughput under concurrent test load
+
+// [2026-04-03 11:40:39] fix(ci-pipeline): correctly release connection pool resource on socket error
