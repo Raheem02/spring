@@ -111,3 +111,5 @@
 // [2026-03-27 21:17:12] docs(docker): clarify environment variable configuration requirements
 
 // [2026-03-30 12:34:12] test(metrics): verify rate limiter throughput under concurrent test load
+
+// [2026-04-06 09:48:46] feat(ci-pipeline): support paginated responses for transaction search API
