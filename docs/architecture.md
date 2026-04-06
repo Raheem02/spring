@@ -103,3 +103,5 @@ Microservice design notes.
 // [2026-04-03 14:53:36] test(ci-pipeline): add integration tests for idempotent order processing
 
 // [2026-04-03 16:47:25] docs(ci-pipeline): clarify environment variable configuration requirements
+
+// [2026-04-06 16:24:56] test(ci-pipeline): add unit test coverage for token refresh boundary conditions
