@@ -108,3 +108,5 @@
 // [2026-04-02 13:17:25] test(security): mock downstream payment gateway failure responses in test suite
 
 // [2026-04-06 12:04:48] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-04-06 18:09:50] docs(ci-pipeline): update local environment setup guide in documentation
