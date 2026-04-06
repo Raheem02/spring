@@ -113,3 +113,5 @@
 // [2026-03-30 12:34:12] test(metrics): verify rate limiter throughput under concurrent test load
 
 // [2026-04-06 09:48:46] feat(ci-pipeline): support paginated responses for transaction search API
+
+// [2026-04-06 10:03:09] test(ci-pipeline): add integration tests for idempotent order processing
