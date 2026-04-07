@@ -73,3 +73,5 @@
 // [2026-03-26 22:04:06] test(config): add unit test coverage for token refresh boundary conditions
 
 // [2026-03-27 16:32:44] test(cache): mock downstream payment gateway failure responses in test suite
+
+// [2026-04-07 09:48:58] fix(order-api): handle database connection timeout gracefully on failover
