@@ -75,3 +75,5 @@
 // [2026-03-27 16:32:44] test(cache): mock downstream payment gateway failure responses in test suite
 
 // [2026-04-07 09:48:58] fix(order-api): handle database connection timeout gracefully on failover
+
+// [2026-04-07 14:38:13] refactor(cache): simplify nested conditional logic in order status handler
