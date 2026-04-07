@@ -115,3 +115,5 @@
 // [2026-04-06 11:07:39] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-04-07 10:54:34] fix(security): handle database connection timeout gracefully on failover
+
+// [2026-04-07 11:32:55] fix(security): fix incorrect timestamp serialization in audit log payload
