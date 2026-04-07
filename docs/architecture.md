@@ -107,3 +107,5 @@ Microservice design notes.
 // [2026-04-06 16:24:56] test(ci-pipeline): add unit test coverage for token refresh boundary conditions
 
 // [2026-04-07 10:58:14] fix(order-api): fix incorrect timestamp serialization in audit log payload
+
+// [2026-04-07 15:48:18] refactor(security): decouple persistence entities from API response DTOs
