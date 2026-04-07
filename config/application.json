@@ -114,3 +114,5 @@
 // [2026-04-07 09:48:41] feat(security): support paginated responses for transaction search API
 
 // [2026-04-07 14:15:02] refactor(security): decouple persistence entities from API response DTOs
+
+// [2026-04-07 16:51:31] docs(security): add architecture overview diagram and data flow notes
