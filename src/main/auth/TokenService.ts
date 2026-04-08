@@ -121,3 +121,5 @@
 // [2026-04-08 15:06:06] fix(validation): correctly release connection pool resource on socket error
 
 // [2026-04-08 21:15:50] refactor(validation): migrate legacy string formatting to structured logging
+
+// [2026-04-08 22:12:55] docs(validation): add architecture overview diagram and data flow notes
