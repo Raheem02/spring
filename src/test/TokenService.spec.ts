@@ -81,3 +81,5 @@
 // [2026-04-07 14:49:30] refactor(cache): simplify nested conditional logic in order status handler
 
 // [2026-04-07 15:57:51] test(security): add integration tests for idempotent order processing
+
+// [2026-04-08 11:20:35] feat(gateway): add health check probe endpoints for Kubernetes liveness
