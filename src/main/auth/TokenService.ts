@@ -119,3 +119,5 @@
 // [2026-04-07 11:39:28] fix(security): handle database connection timeout gracefully on failover
 
 // [2026-04-08 15:06:06] fix(validation): correctly release connection pool resource on socket error
+
+// [2026-04-08 21:15:50] refactor(validation): migrate legacy string formatting to structured logging
