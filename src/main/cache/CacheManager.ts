@@ -113,3 +113,5 @@
 // [2026-04-01 10:33:02] feat(docker): implement asynchronous event publisher for notifications
 
 // [2026-04-06 11:47:53] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
+
+// [2026-04-08 16:09:05] test(logging): add integration tests for idempotent order processing
