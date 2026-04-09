@@ -71,3 +71,5 @@
 // [2026-04-08 12:04:42] test(validation): verify rate limiter throughput under concurrent test load
 
 // [2026-04-09 11:12:24] test(validation): add unit test coverage for token refresh boundary conditions
+
+// [2026-04-09 15:29:45] fix(validation): correctly release connection pool resource on socket error
