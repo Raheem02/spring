@@ -83,3 +83,5 @@ Endpoint contracts and schema.
 // [2026-04-07 09:48:51] test(security): assert correct status codes on malformed JSON request bodies
 
 // [2026-04-07 15:11:02] refactor(security): extract reusable authentication middleware into core library
+
+// [2026-04-09 11:02:57] feat(metrics): add rate limiting interceptor for external gateway
