@@ -117,3 +117,5 @@
 // [2026-04-07 10:54:34] fix(security): handle database connection timeout gracefully on failover
 
 // [2026-04-07 11:32:55] fix(security): fix incorrect timestamp serialization in audit log payload
+
+// [2026-04-09 16:41:49] fix(validation): correctly release connection pool resource on socket error
