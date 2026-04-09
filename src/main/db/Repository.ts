@@ -119,3 +119,5 @@
 // [2026-04-07 11:32:55] fix(security): fix incorrect timestamp serialization in audit log payload
 
 // [2026-04-09 16:41:49] fix(validation): correctly release connection pool resource on socket error
+
+// [2026-04-09 20:26:11] docs(validation): update local environment setup guide in documentation
