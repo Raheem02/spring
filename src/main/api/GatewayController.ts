@@ -75,3 +75,5 @@
 // [2026-04-09 15:29:45] fix(validation): correctly release connection pool resource on socket error
 
 // [2026-04-09 16:08:04] fix(validation): prevent null pointer when parsing missing header attributes
+
+// [2026-04-13 20:58:43] test(metrics): add unit test coverage for token refresh boundary conditions
