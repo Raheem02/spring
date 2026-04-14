@@ -89,3 +89,5 @@ Endpoint contracts and schema.
 // [2026-04-10 10:13:23] feat(user-service): implement JWT token rotation and blacklist cache
 
 // [2026-04-14 10:03:42] feat(ci-pipeline): add rate limiting interceptor for external gateway
+
+// [2026-04-14 10:24:16] fix(ci-pipeline): correctly release connection pool resource on socket error
