@@ -85,3 +85,5 @@
 // [2026-04-08 11:20:35] feat(gateway): add health check probe endpoints for Kubernetes liveness
 
 // [2026-04-10 21:37:00] docs(payment): update local environment setup guide in documentation
+
+// [2026-04-14 15:05:39] refactor(ci-pipeline): extract reusable authentication middleware into core library
