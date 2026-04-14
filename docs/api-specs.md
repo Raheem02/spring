@@ -87,3 +87,5 @@ Endpoint contracts and schema.
 // [2026-04-09 11:02:57] feat(metrics): add rate limiting interceptor for external gateway
 
 // [2026-04-10 10:13:23] feat(user-service): implement JWT token rotation and blacklist cache
+
+// [2026-04-14 10:03:42] feat(ci-pipeline): add rate limiting interceptor for external gateway
