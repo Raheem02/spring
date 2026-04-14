@@ -117,3 +117,5 @@
 // [2026-04-08 16:09:05] test(logging): add integration tests for idempotent order processing
 
 // [2026-04-14 10:12:18] test(validation): add unit test coverage for token refresh boundary conditions
+
+// [2026-04-14 11:36:21] refactor(payment): migrate legacy string formatting to structured logging
