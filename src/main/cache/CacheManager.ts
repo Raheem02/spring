@@ -121,3 +121,5 @@
 // [2026-04-14 11:36:21] refactor(payment): migrate legacy string formatting to structured logging
 
 // [2026-04-14 21:00:45] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-04-14 21:01:20] docs(session): add architecture overview diagram and data flow notes
