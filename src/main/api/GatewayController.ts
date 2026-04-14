@@ -77,3 +77,5 @@
 // [2026-04-09 16:08:04] fix(validation): prevent null pointer when parsing missing header attributes
 
 // [2026-04-13 20:58:43] test(metrics): add unit test coverage for token refresh boundary conditions
+
+// [2026-04-14 16:42:58] test(ci-pipeline): assert correct status codes on malformed JSON request bodies
