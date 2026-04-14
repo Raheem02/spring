@@ -125,3 +125,5 @@
 // [2026-04-08 22:12:55] docs(validation): add architecture overview diagram and data flow notes
 
 // [2026-04-14 12:44:49] fix(ci-pipeline): fix incorrect timestamp serialization in audit log payload
+
+// [2026-04-14 16:04:50] fix(ci-pipeline): prevent null pointer when parsing missing header attributes
