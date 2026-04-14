@@ -111,3 +111,5 @@ Microservice design notes.
 // [2026-04-07 15:48:18] refactor(security): decouple persistence entities from API response DTOs
 
 // [2026-04-10 19:48:53] test(payment): assert correct status codes on malformed JSON request bodies
+
+// [2026-04-14 10:34:39] fix(database): fix incorrect timestamp serialization in audit log payload
