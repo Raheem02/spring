@@ -87,3 +87,5 @@
 // [2026-04-10 21:37:00] docs(payment): update local environment setup guide in documentation
 
 // [2026-04-14 15:05:39] refactor(ci-pipeline): extract reusable authentication middleware into core library
+
+// [2026-04-14 16:17:04] refactor(ci-pipeline): decouple persistence entities from API response DTOs
