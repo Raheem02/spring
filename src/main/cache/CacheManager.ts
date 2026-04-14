@@ -119,3 +119,5 @@
 // [2026-04-14 10:12:18] test(validation): add unit test coverage for token refresh boundary conditions
 
 // [2026-04-14 11:36:21] refactor(payment): migrate legacy string formatting to structured logging
+
+// [2026-04-14 21:00:45] refactor(ci-pipeline): decouple persistence entities from API response DTOs
