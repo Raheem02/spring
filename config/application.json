@@ -120,3 +120,5 @@
 // [2026-04-08 20:32:14] test(cache): add integration tests for idempotent order processing
 
 // [2026-04-14 10:29:00] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-04-15 15:44:43] refactor(order-api): consolidate shared exception handling into global advice
