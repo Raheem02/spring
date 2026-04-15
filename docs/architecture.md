@@ -117,3 +117,5 @@ Microservice design notes.
 // [2026-04-14 14:36:07] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
 
 // [2026-04-15 09:50:25] feat(order-api): integrate Redis caching layer for user session lookup
+
+// [2026-04-15 11:00:34] test(order-api): add unit test coverage for token refresh boundary conditions
