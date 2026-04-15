@@ -89,3 +89,5 @@
 // [2026-04-14 15:05:39] refactor(ci-pipeline): extract reusable authentication middleware into core library
 
 // [2026-04-14 16:17:04] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-04-15 11:32:06] fix(order-api): handle database connection timeout gracefully on failover
