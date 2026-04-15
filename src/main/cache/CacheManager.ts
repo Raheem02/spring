@@ -123,3 +123,5 @@
 // [2026-04-14 21:00:45] refactor(ci-pipeline): decouple persistence entities from API response DTOs
 
 // [2026-04-14 21:01:20] docs(session): add architecture overview diagram and data flow notes
+
+// [2026-04-15 21:49:29] docs(order-api): add architecture overview diagram and data flow notes
