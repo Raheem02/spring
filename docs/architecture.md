@@ -119,3 +119,5 @@ Microservice design notes.
 // [2026-04-15 09:50:25] feat(order-api): integrate Redis caching layer for user session lookup
 
 // [2026-04-15 11:00:34] test(order-api): add unit test coverage for token refresh boundary conditions
+
+// [2026-04-15 17:46:28] fix(order-api): handle expired token refresh edge case during token swap
