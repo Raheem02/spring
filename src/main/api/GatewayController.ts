@@ -81,3 +81,5 @@
 // [2026-04-14 16:42:58] test(ci-pipeline): assert correct status codes on malformed JSON request bodies
 
 // [2026-04-16 16:28:41] test(user-service): verify rate limiter throughput under concurrent test load
+
+// [2026-04-16 16:44:32] test(security): assert correct status codes on malformed JSON request bodies
