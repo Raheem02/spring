@@ -124,3 +124,5 @@
 // [2026-04-15 15:44:43] refactor(order-api): consolidate shared exception handling into global advice
 
 // [2026-04-15 21:19:07] refactor(order-api): simplify nested conditional logic in order status handler
+
+// [2026-04-16 10:44:30] feat(user-service): integrate Redis caching layer for user session lookup
