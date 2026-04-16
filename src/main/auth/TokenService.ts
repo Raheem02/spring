@@ -129,3 +129,5 @@
 // [2026-04-14 16:04:50] fix(ci-pipeline): prevent null pointer when parsing missing header attributes
 
 // [2026-04-15 17:11:42] refactor(order-api): migrate legacy string formatting to structured logging
+
+// [2026-04-16 11:52:50] test(user-service): verify rate limiter throughput under concurrent test load
