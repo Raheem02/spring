@@ -79,3 +79,5 @@
 // [2026-04-13 20:58:43] test(metrics): add unit test coverage for token refresh boundary conditions
 
 // [2026-04-14 16:42:58] test(ci-pipeline): assert correct status codes on malformed JSON request bodies
+
+// [2026-04-16 16:28:41] test(user-service): verify rate limiter throughput under concurrent test load
