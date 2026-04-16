@@ -129,3 +129,5 @@
 // [2026-04-16 15:20:11] test(user-service): verify rate limiter throughput under concurrent test load
 
 // [2026-04-16 15:54:07] test(user-service): mock downstream payment gateway failure responses in test suite
+
+// [2026-04-16 20:56:23] docs(config): clarify environment variable configuration requirements
