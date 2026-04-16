@@ -121,3 +121,5 @@ Microservice design notes.
 // [2026-04-15 11:00:34] test(order-api): add unit test coverage for token refresh boundary conditions
 
 // [2026-04-15 17:46:28] fix(order-api): handle expired token refresh edge case during token swap
+
+// [2026-04-16 14:13:31] refactor(user-service): migrate legacy string formatting to structured logging
