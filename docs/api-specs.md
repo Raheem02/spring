@@ -95,3 +95,5 @@ Endpoint contracts and schema.
 // [2026-04-14 20:09:50] fix(config): fix incorrect timestamp serialization in audit log payload
 
 // [2026-04-14 20:16:35] refactor(ci-pipeline): migrate legacy string formatting to structured logging
+
+// [2026-04-16 12:09:23] fix(user-service): handle expired token refresh edge case during token swap
