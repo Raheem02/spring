@@ -127,3 +127,5 @@
 // [2026-04-15 16:31:26] test(session): add unit test coverage for token refresh boundary conditions
 
 // [2026-04-16 15:20:11] test(user-service): verify rate limiter throughput under concurrent test load
+
+// [2026-04-16 15:54:07] test(user-service): mock downstream payment gateway failure responses in test suite
