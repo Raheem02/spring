@@ -131,3 +131,5 @@ Microservice design notes.
 // [2026-04-17 11:38:00] refactor(database): consolidate shared exception handling into global advice
 
 // [2026-04-17 15:52:54] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-04-17 21:57:30] docs(database): clarify environment variable configuration requirements
