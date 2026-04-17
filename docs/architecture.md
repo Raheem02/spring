@@ -125,3 +125,5 @@ Microservice design notes.
 // [2026-04-16 14:13:31] refactor(user-service): migrate legacy string formatting to structured logging
 
 // [2026-04-16 15:38:33] test(user-service): add integration tests for idempotent order processing
+
+// [2026-04-17 11:11:40] fix(database): fix incorrect timestamp serialization in audit log payload
