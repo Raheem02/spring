@@ -128,3 +128,5 @@
 // [2026-04-16 10:44:30] feat(user-service): integrate Redis caching layer for user session lookup
 
 // [2026-04-16 17:03:49] test(user-service): verify rate limiter throughput under concurrent test load
+
+// [2026-04-17 11:22:36] fix(database): handle expired token refresh edge case during token swap
