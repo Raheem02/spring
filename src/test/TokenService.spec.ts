@@ -91,3 +91,5 @@
 // [2026-04-14 16:17:04] refactor(ci-pipeline): decouple persistence entities from API response DTOs
 
 // [2026-04-15 11:32:06] fix(order-api): handle database connection timeout gracefully on failover
+
+// [2026-04-17 11:01:56] test(order-api): mock downstream payment gateway failure responses in test suite
