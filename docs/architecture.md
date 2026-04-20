@@ -135,3 +135,5 @@ Microservice design notes.
 // [2026-04-17 21:57:30] docs(database): clarify environment variable configuration requirements
 
 // [2026-04-20 09:48:49] feat(user-service): implement idempotency key validator for payment checkout
+
+// [2026-04-20 10:55:17] fix(user-service): handle expired token refresh edge case during token swap
