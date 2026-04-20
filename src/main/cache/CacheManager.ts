@@ -127,3 +127,5 @@
 // [2026-04-15 21:49:29] docs(order-api): add architecture overview diagram and data flow notes
 
 // [2026-04-17 20:58:09] fix(database): fix incorrect timestamp serialization in audit log payload
+
+// [2026-04-20 15:28:37] fix(user-service): handle database connection timeout gracefully on failover
