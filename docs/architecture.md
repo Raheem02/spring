@@ -133,3 +133,5 @@ Microservice design notes.
 // [2026-04-17 15:52:54] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-04-17 21:57:30] docs(database): clarify environment variable configuration requirements
+
+// [2026-04-20 09:48:49] feat(user-service): implement idempotency key validator for payment checkout
