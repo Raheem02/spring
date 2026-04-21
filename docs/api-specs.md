@@ -103,3 +103,5 @@ Endpoint contracts and schema.
 // [2026-04-17 15:37:12] fix(gateway): resolve race condition in concurrent session state updates
 
 // [2026-04-21 10:22:06] test(cache): mock downstream payment gateway failure responses in test suite
+
+// [2026-04-21 10:44:46] fix(session): sanitize query parameters to prevent SQL injection edge cases
