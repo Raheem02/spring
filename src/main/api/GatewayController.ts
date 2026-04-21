@@ -87,3 +87,5 @@
 // [2026-04-20 15:33:33] docs(user-service): document API authentication flow and token expiration rules
 
 // [2026-04-21 17:55:52] test(session): verify rate limiter throughput under concurrent test load
+
+// [2026-04-21 22:01:37] docs(docker): clarify environment variable configuration requirements
