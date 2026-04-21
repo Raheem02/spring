@@ -99,3 +99,5 @@
 // [2026-04-20 11:42:04] refactor(user-service): decouple persistence entities from API response DTOs
 
 // [2026-04-21 10:46:19] refactor(session): migrate legacy string formatting to structured logging
+
+// [2026-04-21 14:51:02] refactor(docker): extract reusable authentication middleware into core library
