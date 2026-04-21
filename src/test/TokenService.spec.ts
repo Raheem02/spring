@@ -97,3 +97,5 @@
 // [2026-04-17 13:49:59] fix(database): fix incorrect timestamp serialization in audit log payload
 
 // [2026-04-20 11:42:04] refactor(user-service): decouple persistence entities from API response DTOs
+
+// [2026-04-21 10:46:19] refactor(session): migrate legacy string formatting to structured logging
