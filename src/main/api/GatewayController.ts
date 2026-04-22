@@ -91,3 +91,5 @@
 // [2026-04-21 22:01:37] docs(docker): clarify environment variable configuration requirements
 
 // [2026-04-22 10:51:29] feat(logging): add retry backoff policy for downstream HTTP client
+
+// [2026-04-22 11:36:53] test(auth): mock downstream payment gateway failure responses in test suite
