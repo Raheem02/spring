@@ -139,3 +139,5 @@ Microservice design notes.
 // [2026-04-20 10:55:17] fix(user-service): handle expired token refresh edge case during token swap
 
 // [2026-04-21 10:08:47] feat(session): implement idempotency key validator for payment checkout
+
+// [2026-04-23 21:38:10] test(gateway): add integration tests for idempotent order processing
