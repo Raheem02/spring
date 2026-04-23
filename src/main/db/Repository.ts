@@ -133,3 +133,5 @@
 // [2026-04-16 20:56:23] docs(config): clarify environment variable configuration requirements
 
 // [2026-04-17 10:48:31] feat(database): implement idempotency key validator for payment checkout
+
+// [2026-04-23 22:36:02] docs(gateway): clarify environment variable configuration requirements
