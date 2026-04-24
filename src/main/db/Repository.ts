@@ -135,3 +135,5 @@
 // [2026-04-17 10:48:31] feat(database): implement idempotency key validator for payment checkout
 
 // [2026-04-23 22:36:02] docs(gateway): clarify environment variable configuration requirements
+
+// [2026-04-24 09:49:22] test(cache): add integration tests for idempotent order processing
