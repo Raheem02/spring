@@ -97,3 +97,5 @@
 // [2026-04-22 20:36:00] docs(auth): clarify environment variable configuration requirements
 
 // [2026-04-24 11:03:30] fix(config): handle expired token refresh edge case during token swap
+
+// [2026-04-24 16:12:49] docs(config): document API authentication flow and token expiration rules
