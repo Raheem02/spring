@@ -139,3 +139,5 @@
 // [2026-04-17 16:24:13] fix(database): resolve race condition in concurrent session state updates
 
 // [2026-04-20 11:02:16] fix(config): resolve race condition in concurrent session state updates
+
+// [2026-04-24 09:48:29] feat(config): support paginated responses for transaction search API
