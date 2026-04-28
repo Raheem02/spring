@@ -99,3 +99,5 @@
 // [2026-04-24 11:03:30] fix(config): handle expired token refresh edge case during token swap
 
 // [2026-04-24 16:12:49] docs(config): document API authentication flow and token expiration rules
+
+// [2026-04-28 16:36:17] docs(database): document API authentication flow and token expiration rules
