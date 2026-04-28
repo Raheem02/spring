@@ -137,3 +137,5 @@
 // [2026-04-23 22:36:02] docs(gateway): clarify environment variable configuration requirements
 
 // [2026-04-24 09:49:22] test(cache): add integration tests for idempotent order processing
+
+// [2026-04-28 14:58:48] test(database): mock downstream payment gateway failure responses in test suite
