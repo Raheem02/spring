@@ -145,3 +145,5 @@ Microservice design notes.
 // [2026-04-30 10:51:13] fix(user-service): resolve race condition in concurrent session state updates
 
 // [2026-04-30 10:51:31] refactor(config): simplify nested conditional logic in order status handler
+
+// [2026-04-30 14:29:44] fix(order-api): handle expired token refresh edge case during token swap
