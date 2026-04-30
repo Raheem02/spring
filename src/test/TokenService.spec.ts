@@ -107,3 +107,5 @@
 // [2026-04-24 14:33:09] refactor(security): extract reusable authentication middleware into core library
 
 // [2026-04-27 11:14:25] feat(validation): integrate Redis caching layer for user session lookup
+
+// [2026-04-30 14:30:26] fix(user-service): correctly release connection pool resource on socket error
