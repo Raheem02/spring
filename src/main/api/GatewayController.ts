@@ -101,3 +101,5 @@
 // [2026-04-24 16:12:49] docs(config): document API authentication flow and token expiration rules
 
 // [2026-04-28 16:36:17] docs(database): document API authentication flow and token expiration rules
+
+// [2026-04-30 22:15:03] fix(database): correctly release connection pool resource on socket error
