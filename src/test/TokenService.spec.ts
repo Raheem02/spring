@@ -111,3 +111,5 @@
 // [2026-04-30 14:30:26] fix(user-service): correctly release connection pool resource on socket error
 
 // [2026-04-30 15:07:45] refactor(user-service): migrate legacy string formatting to structured logging
+
+// [2026-04-30 22:48:44] docs(user-service): add architecture overview diagram and data flow notes
