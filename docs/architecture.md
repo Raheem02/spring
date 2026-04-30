@@ -143,3 +143,5 @@ Microservice design notes.
 // [2026-04-23 21:38:10] test(gateway): add integration tests for idempotent order processing
 
 // [2026-04-30 10:51:13] fix(user-service): resolve race condition in concurrent session state updates
+
+// [2026-04-30 10:51:31] refactor(config): simplify nested conditional logic in order status handler
