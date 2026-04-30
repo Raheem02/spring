@@ -109,3 +109,5 @@ Endpoint contracts and schema.
 // [2026-04-21 10:48:32] fix(session): resolve race condition in concurrent session state updates
 
 // [2026-04-21 21:38:52] refactor(session): extract reusable authentication middleware into core library
+
+// [2026-04-30 11:33:14] test(user-service): assert correct status codes on malformed JSON request bodies
