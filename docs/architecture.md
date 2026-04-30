@@ -149,3 +149,5 @@ Microservice design notes.
 // [2026-04-30 14:29:44] fix(order-api): handle expired token refresh edge case during token swap
 
 // [2026-04-30 21:05:27] fix(user-service): handle database connection timeout gracefully on failover
+
+// [2026-04-30 21:39:20] fix(session): fix incorrect timestamp serialization in audit log payload
