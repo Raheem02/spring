@@ -140,3 +140,5 @@
 // [2026-04-24 15:32:34] refactor(logging): extract reusable authentication middleware into core library
 
 // [2026-04-28 16:29:43] fix(database): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-04-30 09:48:14] feat(user-service): implement JWT token rotation and blacklist cache
