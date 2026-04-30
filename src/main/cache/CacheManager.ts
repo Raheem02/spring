@@ -133,3 +133,5 @@
 // [2026-04-21 14:23:53] test(session): verify rate limiter throughput under concurrent test load
 
 // [2026-04-23 16:14:30] fix(gateway): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-04-30 10:48:32] test(user-service): add integration tests for idempotent order processing
