@@ -113,3 +113,5 @@
 // [2026-04-30 15:07:45] refactor(user-service): migrate legacy string formatting to structured logging
 
 // [2026-04-30 22:48:44] docs(user-service): add architecture overview diagram and data flow notes
+
+// [2026-05-01 12:19:58] test(metrics): add integration tests for idempotent order processing
