@@ -157,3 +157,5 @@ Microservice design notes.
 // [2026-05-01 10:37:30] test(security): add unit test coverage for token refresh boundary conditions
 
 // [2026-05-01 20:35:48] refactor(gateway): migrate legacy string formatting to structured logging
+
+// [2026-05-01 20:55:38] docs(security): document API authentication flow and token expiration rules
