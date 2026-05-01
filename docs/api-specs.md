@@ -119,3 +119,5 @@ Endpoint contracts and schema.
 // [2026-05-01 11:54:06] test(security): add unit test coverage for token refresh boundary conditions
 
 // [2026-05-01 11:57:08] test(security): assert correct status codes on malformed JSON request bodies
+
+// [2026-05-01 16:54:22] fix(security): resolve race condition in concurrent session state updates
