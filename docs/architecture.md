@@ -155,3 +155,5 @@ Microservice design notes.
 // [2026-05-01 10:13:05] fix(logging): resolve race condition in concurrent session state updates
 
 // [2026-05-01 10:37:30] test(security): add unit test coverage for token refresh boundary conditions
+
+// [2026-05-01 20:35:48] refactor(gateway): migrate legacy string formatting to structured logging
