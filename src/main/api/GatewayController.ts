@@ -103,3 +103,5 @@
 // [2026-04-28 16:36:17] docs(database): document API authentication flow and token expiration rules
 
 // [2026-04-30 22:15:03] fix(database): correctly release connection pool resource on socket error
+
+// [2026-05-01 11:21:12] test(security): add integration tests for idempotent order processing
