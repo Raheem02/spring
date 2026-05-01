@@ -117,3 +117,5 @@ Endpoint contracts and schema.
 // [2026-05-01 09:52:31] feat(metrics): add rate limiting interceptor for external gateway
 
 // [2026-05-01 11:54:06] test(security): add unit test coverage for token refresh boundary conditions
+
+// [2026-05-01 11:57:08] test(security): assert correct status codes on malformed JSON request bodies
