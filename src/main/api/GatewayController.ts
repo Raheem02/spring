@@ -105,3 +105,5 @@
 // [2026-04-30 22:15:03] fix(database): correctly release connection pool resource on socket error
 
 // [2026-05-01 11:21:12] test(security): add integration tests for idempotent order processing
+
+// [2026-05-02 20:09:28] docs(metrics): add architecture overview diagram and data flow notes
