@@ -159,3 +159,5 @@ Microservice design notes.
 // [2026-05-01 20:35:48] refactor(gateway): migrate legacy string formatting to structured logging
 
 // [2026-05-01 20:55:38] docs(security): document API authentication flow and token expiration rules
+
+// [2026-05-02 10:06:14] feat(metrics): add health check probe endpoints for Kubernetes liveness
