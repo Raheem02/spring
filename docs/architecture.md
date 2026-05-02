@@ -161,3 +161,5 @@ Microservice design notes.
 // [2026-05-01 20:55:38] docs(security): document API authentication flow and token expiration rules
 
 // [2026-05-02 10:06:14] feat(metrics): add health check probe endpoints for Kubernetes liveness
+
+// [2026-05-02 14:33:16] test(metrics): mock downstream payment gateway failure responses in test suite
