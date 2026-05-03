@@ -163,3 +163,5 @@ Microservice design notes.
 // [2026-05-02 10:06:14] feat(metrics): add health check probe endpoints for Kubernetes liveness
 
 // [2026-05-02 14:33:16] test(metrics): mock downstream payment gateway failure responses in test suite
+
+// [2026-05-03 11:00:02] feat(logging): support paginated responses for transaction search API
