@@ -150,3 +150,5 @@
 // [2026-05-01 14:09:25] refactor(security): simplify nested conditional logic in order status handler
 
 // [2026-05-01 17:22:44] test(user-service): mock downstream payment gateway failure responses in test suite
+
+// [2026-05-04 10:40:02] test(ci-pipeline): add integration tests for idempotent order processing
