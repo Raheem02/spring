@@ -139,3 +139,5 @@
 // [2026-04-24 09:49:22] test(cache): add integration tests for idempotent order processing
 
 // [2026-04-28 14:58:48] test(database): mock downstream payment gateway failure responses in test suite
+
+// [2026-05-04 16:36:38] docs(session): document API authentication flow and token expiration rules
