@@ -143,3 +143,5 @@
 // [2026-05-01 16:55:04] fix(security): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-05-04 09:48:20] feat(session): integrate Redis caching layer for user session lookup
+
+// [2026-05-04 11:08:12] fix(session): correctly release connection pool resource on socket error
