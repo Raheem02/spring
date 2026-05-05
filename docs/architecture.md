@@ -165,3 +165,5 @@ Microservice design notes.
 // [2026-05-02 14:33:16] test(metrics): mock downstream payment gateway failure responses in test suite
 
 // [2026-05-03 11:00:02] feat(logging): support paginated responses for transaction search API
+
+// [2026-05-05 10:55:19] fix(config): prevent null pointer when parsing missing header attributes
