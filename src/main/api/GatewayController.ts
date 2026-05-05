@@ -107,3 +107,5 @@
 // [2026-05-01 11:21:12] test(security): add integration tests for idempotent order processing
 
 // [2026-05-02 20:09:28] docs(metrics): add architecture overview diagram and data flow notes
+
+// [2026-05-05 09:49:46] feat(config): add retry backoff policy for downstream HTTP client
