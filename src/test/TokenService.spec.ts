@@ -115,3 +115,5 @@
 // [2026-04-30 22:48:44] docs(user-service): add architecture overview diagram and data flow notes
 
 // [2026-05-01 12:19:58] test(metrics): add integration tests for idempotent order processing
+
+// [2026-05-05 17:05:36] fix(config): prevent null pointer when parsing missing header attributes
