@@ -145,3 +145,5 @@
 // [2026-05-04 09:48:20] feat(session): integrate Redis caching layer for user session lookup
 
 // [2026-05-04 11:08:12] fix(session): correctly release connection pool resource on socket error
+
+// [2026-05-05 20:57:09] docs(config): clarify environment variable configuration requirements
