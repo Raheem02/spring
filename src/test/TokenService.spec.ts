@@ -117,3 +117,5 @@
 // [2026-05-01 12:19:58] test(metrics): add integration tests for idempotent order processing
 
 // [2026-05-05 17:05:36] fix(config): prevent null pointer when parsing missing header attributes
+
+// [2026-05-06 10:05:13] feat(validation): implement idempotency key validator for payment checkout
