@@ -113,3 +113,5 @@
 // [2026-05-05 14:25:18] refactor(security): decouple persistence entities from API response DTOs
 
 // [2026-05-07 11:13:28] test(gateway): assert correct status codes on malformed JSON request bodies
+
+// [2026-05-07 11:14:39] fix(user-service): handle database connection timeout gracefully on failover
