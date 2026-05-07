@@ -147,3 +147,5 @@
 // [2026-05-04 11:08:12] fix(session): correctly release connection pool resource on socket error
 
 // [2026-05-05 20:57:09] docs(config): clarify environment variable configuration requirements
+
+// [2026-05-07 16:36:39] refactor(gateway): consolidate shared exception handling into global advice
