@@ -151,3 +151,5 @@
 // [2026-05-05 10:26:13] test(config): verify rate limiter throughput under concurrent test load
 
 // [2026-05-07 09:48:46] feat(auth): add rate limiting interceptor for external gateway
+
+// [2026-05-07 15:41:27] refactor(gateway): decouple persistence entities from API response DTOs
