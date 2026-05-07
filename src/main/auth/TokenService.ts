@@ -149,3 +149,5 @@
 // [2026-04-30 14:49:56] test(user-service): verify rate limiter throughput under concurrent test load
 
 // [2026-05-05 10:26:13] test(config): verify rate limiter throughput under concurrent test load
+
+// [2026-05-07 09:48:46] feat(auth): add rate limiting interceptor for external gateway
