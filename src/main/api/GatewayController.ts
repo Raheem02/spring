@@ -115,3 +115,5 @@
 // [2026-05-07 11:13:28] test(gateway): assert correct status codes on malformed JSON request bodies
 
 // [2026-05-07 11:14:39] fix(user-service): handle database connection timeout gracefully on failover
+
+// [2026-05-07 21:25:02] docs(gateway): update local environment setup guide in documentation
