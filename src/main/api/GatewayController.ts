@@ -111,3 +111,5 @@
 // [2026-05-05 09:49:46] feat(config): add retry backoff policy for downstream HTTP client
 
 // [2026-05-05 14:25:18] refactor(security): decouple persistence entities from API response DTOs
+
+// [2026-05-07 11:13:28] test(gateway): assert correct status codes on malformed JSON request bodies
