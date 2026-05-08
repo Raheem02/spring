@@ -125,3 +125,5 @@ Endpoint contracts and schema.
 // [2026-05-04 13:46:40] test(logging): mock downstream payment gateway failure responses in test suite
 
 // [2026-05-06 14:42:17] fix(cache): fix incorrect timestamp serialization in audit log payload
+
+// [2026-05-08 22:38:15] refactor(user-service): extract reusable authentication middleware into core library
