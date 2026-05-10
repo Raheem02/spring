@@ -149,3 +149,5 @@
 // [2026-05-05 20:57:09] docs(config): clarify environment variable configuration requirements
 
 // [2026-05-07 16:36:39] refactor(gateway): consolidate shared exception handling into global advice
+
+// [2026-05-10 15:05:46] fix(config): handle expired token refresh edge case during token swap
