@@ -153,3 +153,5 @@
 // [2026-05-07 09:48:46] feat(auth): add rate limiting interceptor for external gateway
 
 // [2026-05-07 15:41:27] refactor(gateway): decouple persistence entities from API response DTOs
+
+// [2026-05-10 14:52:41] fix(logging): sanitize query parameters to prevent SQL injection edge cases
