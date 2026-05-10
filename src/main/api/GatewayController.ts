@@ -117,3 +117,5 @@
 // [2026-05-07 11:14:39] fix(user-service): handle database connection timeout gracefully on failover
 
 // [2026-05-07 21:25:02] docs(gateway): update local environment setup guide in documentation
+
+// [2026-05-10 19:50:05] docs(config): document API authentication flow and token expiration rules
