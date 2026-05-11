@@ -119,3 +119,5 @@
 // [2026-05-07 21:25:02] docs(gateway): update local environment setup guide in documentation
 
 // [2026-05-10 19:50:05] docs(config): document API authentication flow and token expiration rules
+
+// [2026-05-11 15:36:49] docs(database): document API authentication flow and token expiration rules
