@@ -151,3 +151,5 @@
 // [2026-05-07 16:36:39] refactor(gateway): consolidate shared exception handling into global advice
 
 // [2026-05-10 15:05:46] fix(config): handle expired token refresh edge case during token swap
+
+// [2026-05-11 10:52:20] fix(docker): resolve race condition in concurrent session state updates
