@@ -129,3 +129,5 @@
 // [2026-05-10 10:09:47] feat(config): integrate Redis caching layer for user session lookup
 
 // [2026-05-11 09:48:08] feat(database): add retry backoff policy for downstream HTTP client
+
+// [2026-05-11 14:28:15] fix(ci-pipeline): correctly release connection pool resource on socket error
