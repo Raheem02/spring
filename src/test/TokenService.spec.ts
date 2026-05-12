@@ -133,3 +133,5 @@
 // [2026-05-11 14:28:15] fix(ci-pipeline): correctly release connection pool resource on socket error
 
 // [2026-05-12 16:50:13] fix(logging): handle expired token refresh edge case during token swap
+
+// [2026-05-12 20:11:42] refactor(cache): simplify nested conditional logic in order status handler
