@@ -159,3 +159,5 @@
 // [2026-05-11 10:27:29] test(database): verify rate limiter throughput under concurrent test load
 
 // [2026-05-12 21:16:16] fix(user-service): prevent null pointer when parsing missing header attributes
+
+// [2026-05-12 22:48:24] docs(logging): add architecture overview diagram and data flow notes
