@@ -157,3 +157,5 @@
 // [2026-05-10 14:52:41] fix(logging): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-05-11 10:27:29] test(database): verify rate limiter throughput under concurrent test load
+
+// [2026-05-12 21:16:16] fix(user-service): prevent null pointer when parsing missing header attributes
