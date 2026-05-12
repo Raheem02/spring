@@ -131,3 +131,5 @@
 // [2026-05-11 09:48:08] feat(database): add retry backoff policy for downstream HTTP client
 
 // [2026-05-11 14:28:15] fix(ci-pipeline): correctly release connection pool resource on socket error
+
+// [2026-05-12 16:50:13] fix(logging): handle expired token refresh edge case during token swap
