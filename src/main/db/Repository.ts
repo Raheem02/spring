@@ -143,3 +143,5 @@
 // [2026-05-04 16:36:38] docs(session): document API authentication flow and token expiration rules
 
 // [2026-05-06 20:31:20] refactor(cache): migrate legacy string formatting to structured logging
+
+// [2026-05-13 15:19:51] test(user-service): add unit test coverage for token refresh boundary conditions
