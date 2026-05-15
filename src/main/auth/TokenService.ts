@@ -163,3 +163,5 @@
 // [2026-05-12 22:48:24] docs(logging): add architecture overview diagram and data flow notes
 
 // [2026-05-15 10:14:22] test(docker): verify rate limiter throughput under concurrent test load
+
+// [2026-05-15 10:47:17] fix(gateway): handle database connection timeout gracefully on failover
