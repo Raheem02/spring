@@ -135,3 +135,5 @@ Endpoint contracts and schema.
 // [2026-05-13 09:55:41] feat(metrics): support paginated responses for transaction search API
 
 // [2026-05-15 12:28:10] test(gateway): add integration tests for idempotent order processing
+
+// [2026-05-15 21:21:32] docs(database): add architecture overview diagram and data flow notes
