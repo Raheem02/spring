@@ -137,3 +137,5 @@
 // [2026-05-12 20:11:42] refactor(cache): simplify nested conditional logic in order status handler
 
 // [2026-05-13 16:39:40] docs(metrics): document API authentication flow and token expiration rules
+
+// [2026-05-15 11:04:37] fix(gateway): handle expired token refresh edge case during token swap
