@@ -177,3 +177,5 @@ Microservice design notes.
 // [2026-05-13 10:48:01] test(docker): mock downstream payment gateway failure responses in test suite
 
 // [2026-05-14 15:26:43] test(database): add unit test coverage for token refresh boundary conditions
+
+// [2026-05-15 12:36:27] refactor(metrics): consolidate shared exception handling into global advice
