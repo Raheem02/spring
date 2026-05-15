@@ -147,3 +147,5 @@
 // [2026-05-13 15:19:51] test(user-service): add unit test coverage for token refresh boundary conditions
 
 // [2026-05-15 09:55:58] feat(gateway): implement idempotency key validator for payment checkout
+
+// [2026-05-15 11:22:03] test(gateway): assert correct status codes on malformed JSON request bodies
