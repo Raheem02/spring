@@ -137,3 +137,5 @@ Endpoint contracts and schema.
 // [2026-05-15 12:28:10] test(gateway): add integration tests for idempotent order processing
 
 // [2026-05-15 21:21:32] docs(database): add architecture overview diagram and data flow notes
+
+// [2026-05-18 16:44:06] fix(payment): prevent null pointer when parsing missing header attributes
