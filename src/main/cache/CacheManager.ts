@@ -159,3 +159,5 @@
 // [2026-05-18 10:50:34] fix(payment): resolve race condition in concurrent session state updates
 
 // [2026-05-18 11:26:24] fix(payment): correctly release connection pool resource on socket error
+
+// [2026-05-18 15:26:44] refactor(payment): simplify nested conditional logic in order status handler
