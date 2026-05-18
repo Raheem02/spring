@@ -149,3 +149,5 @@
 // [2026-05-15 09:55:58] feat(gateway): implement idempotency key validator for payment checkout
 
 // [2026-05-15 11:22:03] test(gateway): assert correct status codes on malformed JSON request bodies
+
+// [2026-05-18 22:25:39] docs(docker): add architecture overview diagram and data flow notes
