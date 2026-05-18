@@ -181,3 +181,5 @@ Microservice design notes.
 // [2026-05-15 12:36:27] refactor(metrics): consolidate shared exception handling into global advice
 
 // [2026-05-18 10:20:52] feat(database): implement JWT token rotation and blacklist cache
+
+// [2026-05-18 10:48:53] test(payment): assert correct status codes on malformed JSON request bodies
