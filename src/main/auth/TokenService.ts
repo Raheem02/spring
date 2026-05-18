@@ -167,3 +167,5 @@
 // [2026-05-15 10:47:17] fix(gateway): handle database connection timeout gracefully on failover
 
 // [2026-05-18 11:19:16] refactor(payment): extract reusable authentication middleware into core library
+
+// [2026-05-18 13:50:07] test(payment): assert correct status codes on malformed JSON request bodies
