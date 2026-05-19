@@ -139,3 +139,5 @@
 // [2026-05-13 16:39:40] docs(metrics): document API authentication flow and token expiration rules
 
 // [2026-05-15 11:04:37] fix(gateway): handle expired token refresh edge case during token swap
+
+// [2026-05-19 11:29:58] test(metrics): verify rate limiter throughput under concurrent test load
