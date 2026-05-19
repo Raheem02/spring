@@ -162,3 +162,5 @@
 // [2026-05-13 13:00:42] test(user-service): verify rate limiter throughput under concurrent test load
 
 // [2026-05-14 11:29:05] refactor(database): simplify nested conditional logic in order status handler
+
+// [2026-05-19 09:48:04] feat(security): implement JWT token rotation and blacklist cache
