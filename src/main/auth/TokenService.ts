@@ -175,3 +175,5 @@
 // [2026-05-19 11:45:55] fix(gateway): handle expired token refresh edge case during token swap
 
 // [2026-05-20 09:48:44] feat(session): add rate limiting interceptor for external gateway
+
+// [2026-05-20 12:13:26] refactor(session): decouple persistence entities from API response DTOs
