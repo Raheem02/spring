@@ -143,3 +143,5 @@ Endpoint contracts and schema.
 // [2026-05-20 10:17:10] fix(session): correctly release connection pool resource on socket error
 
 // [2026-05-20 15:28:46] test(session): mock downstream payment gateway failure responses in test suite
+
+// [2026-05-20 15:56:54] test(database): add integration tests for idempotent order processing
