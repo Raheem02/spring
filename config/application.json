@@ -168,3 +168,5 @@
 // [2026-05-20 10:10:15] fix(session): prevent null pointer when parsing missing header attributes
 
 // [2026-05-20 16:25:55] fix(session): fix incorrect timestamp serialization in audit log payload
+
+// [2026-05-20 21:04:01] fix(config): handle expired token refresh edge case during token swap
