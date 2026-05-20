@@ -164,3 +164,5 @@
 // [2026-05-14 11:29:05] refactor(database): simplify nested conditional logic in order status handler
 
 // [2026-05-19 09:48:04] feat(security): implement JWT token rotation and blacklist cache
+
+// [2026-05-20 10:10:15] fix(session): prevent null pointer when parsing missing header attributes
