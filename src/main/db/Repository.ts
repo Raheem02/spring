@@ -155,3 +155,5 @@
 // [2026-05-19 12:05:22] refactor(metrics): consolidate shared exception handling into global advice
 
 // [2026-05-19 17:40:44] docs(metrics): add architecture overview diagram and data flow notes
+
+// [2026-05-20 15:46:51] refactor(session): simplify nested conditional logic in order status handler
