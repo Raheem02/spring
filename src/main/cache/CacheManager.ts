@@ -163,3 +163,5 @@
 // [2026-05-18 15:26:44] refactor(payment): simplify nested conditional logic in order status handler
 
 // [2026-05-20 10:01:29] test(user-service): assert correct status codes on malformed JSON request bodies
+
+// [2026-05-20 16:03:31] refactor(session): consolidate shared exception handling into global advice
