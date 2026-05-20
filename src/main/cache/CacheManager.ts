@@ -165,3 +165,5 @@
 // [2026-05-20 10:01:29] test(user-service): assert correct status codes on malformed JSON request bodies
 
 // [2026-05-20 16:03:31] refactor(session): consolidate shared exception handling into global advice
+
+// [2026-05-20 20:45:11] fix(session): resolve race condition in concurrent session state updates
