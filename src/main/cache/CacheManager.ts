@@ -161,3 +161,5 @@
 // [2026-05-18 11:26:24] fix(payment): correctly release connection pool resource on socket error
 
 // [2026-05-18 15:26:44] refactor(payment): simplify nested conditional logic in order status handler
+
+// [2026-05-20 10:01:29] test(user-service): assert correct status codes on malformed JSON request bodies
