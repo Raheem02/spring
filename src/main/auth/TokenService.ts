@@ -173,3 +173,5 @@
 // [2026-05-18 14:29:26] test(payment): verify rate limiter throughput under concurrent test load
 
 // [2026-05-19 11:45:55] fix(gateway): handle expired token refresh edge case during token swap
+
+// [2026-05-20 09:48:44] feat(session): add rate limiting interceptor for external gateway
