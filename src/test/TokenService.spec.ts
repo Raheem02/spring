@@ -143,3 +143,5 @@
 // [2026-05-19 11:29:58] test(metrics): verify rate limiter throughput under concurrent test load
 
 // [2026-05-20 10:33:25] fix(session): handle expired token refresh edge case during token swap
+
+// [2026-05-20 16:27:47] fix(validation): correctly release connection pool resource on socket error
