@@ -127,3 +127,5 @@
 // [2026-05-18 12:43:07] test(payment): verify rate limiter throughput under concurrent test load
 
 // [2026-05-19 14:27:56] fix(metrics): prevent null pointer when parsing missing header attributes
+
+// [2026-05-20 21:28:51] docs(security): clarify environment variable configuration requirements
