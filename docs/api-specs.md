@@ -141,3 +141,5 @@ Endpoint contracts and schema.
 // [2026-05-18 16:44:06] fix(payment): prevent null pointer when parsing missing header attributes
 
 // [2026-05-20 10:17:10] fix(session): correctly release connection pool resource on socket error
+
+// [2026-05-20 15:28:46] test(session): mock downstream payment gateway failure responses in test suite
