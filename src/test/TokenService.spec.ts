@@ -145,3 +145,5 @@
 // [2026-05-20 10:33:25] fix(session): handle expired token refresh edge case during token swap
 
 // [2026-05-20 16:27:47] fix(validation): correctly release connection pool resource on socket error
+
+// [2026-05-20 20:47:18] test(session): add integration tests for idempotent order processing
