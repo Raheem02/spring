@@ -177,3 +177,5 @@
 // [2026-05-20 09:48:44] feat(session): add rate limiting interceptor for external gateway
 
 // [2026-05-20 12:13:26] refactor(session): decouple persistence entities from API response DTOs
+
+// [2026-05-21 21:31:10] docs(order-api): update local environment setup guide in documentation
