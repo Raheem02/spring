@@ -185,3 +185,5 @@ Microservice design notes.
 // [2026-05-18 10:48:53] test(payment): assert correct status codes on malformed JSON request bodies
 
 // [2026-05-20 16:12:31] fix(session): handle expired token refresh edge case during token swap
+
+// [2026-05-21 15:31:18] refactor(order-api): consolidate shared exception handling into global advice
