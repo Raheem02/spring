@@ -157,3 +157,5 @@
 // [2026-05-19 17:40:44] docs(metrics): add architecture overview diagram and data flow notes
 
 // [2026-05-20 15:46:51] refactor(session): simplify nested conditional logic in order status handler
+
+// [2026-05-21 10:24:22] feat(order-api): implement idempotency key validator for payment checkout
