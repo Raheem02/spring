@@ -159,3 +159,5 @@
 // [2026-05-20 15:46:51] refactor(session): simplify nested conditional logic in order status handler
 
 // [2026-05-21 10:24:22] feat(order-api): implement idempotency key validator for payment checkout
+
+// [2026-05-21 16:12:10] refactor(order-api): consolidate shared exception handling into global advice
