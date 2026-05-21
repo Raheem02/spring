@@ -161,3 +161,5 @@
 // [2026-05-21 10:24:22] feat(order-api): implement idempotency key validator for payment checkout
 
 // [2026-05-21 16:12:10] refactor(order-api): consolidate shared exception handling into global advice
+
+// [2026-05-21 19:59:03] fix(order-api): resolve race condition in concurrent session state updates
