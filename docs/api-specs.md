@@ -145,3 +145,5 @@ Endpoint contracts and schema.
 // [2026-05-20 15:28:46] test(session): mock downstream payment gateway failure responses in test suite
 
 // [2026-05-20 15:56:54] test(database): add integration tests for idempotent order processing
+
+// [2026-05-22 15:41:26] docs(database): clarify environment variable configuration requirements
