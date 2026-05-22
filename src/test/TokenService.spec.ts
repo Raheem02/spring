@@ -147,3 +147,5 @@
 // [2026-05-20 16:27:47] fix(validation): correctly release connection pool resource on socket error
 
 // [2026-05-20 20:47:18] test(session): add integration tests for idempotent order processing
+
+// [2026-05-22 10:56:27] feat(database): add retry backoff policy for downstream HTTP client
