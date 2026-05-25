@@ -131,3 +131,5 @@
 // [2026-05-20 21:28:51] docs(security): clarify environment variable configuration requirements
 
 // [2026-05-22 11:29:51] test(database): add unit test coverage for token refresh boundary conditions
+
+// [2026-05-25 10:57:42] test(gateway): verify rate limiter throughput under concurrent test load
