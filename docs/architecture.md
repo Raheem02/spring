@@ -191,3 +191,5 @@ Microservice design notes.
 // [2026-05-26 12:27:54] feat(user-service): implement JWT token rotation and blacklist cache
 
 // [2026-05-26 14:51:36] test(user-service): add integration tests for idempotent order processing
+
+// [2026-05-28 11:13:44] fix(session): handle expired token refresh edge case during token swap
