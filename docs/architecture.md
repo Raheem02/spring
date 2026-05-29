@@ -193,3 +193,5 @@ Microservice design notes.
 // [2026-05-26 14:51:36] test(user-service): add integration tests for idempotent order processing
 
 // [2026-05-28 11:13:44] fix(session): handle expired token refresh edge case during token swap
+
+// [2026-05-29 15:33:41] docs(session): update local environment setup guide in documentation
