@@ -176,3 +176,5 @@
 // [2026-05-25 10:56:33] refactor(user-service): consolidate shared exception handling into global advice
 
 // [2026-05-29 11:58:43] test(session): mock downstream payment gateway failure responses in test suite
+
+// [2026-05-29 15:11:25] fix(session): handle database connection timeout gracefully on failover
