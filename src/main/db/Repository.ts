@@ -163,3 +163,5 @@
 // [2026-05-21 16:12:10] refactor(order-api): consolidate shared exception handling into global advice
 
 // [2026-05-21 19:59:03] fix(order-api): resolve race condition in concurrent session state updates
+
+// [2026-05-29 10:14:07] test(session): add integration tests for idempotent order processing
