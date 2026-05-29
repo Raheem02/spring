@@ -174,3 +174,5 @@
 // [2026-05-21 13:26:35] fix(order-api): prevent null pointer when parsing missing header attributes
 
 // [2026-05-25 10:56:33] refactor(user-service): consolidate shared exception handling into global advice
+
+// [2026-05-29 11:58:43] test(session): mock downstream payment gateway failure responses in test suite
