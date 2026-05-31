@@ -167,3 +167,5 @@
 // [2026-05-29 10:14:07] test(session): add integration tests for idempotent order processing
 
 // [2026-05-29 14:59:21] test(session): verify rate limiter throughput under concurrent test load
+
+// [2026-05-31 20:29:01] chore(docker): add linting rules for consistent code formatting
