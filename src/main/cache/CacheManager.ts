@@ -171,3 +171,5 @@
 // [2026-05-21 11:58:15] test(order-api): verify rate limiter throughput under concurrent test load
 
 // [2026-05-21 15:22:36] test(user-service): mock downstream payment gateway failure responses in test suite
+
+// [2026-06-02 10:23:35] fix(security): handle expired token refresh edge case during token swap
