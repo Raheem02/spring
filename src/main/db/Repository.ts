@@ -173,3 +173,5 @@
 // [2026-06-01 21:43:18] fix(docker): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-06-02 14:07:34] refactor(database): consolidate shared exception handling into global advice
+
+// [2026-06-02 16:32:40] fix(logging): fix incorrect timestamp serialization in audit log payload
