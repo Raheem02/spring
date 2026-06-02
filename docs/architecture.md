@@ -195,3 +195,5 @@ Microservice design notes.
 // [2026-05-28 11:13:44] fix(session): handle expired token refresh edge case during token swap
 
 // [2026-05-29 15:33:41] docs(session): update local environment setup guide in documentation
+
+// [2026-06-02 10:30:03] refactor(config): decouple persistence entities from API response DTOs
