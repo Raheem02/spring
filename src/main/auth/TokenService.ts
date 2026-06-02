@@ -183,3 +183,5 @@
 // [2026-05-29 10:56:51] fix(session): prevent null pointer when parsing missing header attributes
 
 // [2026-06-02 11:14:51] refactor(payment): consolidate shared exception handling into global advice
+
+// [2026-06-02 12:32:17] refactor(security): decouple persistence entities from API response DTOs
