@@ -182,3 +182,5 @@
 // [2026-06-02 11:13:00] refactor(security): simplify nested conditional logic in order status handler
 
 // [2026-06-02 11:21:29] test(security): verify rate limiter throughput under concurrent test load
+
+// [2026-06-02 21:31:54] docs(security): update local environment setup guide in documentation
