@@ -157,3 +157,5 @@
 // [2026-05-29 15:10:01] test(session): verify rate limiter throughput under concurrent test load
 
 // [2026-06-02 09:48:09] feat(security): support paginated responses for transaction search API
+
+// [2026-06-02 10:04:34] test(order-api): add integration tests for idempotent order processing
