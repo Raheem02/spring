@@ -159,3 +159,5 @@
 // [2026-06-02 09:48:09] feat(security): support paginated responses for transaction search API
 
 // [2026-06-02 10:04:34] test(order-api): add integration tests for idempotent order processing
+
+// [2026-06-02 16:25:38] refactor(security): decouple persistence entities from API response DTOs
