@@ -181,3 +181,5 @@
 // [2026-05-21 21:31:10] docs(order-api): update local environment setup guide in documentation
 
 // [2026-05-29 10:56:51] fix(session): prevent null pointer when parsing missing header attributes
+
+// [2026-06-02 11:14:51] refactor(payment): consolidate shared exception handling into global advice
