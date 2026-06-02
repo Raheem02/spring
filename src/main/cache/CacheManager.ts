@@ -173,3 +173,5 @@
 // [2026-05-21 15:22:36] test(user-service): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-02 10:23:35] fix(security): handle expired token refresh edge case during token swap
+
+// [2026-06-02 13:54:35] refactor(logging): extract reusable authentication middleware into core library
