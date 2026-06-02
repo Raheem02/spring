@@ -149,3 +149,5 @@ Endpoint contracts and schema.
 // [2026-05-22 15:41:26] docs(database): clarify environment variable configuration requirements
 
 // [2026-05-29 10:46:09] fix(session): resolve race condition in concurrent session state updates
+
+// [2026-06-02 11:41:12] refactor(security): migrate legacy string formatting to structured logging
