@@ -153,3 +153,5 @@ Endpoint contracts and schema.
 // [2026-06-02 11:41:12] refactor(security): migrate legacy string formatting to structured logging
 
 // [2026-06-02 14:43:45] refactor(security): simplify nested conditional logic in order status handler
+
+// [2026-06-04 11:25:18] test(database): assert correct status codes on malformed JSON request bodies
