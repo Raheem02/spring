@@ -155,3 +155,5 @@ Endpoint contracts and schema.
 // [2026-06-02 14:43:45] refactor(security): simplify nested conditional logic in order status handler
 
 // [2026-06-04 11:25:18] test(database): assert correct status codes on malformed JSON request bodies
+
+// [2026-06-04 11:53:16] refactor(database): extract reusable authentication middleware into core library
