@@ -179,3 +179,5 @@
 // [2026-06-03 10:02:06] fix(validation): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-06-04 11:14:33] refactor(docker): decouple persistence entities from API response DTOs
+
+// [2026-06-04 11:31:21] refactor(database): extract reusable authentication middleware into core library
