@@ -185,3 +185,5 @@
 // [2026-06-02 11:14:51] refactor(payment): consolidate shared exception handling into global advice
 
 // [2026-06-02 12:32:17] refactor(security): decouple persistence entities from API response DTOs
+
+// [2026-06-04 12:58:54] test(database): verify rate limiter throughput under concurrent test load
