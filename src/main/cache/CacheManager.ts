@@ -177,3 +177,5 @@
 // [2026-06-02 13:54:35] refactor(logging): extract reusable authentication middleware into core library
 
 // [2026-06-02 16:00:11] refactor(security): consolidate shared exception handling into global advice
+
+// [2026-06-04 14:40:31] test(database): mock downstream payment gateway failure responses in test suite
