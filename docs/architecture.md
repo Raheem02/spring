@@ -201,3 +201,5 @@ Microservice design notes.
 // [2026-06-02 20:27:44] fix(security): handle expired token refresh edge case during token swap
 
 // [2026-06-04 10:58:17] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
+
+// [2026-06-04 11:01:28] fix(database): correctly release connection pool resource on socket error
