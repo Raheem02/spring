@@ -137,3 +137,5 @@
 // [2026-06-04 13:38:49] test(database): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-04 16:08:38] refactor(order-api): extract reusable authentication middleware into core library
+
+// [2026-06-04 16:30:21] fix(ci-pipeline): correctly release connection pool resource on socket error
