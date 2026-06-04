@@ -199,3 +199,5 @@ Microservice design notes.
 // [2026-06-02 10:30:03] refactor(config): decouple persistence entities from API response DTOs
 
 // [2026-06-02 20:27:44] fix(security): handle expired token refresh edge case during token swap
+
+// [2026-06-04 10:58:17] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
