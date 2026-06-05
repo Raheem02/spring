@@ -181,3 +181,5 @@
 // [2026-06-04 11:14:33] refactor(docker): decouple persistence entities from API response DTOs
 
 // [2026-06-04 11:31:21] refactor(database): extract reusable authentication middleware into core library
+
+// [2026-06-05 15:25:17] refactor(ci-pipeline): extract reusable authentication middleware into core library
