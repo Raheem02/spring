@@ -203,3 +203,5 @@ Microservice design notes.
 // [2026-06-04 10:58:17] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-04 11:01:28] fix(database): correctly release connection pool resource on socket error
+
+// [2026-06-05 11:46:47] test(order-api): assert correct status codes on malformed JSON request bodies
