@@ -205,3 +205,5 @@ Microservice design notes.
 // [2026-06-04 11:01:28] fix(database): correctly release connection pool resource on socket error
 
 // [2026-06-05 11:46:47] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-06-05 21:32:15] docs(logging): add architecture overview diagram and data flow notes
