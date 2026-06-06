@@ -161,3 +161,5 @@ Endpoint contracts and schema.
 // [2026-06-04 12:10:33] fix(metrics): fix incorrect timestamp serialization in audit log payload
 
 // [2026-06-06 11:46:09] fix(docker): resolve race condition in concurrent session state updates
+
+// [2026-06-06 17:20:11] docs(docker): clarify environment variable configuration requirements
