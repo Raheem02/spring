@@ -183,3 +183,5 @@
 // [2026-06-04 14:55:18] test(database): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-05 11:33:49] feat(logging): support paginated responses for transaction search API
+
+// [2026-06-06 11:05:53] feat(validation): support paginated responses for transaction search API
