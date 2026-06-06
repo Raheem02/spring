@@ -185,3 +185,5 @@
 // [2026-06-05 15:25:17] refactor(ci-pipeline): extract reusable authentication middleware into core library
 
 // [2026-06-05 21:05:10] fix(logging): correctly release connection pool resource on socket error
+
+// [2026-06-06 16:33:58] refactor(docker): simplify nested conditional logic in order status handler
