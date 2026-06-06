@@ -190,3 +190,5 @@
 // [2026-06-05 15:08:36] fix(logging): resolve race condition in concurrent session state updates
 
 // [2026-06-05 15:38:04] fix(logging): handle database connection timeout gracefully on failover
+
+// [2026-06-06 11:34:03] test(cache): assert correct status codes on malformed JSON request bodies
