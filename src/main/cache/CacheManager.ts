@@ -185,3 +185,5 @@
 // [2026-06-05 11:33:49] feat(logging): support paginated responses for transaction search API
 
 // [2026-06-06 11:05:53] feat(validation): support paginated responses for transaction search API
+
+// [2026-06-08 10:24:14] feat(logging): add health check probe endpoints for Kubernetes liveness
