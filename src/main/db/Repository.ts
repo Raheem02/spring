@@ -187,3 +187,5 @@
 // [2026-06-05 21:05:10] fix(logging): correctly release connection pool resource on socket error
 
 // [2026-06-06 16:33:58] refactor(docker): simplify nested conditional logic in order status handler
+
+// [2026-06-08 11:20:36] fix(payment): prevent null pointer when parsing missing header attributes
