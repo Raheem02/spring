@@ -141,3 +141,5 @@
 // [2026-06-04 16:30:21] fix(ci-pipeline): correctly release connection pool resource on socket error
 
 // [2026-06-04 21:52:30] docs(database): document API authentication flow and token expiration rules
+
+// [2026-06-08 21:05:28] docs(order-api): clarify environment variable configuration requirements
