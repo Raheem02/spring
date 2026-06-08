@@ -207,3 +207,5 @@ Microservice design notes.
 // [2026-06-05 11:46:47] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-06-05 21:32:15] docs(logging): add architecture overview diagram and data flow notes
+
+// [2026-06-08 11:44:34] refactor(logging): migrate legacy string formatting to structured logging
