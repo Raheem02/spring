@@ -163,3 +163,5 @@ Endpoint contracts and schema.
 // [2026-06-06 11:46:09] fix(docker): resolve race condition in concurrent session state updates
 
 // [2026-06-06 17:20:11] docs(docker): clarify environment variable configuration requirements
+
+// [2026-06-08 10:39:13] test(order-api): add unit test coverage for token refresh boundary conditions
