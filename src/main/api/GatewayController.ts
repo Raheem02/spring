@@ -143,3 +143,5 @@
 // [2026-06-04 21:52:30] docs(database): document API authentication flow and token expiration rules
 
 // [2026-06-08 21:05:28] docs(order-api): clarify environment variable configuration requirements
+
+// [2026-06-09 20:07:06] refactor(session): consolidate shared exception handling into global advice
