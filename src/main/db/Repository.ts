@@ -189,3 +189,5 @@
 // [2026-06-06 16:33:58] refactor(docker): simplify nested conditional logic in order status handler
 
 // [2026-06-08 11:20:36] fix(payment): prevent null pointer when parsing missing header attributes
+
+// [2026-06-09 11:26:31] fix(logging): handle database connection timeout gracefully on failover
