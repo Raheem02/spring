@@ -167,3 +167,5 @@ Endpoint contracts and schema.
 // [2026-06-08 10:39:13] test(order-api): add unit test coverage for token refresh boundary conditions
 
 // [2026-06-10 11:31:36] test(metrics): mock downstream payment gateway failure responses in test suite
+
+// [2026-06-10 17:07:48] refactor(auth): migrate legacy string formatting to structured logging
