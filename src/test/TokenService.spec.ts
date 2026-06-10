@@ -161,3 +161,5 @@
 // [2026-06-02 10:04:34] test(order-api): add integration tests for idempotent order processing
 
 // [2026-06-02 16:25:38] refactor(security): decouple persistence entities from API response DTOs
+
+// [2026-06-10 13:44:55] fix(metrics): prevent null pointer when parsing missing header attributes
