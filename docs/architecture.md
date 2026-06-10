@@ -209,3 +209,5 @@ Microservice design notes.
 // [2026-06-05 21:32:15] docs(logging): add architecture overview diagram and data flow notes
 
 // [2026-06-08 11:44:34] refactor(logging): migrate legacy string formatting to structured logging
+
+// [2026-06-10 17:32:56] fix(order-api): sanitize query parameters to prevent SQL injection edge cases
