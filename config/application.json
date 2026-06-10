@@ -194,3 +194,5 @@
 // [2026-06-06 11:34:03] test(cache): assert correct status codes on malformed JSON request bodies
 
 // [2026-06-09 21:13:36] docs(logging): update local environment setup guide in documentation
+
+// [2026-06-10 11:17:37] feat(ci-pipeline): add retry backoff policy for downstream HTTP client
