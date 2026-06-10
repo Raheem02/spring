@@ -193,3 +193,5 @@
 // [2026-06-10 15:05:13] refactor(metrics): simplify nested conditional logic in order status handler
 
 // [2026-06-10 16:04:06] fix(metrics): handle database connection timeout gracefully on failover
+
+// [2026-06-10 21:23:39] docs(metrics): clarify environment variable configuration requirements
