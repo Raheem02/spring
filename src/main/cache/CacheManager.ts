@@ -191,3 +191,5 @@
 // [2026-06-09 11:17:57] test(logging): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-10 15:05:13] refactor(metrics): simplify nested conditional logic in order status handler
+
+// [2026-06-10 16:04:06] fix(metrics): handle database connection timeout gracefully on failover
