@@ -193,3 +193,5 @@
 // [2026-06-09 11:26:31] fix(logging): handle database connection timeout gracefully on failover
 
 // [2026-06-09 12:19:36] fix(logging): resolve race condition in concurrent session state updates
+
+// [2026-06-10 14:49:29] refactor(metrics): consolidate shared exception handling into global advice
