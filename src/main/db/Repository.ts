@@ -195,3 +195,5 @@
 // [2026-06-09 12:19:36] fix(logging): resolve race condition in concurrent session state updates
 
 // [2026-06-10 14:49:29] refactor(metrics): consolidate shared exception handling into global advice
+
+// [2026-06-11 21:31:28] feat(session): add health check probe endpoints for Kubernetes liveness
