@@ -195,3 +195,5 @@
 // [2026-06-10 16:04:06] fix(metrics): handle database connection timeout gracefully on failover
 
 // [2026-06-10 21:23:39] docs(metrics): clarify environment variable configuration requirements
+
+// [2026-06-12 15:30:07] fix(ci-pipeline): prevent null pointer when parsing missing header attributes
