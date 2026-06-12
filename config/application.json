@@ -198,3 +198,5 @@
 // [2026-06-10 11:17:37] feat(ci-pipeline): add retry backoff policy for downstream HTTP client
 
 // [2026-06-11 22:13:39] test(session): add unit test coverage for token refresh boundary conditions
+
+// [2026-06-12 10:58:03] fix(ci-pipeline): handle expired token refresh edge case during token swap
