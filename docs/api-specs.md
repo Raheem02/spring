@@ -169,3 +169,5 @@ Endpoint contracts and schema.
 // [2026-06-10 11:31:36] test(metrics): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-10 17:07:48] refactor(auth): migrate legacy string formatting to structured logging
+
+// [2026-06-12 15:53:22] docs(security): add architecture overview diagram and data flow notes
