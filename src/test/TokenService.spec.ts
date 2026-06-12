@@ -163,3 +163,5 @@
 // [2026-06-02 16:25:38] refactor(security): decouple persistence entities from API response DTOs
 
 // [2026-06-10 13:44:55] fix(metrics): prevent null pointer when parsing missing header attributes
+
+// [2026-06-12 10:50:25] test(ci-pipeline): mock downstream payment gateway failure responses in test suite
