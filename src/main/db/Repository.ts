@@ -197,3 +197,5 @@
 // [2026-06-10 14:49:29] refactor(metrics): consolidate shared exception handling into global advice
 
 // [2026-06-11 21:31:28] feat(session): add health check probe endpoints for Kubernetes liveness
+
+// [2026-06-12 10:07:03] feat(ci-pipeline): add rate limiting interceptor for external gateway
