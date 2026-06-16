@@ -202,3 +202,5 @@
 // [2026-06-12 10:58:03] fix(ci-pipeline): handle expired token refresh edge case during token swap
 
 // [2026-06-15 15:12:22] fix(payment): handle database connection timeout gracefully on failover
+
+// [2026-06-16 10:39:51] feat(metrics): add rate limiting interceptor for external gateway
