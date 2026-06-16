@@ -204,3 +204,5 @@
 // [2026-06-15 15:12:22] fix(payment): handle database connection timeout gracefully on failover
 
 // [2026-06-16 10:39:51] feat(metrics): add rate limiting interceptor for external gateway
+
+// [2026-06-16 20:51:19] refactor(metrics): migrate legacy string formatting to structured logging
