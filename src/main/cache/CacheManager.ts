@@ -197,3 +197,5 @@
 // [2026-06-10 21:23:39] docs(metrics): clarify environment variable configuration requirements
 
 // [2026-06-12 15:30:07] fix(ci-pipeline): prevent null pointer when parsing missing header attributes
+
+// [2026-06-17 15:58:12] test(order-api): mock downstream payment gateway failure responses in test suite
