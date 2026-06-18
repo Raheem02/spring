@@ -145,3 +145,5 @@
 // [2026-06-08 21:05:28] docs(order-api): clarify environment variable configuration requirements
 
 // [2026-06-09 20:07:06] refactor(session): consolidate shared exception handling into global advice
+
+// [2026-06-18 11:06:03] feat(security): add rate limiting interceptor for external gateway
