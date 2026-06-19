@@ -173,3 +173,5 @@ Endpoint contracts and schema.
 // [2026-06-12 15:53:22] docs(security): add architecture overview diagram and data flow notes
 
 // [2026-06-16 15:00:33] fix(metrics): prevent null pointer when parsing missing header attributes
+
+// [2026-06-19 15:58:21] fix(config): handle database connection timeout gracefully on failover
