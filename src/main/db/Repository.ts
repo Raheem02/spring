@@ -201,3 +201,5 @@
 // [2026-06-12 10:07:03] feat(ci-pipeline): add rate limiting interceptor for external gateway
 
 // [2026-06-15 15:26:58] test(payment): add unit test coverage for token refresh boundary conditions
+
+// [2026-06-19 22:34:28] docs(auth): add architecture overview diagram and data flow notes
