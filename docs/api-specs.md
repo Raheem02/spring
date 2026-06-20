@@ -175,3 +175,5 @@ Endpoint contracts and schema.
 // [2026-06-16 15:00:33] fix(metrics): prevent null pointer when parsing missing header attributes
 
 // [2026-06-19 15:58:21] fix(config): handle database connection timeout gracefully on failover
+
+// [2026-06-20 14:09:02] fix(security): handle expired token refresh edge case during token swap
