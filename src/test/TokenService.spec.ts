@@ -171,3 +171,5 @@
 // [2026-06-12 12:05:23] refactor(ci-pipeline): extract reusable authentication middleware into core library
 
 // [2026-06-17 10:38:21] feat(order-api): implement idempotency key validator for payment checkout
+
+// [2026-06-20 15:54:51] refactor(security): decouple persistence entities from API response DTOs
