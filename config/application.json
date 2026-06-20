@@ -206,3 +206,5 @@
 // [2026-06-16 10:39:51] feat(metrics): add rate limiting interceptor for external gateway
 
 // [2026-06-16 20:51:19] refactor(metrics): migrate legacy string formatting to structured logging
+
+// [2026-06-20 13:54:42] test(security): add integration tests for idempotent order processing
