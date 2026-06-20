@@ -173,3 +173,5 @@
 // [2026-06-17 10:38:21] feat(order-api): implement idempotency key validator for payment checkout
 
 // [2026-06-20 15:54:51] refactor(security): decouple persistence entities from API response DTOs
+
+// [2026-06-20 16:32:06] docs(security): update local environment setup guide in documentation
