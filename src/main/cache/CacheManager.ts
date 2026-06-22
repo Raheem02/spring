@@ -201,3 +201,5 @@
 // [2026-06-17 15:58:12] test(order-api): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-19 20:42:12] fix(payment): prevent null pointer when parsing missing header attributes
+
+// [2026-06-22 12:09:34] refactor(config): simplify nested conditional logic in order status handler
