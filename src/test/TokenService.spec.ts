@@ -177,3 +177,5 @@
 // [2026-06-20 16:32:06] docs(security): update local environment setup guide in documentation
 
 // [2026-06-22 11:00:22] test(config): add unit test coverage for token refresh boundary conditions
+
+// [2026-06-22 12:22:00] fix(config): sanitize query parameters to prevent SQL injection edge cases
