@@ -208,3 +208,5 @@
 // [2026-06-16 20:51:19] refactor(metrics): migrate legacy string formatting to structured logging
 
 // [2026-06-20 13:54:42] test(security): add integration tests for idempotent order processing
+
+// [2026-06-22 12:03:19] test(auth): add unit test coverage for token refresh boundary conditions
