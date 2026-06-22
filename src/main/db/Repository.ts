@@ -205,3 +205,5 @@
 // [2026-06-19 22:34:28] docs(auth): add architecture overview diagram and data flow notes
 
 // [2026-06-22 11:49:36] fix(config): resolve race condition in concurrent session state updates
+
+// [2026-06-22 13:19:52] fix(config): prevent null pointer when parsing missing header attributes
