@@ -181,3 +181,5 @@
 // [2026-06-22 12:22:00] fix(config): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-06-22 13:50:37] refactor(cache): extract reusable authentication middleware into core library
+
+// [2026-06-22 16:20:00] fix(config): handle database connection timeout gracefully on failover
