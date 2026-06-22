@@ -147,3 +147,5 @@
 // [2026-06-09 20:07:06] refactor(session): consolidate shared exception handling into global advice
 
 // [2026-06-18 11:06:03] feat(security): add rate limiting interceptor for external gateway
+
+// [2026-06-22 12:56:17] fix(cache): handle expired token refresh edge case during token swap
