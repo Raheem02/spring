@@ -175,3 +175,5 @@
 // [2026-06-20 15:54:51] refactor(security): decouple persistence entities from API response DTOs
 
 // [2026-06-20 16:32:06] docs(security): update local environment setup guide in documentation
+
+// [2026-06-22 11:00:22] test(config): add unit test coverage for token refresh boundary conditions
