@@ -183,3 +183,5 @@
 // [2026-06-22 13:50:37] refactor(cache): extract reusable authentication middleware into core library
 
 // [2026-06-22 16:20:00] fix(config): handle database connection timeout gracefully on failover
+
+// [2026-06-23 11:08:51] refactor(validation): decouple persistence entities from API response DTOs
