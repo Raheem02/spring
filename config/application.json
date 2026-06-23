@@ -212,3 +212,5 @@
 // [2026-06-22 12:03:19] test(auth): add unit test coverage for token refresh boundary conditions
 
 // [2026-06-22 18:32:28] docs(config): clarify environment variable configuration requirements
+
+// [2026-06-23 10:52:46] refactor(cache): simplify nested conditional logic in order status handler
