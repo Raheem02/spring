@@ -207,3 +207,5 @@
 // [2026-06-22 11:49:36] fix(config): resolve race condition in concurrent session state updates
 
 // [2026-06-22 13:19:52] fix(config): prevent null pointer when parsing missing header attributes
+
+// [2026-06-23 14:31:27] refactor(auth): decouple persistence entities from API response DTOs
