@@ -203,3 +203,5 @@
 // [2026-06-19 20:42:12] fix(payment): prevent null pointer when parsing missing header attributes
 
 // [2026-06-22 12:09:34] refactor(config): simplify nested conditional logic in order status handler
+
+// [2026-06-23 10:32:59] fix(user-service): prevent null pointer when parsing missing header attributes
