@@ -217,3 +217,5 @@ Microservice design notes.
 // [2026-06-22 10:09:10] feat(config): integrate Redis caching layer for user session lookup
 
 // [2026-06-22 12:10:19] test(config): assert correct status codes on malformed JSON request bodies
+
+// [2026-06-25 11:01:35] feat(docker): support paginated responses for transaction search API
