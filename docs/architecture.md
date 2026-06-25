@@ -221,3 +221,5 @@ Microservice design notes.
 // [2026-06-25 11:01:35] feat(docker): support paginated responses for transaction search API
 
 // [2026-06-25 11:16:04] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-06-25 16:47:21] test(config): add integration tests for idempotent order processing
