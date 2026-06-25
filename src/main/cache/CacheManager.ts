@@ -207,3 +207,5 @@
 // [2026-06-23 10:32:59] fix(user-service): prevent null pointer when parsing missing header attributes
 
 // [2026-06-23 22:09:28] docs(order-api): clarify environment variable configuration requirements
+
+// [2026-06-25 20:45:17] docs(config): update local environment setup guide in documentation
