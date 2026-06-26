@@ -191,3 +191,5 @@
 // [2026-06-23 15:48:45] refactor(ci-pipeline): migrate legacy string formatting to structured logging
 
 // [2026-06-26 15:48:47] fix(security): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-06-26 22:13:52] docs(security): clarify environment variable configuration requirements
