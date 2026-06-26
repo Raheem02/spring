@@ -209,3 +209,5 @@
 // [2026-06-23 22:09:28] docs(order-api): clarify environment variable configuration requirements
 
 // [2026-06-25 20:45:17] docs(config): update local environment setup guide in documentation
+
+// [2026-06-26 12:14:48] test(security): mock downstream payment gateway failure responses in test suite
