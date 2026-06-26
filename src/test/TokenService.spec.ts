@@ -189,3 +189,5 @@
 // [2026-06-23 11:33:30] fix(order-api): handle database connection timeout gracefully on failover
 
 // [2026-06-23 15:48:45] refactor(ci-pipeline): migrate legacy string formatting to structured logging
+
+// [2026-06-26 15:48:47] fix(security): sanitize query parameters to prevent SQL injection edge cases
