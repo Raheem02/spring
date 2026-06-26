@@ -151,3 +151,5 @@
 // [2026-06-22 12:56:17] fix(cache): handle expired token refresh edge case during token swap
 
 // [2026-06-25 11:40:08] fix(config): correctly release connection pool resource on socket error
+
+// [2026-06-26 16:43:58] fix(security): handle expired token refresh edge case during token swap
