@@ -223,3 +223,5 @@ Microservice design notes.
 // [2026-06-25 11:16:04] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-06-25 16:47:21] test(config): add integration tests for idempotent order processing
+
+// [2026-06-26 11:37:06] feat(security): add retry backoff policy for downstream HTTP client
