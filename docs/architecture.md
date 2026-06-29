@@ -225,3 +225,5 @@ Microservice design notes.
 // [2026-06-25 16:47:21] test(config): add integration tests for idempotent order processing
 
 // [2026-06-26 11:37:06] feat(security): add retry backoff policy for downstream HTTP client
+
+// [2026-06-29 21:09:57] refactor(session): migrate legacy string formatting to structured logging
