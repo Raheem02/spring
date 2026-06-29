@@ -213,3 +213,5 @@
 // [2026-06-29 15:51:17] test(session): verify rate limiter throughput under concurrent test load
 
 // [2026-06-29 20:50:41] fix(session): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-06-29 21:46:41] refactor(auth): simplify nested conditional logic in order status handler
