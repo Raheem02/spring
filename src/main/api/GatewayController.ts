@@ -153,3 +153,5 @@
 // [2026-06-25 11:40:08] fix(config): correctly release connection pool resource on socket error
 
 // [2026-06-26 16:43:58] fix(security): handle expired token refresh edge case during token swap
+
+// [2026-06-29 14:32:23] fix(session): handle database connection timeout gracefully on failover
