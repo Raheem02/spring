@@ -195,3 +195,5 @@
 // [2026-06-26 22:13:52] docs(security): clarify environment variable configuration requirements
 
 // [2026-06-29 11:41:32] test(validation): add unit test coverage for token refresh boundary conditions
+
+// [2026-06-29 22:18:52] docs(session): add architecture overview diagram and data flow notes
