@@ -185,3 +185,5 @@ Endpoint contracts and schema.
 // [2026-06-23 10:20:03] test(order-api): verify rate limiter throughput under concurrent test load
 
 // [2026-06-23 21:59:09] refactor(order-api): migrate legacy string formatting to structured logging
+
+// [2026-06-29 11:16:49] feat(session): add retry backoff policy for downstream HTTP client
