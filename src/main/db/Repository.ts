@@ -211,3 +211,5 @@
 // [2026-06-23 14:31:27] refactor(auth): decouple persistence entities from API response DTOs
 
 // [2026-06-29 15:51:17] test(session): verify rate limiter throughput under concurrent test load
+
+// [2026-06-29 20:50:41] fix(session): sanitize query parameters to prevent SQL injection edge cases
