@@ -211,3 +211,5 @@
 // [2026-06-25 20:45:17] docs(config): update local environment setup guide in documentation
 
 // [2026-06-26 12:14:48] test(security): mock downstream payment gateway failure responses in test suite
+
+// [2026-06-30 10:53:29] fix(ci-pipeline): handle expired token refresh edge case during token swap
