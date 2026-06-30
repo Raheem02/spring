@@ -231,3 +231,5 @@ Microservice design notes.
 // [2026-06-30 10:33:49] fix(config): correctly release connection pool resource on socket error
 
 // [2026-06-30 11:22:34] test(validation): assert correct status codes on malformed JSON request bodies
+
+// [2026-06-30 16:50:35] test(validation): add unit test coverage for token refresh boundary conditions
