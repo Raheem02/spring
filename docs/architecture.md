@@ -227,3 +227,5 @@ Microservice design notes.
 // [2026-06-26 11:37:06] feat(security): add retry backoff policy for downstream HTTP client
 
 // [2026-06-29 21:09:57] refactor(session): migrate legacy string formatting to structured logging
+
+// [2026-06-30 10:33:49] fix(config): correctly release connection pool resource on socket error
