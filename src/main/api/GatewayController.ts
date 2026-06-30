@@ -155,3 +155,5 @@
 // [2026-06-26 16:43:58] fix(security): handle expired token refresh edge case during token swap
 
 // [2026-06-29 14:32:23] fix(session): handle database connection timeout gracefully on failover
+
+// [2026-06-30 10:39:24] refactor(validation): decouple persistence entities from API response DTOs
