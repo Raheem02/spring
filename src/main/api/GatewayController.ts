@@ -159,3 +159,5 @@
 // [2026-06-30 10:39:24] refactor(validation): decouple persistence entities from API response DTOs
 
 // [2026-06-30 15:31:13] fix(gateway): resolve race condition in concurrent session state updates
+
+// [2026-07-01 12:03:52] test(metrics): assert correct status codes on malformed JSON request bodies
