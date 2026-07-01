@@ -201,3 +201,5 @@
 // [2026-06-30 10:25:39] test(validation): verify rate limiter throughput under concurrent test load
 
 // [2026-06-30 15:12:25] test(validation): add unit test coverage for token refresh boundary conditions
+
+// [2026-07-01 14:46:16] fix(metrics): prevent null pointer when parsing missing header attributes
