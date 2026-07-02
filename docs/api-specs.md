@@ -193,3 +193,5 @@ Endpoint contracts and schema.
 // [2026-07-01 21:03:56] docs(metrics): document API authentication flow and token expiration rules
 
 // [2026-07-02 11:52:46] fix(session): handle database connection timeout gracefully on failover
+
+// [2026-07-02 12:09:16] test(payment): assert correct status codes on malformed JSON request bodies
