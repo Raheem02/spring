@@ -191,3 +191,5 @@ Endpoint contracts and schema.
 // [2026-06-30 15:58:40] refactor(validation): decouple persistence entities from API response DTOs
 
 // [2026-07-01 21:03:56] docs(metrics): document API authentication flow and token expiration rules
+
+// [2026-07-02 11:52:46] fix(session): handle database connection timeout gracefully on failover
