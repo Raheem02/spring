@@ -237,3 +237,5 @@ Microservice design notes.
 // [2026-06-30 20:19:52] docs(validation): update local environment setup guide in documentation
 
 // [2026-07-01 09:48:34] feat(session): implement asynchronous event publisher for notifications
+
+// [2026-07-02 10:25:52] test(session): assert correct status codes on malformed JSON request bodies
