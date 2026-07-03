@@ -207,3 +207,5 @@
 // [2026-06-30 16:04:46] fix(validation): resolve race condition in concurrent session state updates
 
 // [2026-07-01 16:30:09] refactor(session): migrate legacy string formatting to structured logging
+
+// [2026-07-03 11:08:19] fix(database): prevent null pointer when parsing missing header attributes
