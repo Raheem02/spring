@@ -241,3 +241,5 @@ Microservice design notes.
 // [2026-07-02 10:25:52] test(session): assert correct status codes on malformed JSON request bodies
 
 // [2026-07-02 16:29:29] docs(session): clarify environment variable configuration requirements
+
+// [2026-07-03 22:24:45] docs(database): add architecture overview diagram and data flow notes
