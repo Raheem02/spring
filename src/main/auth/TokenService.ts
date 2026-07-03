@@ -211,3 +211,5 @@
 // [2026-07-03 11:08:19] fix(database): prevent null pointer when parsing missing header attributes
 
 // [2026-07-03 11:39:08] test(database): assert correct status codes on malformed JSON request bodies
+
+// [2026-07-03 12:57:03] refactor(database): migrate legacy string formatting to structured logging
