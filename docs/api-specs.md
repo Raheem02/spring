@@ -195,3 +195,5 @@ Endpoint contracts and schema.
 // [2026-07-02 11:52:46] fix(session): handle database connection timeout gracefully on failover
 
 // [2026-07-02 12:09:16] test(payment): assert correct status codes on malformed JSON request bodies
+
+// [2026-07-03 09:53:58] feat(database): support paginated responses for transaction search API
