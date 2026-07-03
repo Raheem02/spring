@@ -215,3 +215,5 @@
 // [2026-06-30 10:53:29] fix(ci-pipeline): handle expired token refresh edge case during token swap
 
 // [2026-07-03 12:08:49] fix(config): correctly release connection pool resource on socket error
+
+// [2026-07-03 16:13:02] fix(database): fix incorrect timestamp serialization in audit log payload
