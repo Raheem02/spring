@@ -207,3 +207,5 @@
 // [2026-07-02 10:09:37] feat(session): implement idempotency key validator for payment checkout
 
 // [2026-07-03 11:01:12] test(database): add integration tests for idempotent order processing
+
+// [2026-07-03 21:41:33] fix(database): correctly release connection pool resource on socket error
