@@ -213,3 +213,5 @@
 // [2026-06-26 12:14:48] test(security): mock downstream payment gateway failure responses in test suite
 
 // [2026-06-30 10:53:29] fix(ci-pipeline): handle expired token refresh edge case during token swap
+
+// [2026-07-03 12:08:49] fix(config): correctly release connection pool resource on socket error
