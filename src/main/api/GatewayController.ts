@@ -161,3 +161,5 @@
 // [2026-06-30 15:31:13] fix(gateway): resolve race condition in concurrent session state updates
 
 // [2026-07-01 12:03:52] test(metrics): assert correct status codes on malformed JSON request bodies
+
+// [2026-07-06 15:47:03] fix(payment): correctly release connection pool resource on socket error
