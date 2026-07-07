@@ -213,3 +213,5 @@
 // [2026-07-03 11:39:08] test(database): assert correct status codes on malformed JSON request bodies
 
 // [2026-07-03 12:57:03] refactor(database): migrate legacy string formatting to structured logging
+
+// [2026-07-07 12:04:39] test(metrics): add unit test coverage for token refresh boundary conditions
