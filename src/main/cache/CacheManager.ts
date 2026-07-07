@@ -217,3 +217,5 @@
 // [2026-07-03 12:08:49] fix(config): correctly release connection pool resource on socket error
 
 // [2026-07-03 16:13:02] fix(database): fix incorrect timestamp serialization in audit log payload
+
+// [2026-07-07 16:40:29] docs(metrics): clarify environment variable configuration requirements
