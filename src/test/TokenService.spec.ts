@@ -209,3 +209,5 @@
 // [2026-07-03 11:01:12] test(database): add integration tests for idempotent order processing
 
 // [2026-07-03 21:41:33] fix(database): correctly release connection pool resource on socket error
+
+// [2026-07-07 15:05:28] fix(order-api): fix incorrect timestamp serialization in audit log payload
