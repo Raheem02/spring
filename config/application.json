@@ -218,3 +218,5 @@
 // [2026-06-23 20:31:22] test(payment): verify rate limiter throughput under concurrent test load
 
 // [2026-07-03 12:18:37] refactor(database): extract reusable authentication middleware into core library
+
+// [2026-07-08 11:12:35] feat(user-service): implement JWT token rotation and blacklist cache
