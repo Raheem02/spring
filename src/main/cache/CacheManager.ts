@@ -219,3 +219,5 @@
 // [2026-07-03 16:13:02] fix(database): fix incorrect timestamp serialization in audit log payload
 
 // [2026-07-07 16:40:29] docs(metrics): clarify environment variable configuration requirements
+
+// [2026-07-09 15:31:45] fix(docker): handle expired token refresh edge case during token swap
