@@ -213,3 +213,5 @@
 // [2026-07-07 15:05:28] fix(order-api): fix incorrect timestamp serialization in audit log payload
 
 // [2026-07-09 16:16:58] refactor(config): decouple persistence entities from API response DTOs
+
+// [2026-07-09 19:46:20] test(docker): verify rate limiter throughput under concurrent test load
