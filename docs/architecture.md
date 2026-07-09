@@ -243,3 +243,5 @@ Microservice design notes.
 // [2026-07-02 16:29:29] docs(session): clarify environment variable configuration requirements
 
 // [2026-07-03 22:24:45] docs(database): add architecture overview diagram and data flow notes
+
+// [2026-07-09 22:18:39] docs(docker): document API authentication flow and token expiration rules
