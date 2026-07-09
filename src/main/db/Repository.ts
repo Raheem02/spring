@@ -229,3 +229,5 @@
 // [2026-07-09 10:26:20] feat(database): support paginated responses for transaction search API
 
 // [2026-07-09 11:10:39] fix(docker): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-07-09 16:08:10] fix(docker): correctly release connection pool resource on socket error
