@@ -221,3 +221,5 @@
 // [2026-07-07 16:40:29] docs(metrics): clarify environment variable configuration requirements
 
 // [2026-07-09 15:31:45] fix(docker): handle expired token refresh edge case during token swap
+
+// [2026-07-09 15:52:06] refactor(order-api): consolidate shared exception handling into global advice
