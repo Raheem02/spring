@@ -231,3 +231,5 @@
 // [2026-07-09 11:10:39] fix(docker): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-07-09 16:08:10] fix(docker): correctly release connection pool resource on socket error
+
+// [2026-07-09 16:22:24] test(docker): mock downstream payment gateway failure responses in test suite
