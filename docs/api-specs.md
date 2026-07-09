@@ -199,3 +199,5 @@ Endpoint contracts and schema.
 // [2026-07-03 09:53:58] feat(database): support paginated responses for transaction search API
 
 // [2026-07-03 21:03:32] refactor(database): extract reusable authentication middleware into core library
+
+// [2026-07-09 12:07:15] refactor(docker): simplify nested conditional logic in order status handler
