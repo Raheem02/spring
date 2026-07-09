@@ -203,3 +203,5 @@ Endpoint contracts and schema.
 // [2026-07-09 12:07:15] refactor(docker): simplify nested conditional logic in order status handler
 
 // [2026-07-09 15:39:01] test(docker): add integration tests for idempotent order processing
+
+// [2026-07-09 21:19:42] refactor(docker): migrate legacy string formatting to structured logging
