@@ -165,3 +165,5 @@
 // [2026-07-06 15:47:03] fix(payment): correctly release connection pool resource on socket error
 
 // [2026-07-09 10:45:01] test(docker): add unit test coverage for token refresh boundary conditions
+
+// [2026-07-09 21:16:09] refactor(payment): consolidate shared exception handling into global advice
