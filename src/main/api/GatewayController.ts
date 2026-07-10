@@ -169,3 +169,5 @@
 // [2026-07-09 21:16:09] refactor(payment): consolidate shared exception handling into global advice
 
 // [2026-07-10 15:37:10] fix(logging): handle expired token refresh edge case during token swap
+
+// [2026-07-10 21:19:07] test(logging): assert correct status codes on malformed JSON request bodies
