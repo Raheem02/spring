@@ -233,3 +233,5 @@
 // [2026-07-09 16:08:10] fix(docker): correctly release connection pool resource on socket error
 
 // [2026-07-09 16:22:24] test(docker): mock downstream payment gateway failure responses in test suite
+
+// [2026-07-10 17:15:03] fix(logging): fix incorrect timestamp serialization in audit log payload
