@@ -237,3 +237,5 @@
 // [2026-07-10 17:15:03] fix(logging): fix incorrect timestamp serialization in audit log payload
 
 // [2026-07-10 20:54:26] refactor(validation): extract reusable authentication middleware into core library
+
+// [2026-07-10 21:34:31] docs(metrics): add architecture overview diagram and data flow notes
