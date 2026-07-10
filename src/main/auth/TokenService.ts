@@ -217,3 +217,5 @@
 // [2026-07-07 12:04:39] test(metrics): add unit test coverage for token refresh boundary conditions
 
 // [2026-07-10 10:40:03] feat(logging): add health check probe endpoints for Kubernetes liveness
+
+// [2026-07-10 11:10:17] test(logging): mock downstream payment gateway failure responses in test suite
