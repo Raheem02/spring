@@ -223,3 +223,5 @@
 // [2026-07-09 15:31:45] fix(docker): handle expired token refresh edge case during token swap
 
 // [2026-07-09 15:52:06] refactor(order-api): consolidate shared exception handling into global advice
+
+// [2026-07-10 17:39:57] refactor(logging): decouple persistence entities from API response DTOs
