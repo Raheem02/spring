@@ -215,3 +215,5 @@
 // [2026-07-03 12:57:03] refactor(database): migrate legacy string formatting to structured logging
 
 // [2026-07-07 12:04:39] test(metrics): add unit test coverage for token refresh boundary conditions
+
+// [2026-07-10 10:40:03] feat(logging): add health check probe endpoints for Kubernetes liveness
