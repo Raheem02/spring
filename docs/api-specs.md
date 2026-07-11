@@ -205,3 +205,5 @@ Endpoint contracts and schema.
 // [2026-07-09 15:39:01] test(docker): add integration tests for idempotent order processing
 
 // [2026-07-09 21:19:42] refactor(docker): migrate legacy string formatting to structured logging
+
+// [2026-07-11 13:31:36] chore(security): add linting rules for consistent code formatting
