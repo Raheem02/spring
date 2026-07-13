@@ -215,3 +215,5 @@
 // [2026-07-09 16:16:58] refactor(config): decouple persistence entities from API response DTOs
 
 // [2026-07-09 19:46:20] test(docker): verify rate limiter throughput under concurrent test load
+
+// [2026-07-13 11:02:11] fix(gateway): handle expired token refresh edge case during token swap
