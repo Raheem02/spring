@@ -239,3 +239,5 @@
 // [2026-07-10 20:54:26] refactor(validation): extract reusable authentication middleware into core library
 
 // [2026-07-10 21:34:31] docs(metrics): add architecture overview diagram and data flow notes
+
+// [2026-07-13 15:04:44] fix(ci-pipeline): handle expired token refresh edge case during token swap
