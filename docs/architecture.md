@@ -249,3 +249,5 @@ Microservice design notes.
 // [2026-07-13 10:42:17] feat(ci-pipeline): implement asynchronous event publisher for notifications
 
 // [2026-07-13 11:03:45] fix(logging): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-07-13 15:52:21] refactor(ci-pipeline): decouple persistence entities from API response DTOs
