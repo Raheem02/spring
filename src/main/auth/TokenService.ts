@@ -219,3 +219,5 @@
 // [2026-07-10 10:40:03] feat(logging): add health check probe endpoints for Kubernetes liveness
 
 // [2026-07-10 11:10:17] test(logging): mock downstream payment gateway failure responses in test suite
+
+// [2026-07-13 13:29:35] refactor(ci-pipeline): simplify nested conditional logic in order status handler
