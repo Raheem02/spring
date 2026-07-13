@@ -207,3 +207,5 @@ Endpoint contracts and schema.
 // [2026-07-09 21:19:42] refactor(docker): migrate legacy string formatting to structured logging
 
 // [2026-07-11 13:31:36] chore(security): add linting rules for consistent code formatting
+
+// [2026-07-13 15:31:37] refactor(ci-pipeline): consolidate shared exception handling into global advice
