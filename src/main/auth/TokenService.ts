@@ -221,3 +221,5 @@
 // [2026-07-10 11:10:17] test(logging): mock downstream payment gateway failure responses in test suite
 
 // [2026-07-13 13:29:35] refactor(ci-pipeline): simplify nested conditional logic in order status handler
+
+// [2026-07-13 16:13:43] docs(ci-pipeline): document API authentication flow and token expiration rules
