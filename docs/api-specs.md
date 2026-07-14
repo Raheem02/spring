@@ -209,3 +209,5 @@ Endpoint contracts and schema.
 // [2026-07-11 13:31:36] chore(security): add linting rules for consistent code formatting
 
 // [2026-07-13 15:31:37] refactor(ci-pipeline): consolidate shared exception handling into global advice
+
+// [2026-07-14 14:43:36] test(session): mock downstream payment gateway failure responses in test suite
