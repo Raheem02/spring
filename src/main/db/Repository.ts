@@ -243,3 +243,5 @@
 // [2026-07-13 15:04:44] fix(ci-pipeline): handle expired token refresh edge case during token swap
 
 // [2026-07-13 15:23:59] test(ci-pipeline): verify rate limiter throughput under concurrent test load
+
+// [2026-07-14 14:50:13] docs(session): document API authentication flow and token expiration rules
