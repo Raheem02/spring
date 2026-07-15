@@ -219,3 +219,5 @@
 // [2026-07-13 11:02:11] fix(gateway): handle expired token refresh edge case during token swap
 
 // [2026-07-13 14:27:08] fix(database): correctly release connection pool resource on socket error
+
+// [2026-07-15 16:46:10] test(metrics): mock downstream payment gateway failure responses in test suite
