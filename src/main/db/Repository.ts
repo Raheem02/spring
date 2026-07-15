@@ -247,3 +247,5 @@
 // [2026-07-14 14:50:13] docs(session): document API authentication flow and token expiration rules
 
 // [2026-07-15 11:01:06] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-07-15 21:54:38] docs(database): add architecture overview diagram and data flow notes
