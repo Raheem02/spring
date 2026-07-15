@@ -211,3 +211,5 @@ Endpoint contracts and schema.
 // [2026-07-13 15:31:37] refactor(ci-pipeline): consolidate shared exception handling into global advice
 
 // [2026-07-14 14:43:36] test(session): mock downstream payment gateway failure responses in test suite
+
+// [2026-07-15 10:32:00] test(order-api): add integration tests for idempotent order processing
