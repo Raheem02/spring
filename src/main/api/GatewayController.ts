@@ -173,3 +173,5 @@
 // [2026-07-10 21:19:07] test(logging): assert correct status codes on malformed JSON request bodies
 
 // [2026-07-13 10:53:47] test(session): assert correct status codes on malformed JSON request bodies
+
+// [2026-07-15 10:35:46] fix(config): handle expired token refresh edge case during token swap
