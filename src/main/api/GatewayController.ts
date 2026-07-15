@@ -179,3 +179,5 @@
 // [2026-07-15 11:02:01] test(config): verify rate limiter throughput under concurrent test load
 
 // [2026-07-15 11:07:05] fix(config): fix incorrect timestamp serialization in audit log payload
+
+// [2026-07-15 17:40:56] test(config): add unit test coverage for token refresh boundary conditions
