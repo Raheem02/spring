@@ -255,3 +255,5 @@ Microservice design notes.
 // [2026-07-13 16:10:00] fix(auth): handle database connection timeout gracefully on failover
 
 // [2026-07-14 11:20:09] fix(session): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-07-16 20:59:42] test(order-api): verify rate limiter throughput under concurrent test load
