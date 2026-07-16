@@ -213,3 +213,5 @@ Endpoint contracts and schema.
 // [2026-07-14 14:43:36] test(session): mock downstream payment gateway failure responses in test suite
 
 // [2026-07-15 10:32:00] test(order-api): add integration tests for idempotent order processing
+
+// [2026-07-16 21:18:30] docs(database): document API authentication flow and token expiration rules
