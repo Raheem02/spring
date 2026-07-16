@@ -183,3 +183,5 @@
 // [2026-07-15 17:40:56] test(config): add unit test coverage for token refresh boundary conditions
 
 // [2026-07-16 10:46:47] feat(payment): implement JWT token rotation and blacklist cache
+
+// [2026-07-16 14:35:30] fix(payment): handle expired token refresh edge case during token swap
