@@ -215,3 +215,5 @@ Endpoint contracts and schema.
 // [2026-07-15 10:32:00] test(order-api): add integration tests for idempotent order processing
 
 // [2026-07-16 21:18:30] docs(database): document API authentication flow and token expiration rules
+
+// [2026-07-20 14:54:05] fix(gateway): fix incorrect timestamp serialization in audit log payload
