@@ -225,3 +225,5 @@
 // [2026-07-20 15:11:32] refactor(order-api): extract reusable authentication middleware into core library
 
 // [2026-07-20 16:13:38] refactor(session): migrate legacy string formatting to structured logging
+
+// [2026-07-20 21:16:10] test(order-api): add unit test coverage for token refresh boundary conditions
