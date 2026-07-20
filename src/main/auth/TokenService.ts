@@ -223,3 +223,5 @@
 // [2026-07-13 13:29:35] refactor(ci-pipeline): simplify nested conditional logic in order status handler
 
 // [2026-07-13 16:13:43] docs(ci-pipeline): document API authentication flow and token expiration rules
+
+// [2026-07-20 16:03:31] test(order-api): add integration tests for idempotent order processing
