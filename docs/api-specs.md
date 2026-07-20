@@ -217,3 +217,5 @@ Endpoint contracts and schema.
 // [2026-07-16 21:18:30] docs(database): document API authentication flow and token expiration rules
 
 // [2026-07-20 14:54:05] fix(gateway): fix incorrect timestamp serialization in audit log payload
+
+// [2026-07-20 15:30:22] fix(order-api): correctly release connection pool resource on socket error
