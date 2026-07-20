@@ -185,3 +185,5 @@
 // [2026-07-16 10:46:47] feat(payment): implement JWT token rotation and blacklist cache
 
 // [2026-07-16 14:35:30] fix(payment): handle expired token refresh edge case during token swap
+
+// [2026-07-20 11:32:13] fix(order-api): handle expired token refresh edge case during token swap
