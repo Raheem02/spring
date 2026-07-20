@@ -253,3 +253,5 @@
 // [2026-07-20 10:26:56] feat(order-api): add health check probe endpoints for Kubernetes liveness
 
 // [2026-07-20 10:27:15] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-07-20 16:45:53] refactor(order-api): extract reusable authentication middleware into core library
