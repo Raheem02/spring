@@ -251,3 +251,5 @@
 // [2026-07-15 21:54:38] docs(database): add architecture overview diagram and data flow notes
 
 // [2026-07-20 10:26:56] feat(order-api): add health check probe endpoints for Kubernetes liveness
+
+// [2026-07-20 10:27:15] test(order-api): assert correct status codes on malformed JSON request bodies
