@@ -229,3 +229,5 @@
 // [2026-07-20 21:16:10] test(order-api): add unit test coverage for token refresh boundary conditions
 
 // [2026-07-20 22:04:36] test(payment): verify rate limiter throughput under concurrent test load
+
+// [2026-07-20 22:23:57] fix(order-api): handle expired token refresh edge case during token swap
