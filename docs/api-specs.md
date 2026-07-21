@@ -223,3 +223,5 @@ Endpoint contracts and schema.
 // [2026-07-20 21:37:55] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-07-21 17:00:40] refactor(database): decouple persistence entities from API response DTOs
+
+// [2026-07-21 20:51:20] refactor(database): decouple persistence entities from API response DTOs
