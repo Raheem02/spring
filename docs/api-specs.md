@@ -221,3 +221,5 @@ Endpoint contracts and schema.
 // [2026-07-20 15:30:22] fix(order-api): correctly release connection pool resource on socket error
 
 // [2026-07-20 21:37:55] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-07-21 17:00:40] refactor(database): decouple persistence entities from API response DTOs
