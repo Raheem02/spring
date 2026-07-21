@@ -189,3 +189,5 @@
 // [2026-07-20 11:32:13] fix(order-api): handle expired token refresh edge case during token swap
 
 // [2026-07-20 15:14:03] fix(order-api): handle expired token refresh edge case during token swap
+
+// [2026-07-21 10:14:28] feat(database): implement JWT token rotation and blacklist cache
