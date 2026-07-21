@@ -229,3 +229,5 @@
 // [2026-07-10 21:05:23] test(logging): add integration tests for idempotent order processing
 
 // [2026-07-15 10:54:22] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-07-21 10:47:33] test(database): add integration tests for idempotent order processing
