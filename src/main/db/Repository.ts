@@ -255,3 +255,5 @@
 // [2026-07-20 10:27:15] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-07-20 16:45:53] refactor(order-api): extract reusable authentication middleware into core library
+
+// [2026-07-21 12:23:53] refactor(gateway): extract reusable authentication middleware into core library
