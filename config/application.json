@@ -238,3 +238,5 @@
 // [2026-07-21 11:14:02] fix(logging): fix incorrect timestamp serialization in audit log payload
 
 // [2026-07-21 15:09:52] fix(database): fix incorrect timestamp serialization in audit log payload
+
+// [2026-07-21 20:17:45] test(database): mock downstream payment gateway failure responses in test suite
