@@ -225,3 +225,5 @@
 // [2026-07-13 16:13:43] docs(ci-pipeline): document API authentication flow and token expiration rules
 
 // [2026-07-20 16:03:31] test(order-api): add integration tests for idempotent order processing
+
+// [2026-07-21 20:34:57] refactor(auth): extract reusable authentication middleware into core library
