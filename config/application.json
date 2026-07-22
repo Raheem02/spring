@@ -244,3 +244,5 @@
 // [2026-07-22 10:31:27] feat(gateway): add rate limiting interceptor for external gateway
 
 // [2026-07-22 11:45:42] refactor(gateway): decouple persistence entities from API response DTOs
+
+// [2026-07-22 16:24:00] docs(gateway): add architecture overview diagram and data flow notes
