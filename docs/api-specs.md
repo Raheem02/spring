@@ -233,3 +233,5 @@ Endpoint contracts and schema.
 // [2026-07-23 11:25:57] test(user-service): assert correct status codes on malformed JSON request bodies
 
 // [2026-07-23 13:20:38] fix(cache): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-07-23 19:04:34] docs(order-api): clarify environment variable configuration requirements
