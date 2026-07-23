@@ -229,3 +229,5 @@ Endpoint contracts and schema.
 // [2026-07-21 21:56:10] docs(database): clarify environment variable configuration requirements
 
 // [2026-07-22 15:19:14] fix(gateway): correctly release connection pool resource on socket error
+
+// [2026-07-23 11:25:57] test(user-service): assert correct status codes on malformed JSON request bodies
