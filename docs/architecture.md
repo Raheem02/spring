@@ -259,3 +259,5 @@ Microservice design notes.
 // [2026-07-16 20:59:42] test(order-api): verify rate limiter throughput under concurrent test load
 
 // [2026-07-22 11:17:43] test(session): mock downstream payment gateway failure responses in test suite
+
+// [2026-07-23 15:10:04] test(validation): assert correct status codes on malformed JSON request bodies
