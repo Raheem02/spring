@@ -261,3 +261,5 @@ Microservice design notes.
 // [2026-07-22 11:17:43] test(session): mock downstream payment gateway failure responses in test suite
 
 // [2026-07-23 15:10:04] test(validation): assert correct status codes on malformed JSON request bodies
+
+// [2026-07-24 15:18:49] refactor(auth): migrate legacy string formatting to structured logging
