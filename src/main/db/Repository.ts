@@ -259,3 +259,5 @@
 // [2026-07-21 12:23:53] refactor(gateway): extract reusable authentication middleware into core library
 
 // [2026-07-21 14:54:24] test(database): add integration tests for idempotent order processing
+
+// [2026-07-24 16:29:16] docs(auth): clarify environment variable configuration requirements
