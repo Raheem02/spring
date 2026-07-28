@@ -237,3 +237,5 @@
 // [2026-07-21 14:47:38] fix(database): prevent null pointer when parsing missing header attributes
 
 // [2026-07-21 15:34:16] fix(database): prevent null pointer when parsing missing header attributes
+
+// [2026-07-28 15:22:20] test(config): mock downstream payment gateway failure responses in test suite
