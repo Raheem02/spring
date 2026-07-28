@@ -263,3 +263,5 @@ Microservice design notes.
 // [2026-07-23 15:10:04] test(validation): assert correct status codes on malformed JSON request bodies
 
 // [2026-07-24 15:18:49] refactor(auth): migrate legacy string formatting to structured logging
+
+// [2026-07-28 20:41:44] docs(config): add architecture overview diagram and data flow notes
