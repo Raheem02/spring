@@ -235,3 +235,5 @@ Endpoint contracts and schema.
 // [2026-07-23 13:20:38] fix(cache): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-07-23 19:04:34] docs(order-api): clarify environment variable configuration requirements
+
+// [2026-07-28 14:07:45] test(config): add unit test coverage for token refresh boundary conditions
