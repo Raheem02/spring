@@ -265,3 +265,5 @@
 // [2026-07-28 10:46:38] feat(config): implement asynchronous event publisher for notifications
 
 // [2026-07-28 15:02:26] fix(config): resolve race condition in concurrent session state updates
+
+// [2026-07-30 16:09:59] refactor(session): decouple persistence entities from API response DTOs
