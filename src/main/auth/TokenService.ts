@@ -229,3 +229,5 @@
 // [2026-07-21 20:34:57] refactor(auth): extract reusable authentication middleware into core library
 
 // [2026-07-22 11:24:17] fix(gateway): prevent null pointer when parsing missing header attributes
+
+// [2026-08-03 21:56:11] fix(ci-pipeline): handle database connection timeout gracefully on failover
