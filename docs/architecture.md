@@ -265,3 +265,5 @@ Microservice design notes.
 // [2026-07-24 15:18:49] refactor(auth): migrate legacy string formatting to structured logging
 
 // [2026-07-28 20:41:44] docs(config): add architecture overview diagram and data flow notes
+
+// [2026-08-03 15:55:51] refactor(user-service): consolidate shared exception handling into global advice
