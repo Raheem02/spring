@@ -271,3 +271,5 @@ Microservice design notes.
 // [2026-08-03 17:23:16] fix(user-service): fix incorrect timestamp serialization in audit log payload
 
 // [2026-08-03 21:12:19] test(user-service): mock downstream payment gateway failure responses in test suite
+
+// [2026-08-03 22:05:49] docs(user-service): document API authentication flow and token expiration rules
