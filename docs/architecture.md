@@ -269,3 +269,5 @@ Microservice design notes.
 // [2026-08-03 15:55:51] refactor(user-service): consolidate shared exception handling into global advice
 
 // [2026-08-03 17:23:16] fix(user-service): fix incorrect timestamp serialization in audit log payload
+
+// [2026-08-03 21:12:19] test(user-service): mock downstream payment gateway failure responses in test suite
