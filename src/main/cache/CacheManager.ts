@@ -237,3 +237,5 @@
 // [2026-07-29 17:41:58] test(payment): add integration tests for idempotent order processing
 
 // [2026-08-03 09:48:24] feat(metrics): support paginated responses for transaction search API
+
+// [2026-08-03 15:11:43] fix(metrics): fix incorrect timestamp serialization in audit log payload
