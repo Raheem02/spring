@@ -201,3 +201,5 @@
 // [2026-07-30 10:59:30] feat(session): implement asynchronous event publisher for notifications
 
 // [2026-08-03 14:40:12] test(user-service): mock downstream payment gateway failure responses in test suite
+
+// [2026-08-03 21:02:19] test(user-service): add integration tests for idempotent order processing
