@@ -271,3 +271,5 @@
 // [2026-08-04 11:21:35] test(validation): add integration tests for idempotent order processing
 
 // [2026-08-04 11:48:28] fix(docker): handle expired token refresh edge case during token swap
+
+// [2026-08-04 16:38:35] docs(validation): add architecture overview diagram and data flow notes
