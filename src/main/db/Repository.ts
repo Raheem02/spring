@@ -269,3 +269,5 @@
 // [2026-07-30 16:09:59] refactor(session): decouple persistence entities from API response DTOs
 
 // [2026-08-04 11:21:35] test(validation): add integration tests for idempotent order processing
+
+// [2026-08-04 11:48:28] fix(docker): handle expired token refresh edge case during token swap
