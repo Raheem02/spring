@@ -241,3 +241,5 @@ Endpoint contracts and schema.
 // [2026-07-30 11:36:30] fix(session): resolve race condition in concurrent session state updates
 
 // [2026-08-03 11:27:42] fix(user-service): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-08-04 14:41:45] fix(validation): handle database connection timeout gracefully on failover
