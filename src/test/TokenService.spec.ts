@@ -239,3 +239,5 @@
 // [2026-07-21 15:34:16] fix(database): prevent null pointer when parsing missing header attributes
 
 // [2026-07-28 15:22:20] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-08-04 11:28:55] fix(user-service): fix incorrect timestamp serialization in audit log payload
