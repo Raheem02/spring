@@ -203,3 +203,5 @@
 // [2026-08-03 14:40:12] test(user-service): mock downstream payment gateway failure responses in test suite
 
 // [2026-08-03 21:02:19] test(user-service): add integration tests for idempotent order processing
+
+// [2026-08-05 15:33:56] test(order-api): verify rate limiter throughput under concurrent test load
