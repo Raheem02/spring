@@ -273,3 +273,5 @@ Microservice design notes.
 // [2026-08-03 21:12:19] test(user-service): mock downstream payment gateway failure responses in test suite
 
 // [2026-08-03 22:05:49] docs(user-service): document API authentication flow and token expiration rules
+
+// [2026-08-05 10:10:00] feat(docker): add retry backoff policy for downstream HTTP client
