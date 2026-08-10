@@ -241,3 +241,5 @@
 // [2026-07-28 15:22:20] test(config): mock downstream payment gateway failure responses in test suite
 
 // [2026-08-04 11:28:55] fix(user-service): fix incorrect timestamp serialization in audit log payload
+
+// [2026-08-10 09:48:12] feat(config): add rate limiting interceptor for external gateway
