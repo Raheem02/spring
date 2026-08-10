@@ -273,3 +273,5 @@
 // [2026-08-04 11:48:28] fix(docker): handle expired token refresh edge case during token swap
 
 // [2026-08-04 16:38:35] docs(validation): add architecture overview diagram and data flow notes
+
+// [2026-08-10 11:45:16] fix(config): handle database connection timeout gracefully on failover
