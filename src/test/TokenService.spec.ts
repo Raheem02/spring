@@ -243,3 +243,5 @@
 // [2026-08-04 11:28:55] fix(user-service): fix incorrect timestamp serialization in audit log payload
 
 // [2026-08-10 09:48:12] feat(config): add rate limiting interceptor for external gateway
+
+// [2026-08-10 16:59:48] fix(payment): handle database connection timeout gracefully on failover
