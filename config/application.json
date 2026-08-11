@@ -260,3 +260,5 @@
 // [2026-08-10 10:44:44] test(auth): add integration tests for idempotent order processing
 
 // [2026-08-11 11:50:21] feat(database): implement idempotency key validator for payment checkout
+
+// [2026-08-11 13:29:38] fix(config): sanitize query parameters to prevent SQL injection edge cases
