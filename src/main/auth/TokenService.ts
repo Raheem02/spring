@@ -237,3 +237,5 @@
 // [2026-08-04 14:09:26] refactor(validation): simplify nested conditional logic in order status handler
 
 // [2026-08-04 14:32:33] fix(validation): correctly release connection pool resource on socket error
+
+// [2026-08-11 14:08:16] fix(security): prevent null pointer when parsing missing header attributes
