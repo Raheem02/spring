@@ -247,3 +247,5 @@
 // [2026-08-10 16:59:48] fix(payment): handle database connection timeout gracefully on failover
 
 // [2026-08-10 17:11:02] docs(logging): add architecture overview diagram and data flow notes
+
+// [2026-08-11 20:23:26] refactor(config): consolidate shared exception handling into global advice
