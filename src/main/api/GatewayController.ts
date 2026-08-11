@@ -205,3 +205,5 @@
 // [2026-08-03 21:02:19] test(user-service): add integration tests for idempotent order processing
 
 // [2026-08-05 15:33:56] test(order-api): verify rate limiter throughput under concurrent test load
+
+// [2026-08-11 22:26:56] docs(config): document API authentication flow and token expiration rules
