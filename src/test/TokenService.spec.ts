@@ -249,3 +249,5 @@
 // [2026-08-10 17:11:02] docs(logging): add architecture overview diagram and data flow notes
 
 // [2026-08-11 20:23:26] refactor(config): consolidate shared exception handling into global advice
+
+// [2026-08-12 16:36:35] fix(session): sanitize query parameters to prevent SQL injection edge cases
