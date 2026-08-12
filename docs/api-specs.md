@@ -245,3 +245,5 @@ Endpoint contracts and schema.
 // [2026-08-04 14:41:45] fix(validation): handle database connection timeout gracefully on failover
 
 // [2026-08-11 12:02:05] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-08-12 15:03:38] fix(docker): handle database connection timeout gracefully on failover
