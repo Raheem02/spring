@@ -277,3 +277,5 @@ Microservice design notes.
 // [2026-08-05 10:10:00] feat(docker): add retry backoff policy for downstream HTTP client
 
 // [2026-08-06 16:15:20] docs(config): update local environment setup guide in documentation
+
+// [2026-08-12 10:48:00] feat(docker): support paginated responses for transaction search API
