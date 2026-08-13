@@ -275,3 +275,5 @@
 // [2026-08-04 16:38:35] docs(validation): add architecture overview diagram and data flow notes
 
 // [2026-08-10 11:45:16] fix(config): handle database connection timeout gracefully on failover
+
+// [2026-08-13 09:48:26] feat(cache): add rate limiting interceptor for external gateway
