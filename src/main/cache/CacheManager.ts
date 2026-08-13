@@ -247,3 +247,5 @@
 // [2026-08-11 15:10:07] test(config): assert correct status codes on malformed JSON request bodies
 
 // [2026-08-11 15:48:59] fix(config): handle expired token refresh edge case during token swap
+
+// [2026-08-13 10:28:47] test(metrics): add integration tests for idempotent order processing
