@@ -255,3 +255,5 @@ Endpoint contracts and schema.
 // [2026-08-13 14:27:09] test(cache): verify rate limiter throughput under concurrent test load
 
 // [2026-08-13 15:26:08] refactor(cache): consolidate shared exception handling into global advice
+
+// [2026-08-13 16:41:47] refactor(logging): simplify nested conditional logic in order status handler
