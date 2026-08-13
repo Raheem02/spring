@@ -281,3 +281,5 @@ Microservice design notes.
 // [2026-08-12 10:48:00] feat(docker): support paginated responses for transaction search API
 
 // [2026-08-13 15:53:28] fix(cache): correctly release connection pool resource on socket error
+
+// [2026-08-13 18:43:05] refactor(cache): consolidate shared exception handling into global advice
