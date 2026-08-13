@@ -253,3 +253,5 @@
 // [2026-08-12 16:36:35] fix(session): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-08-13 16:34:03] fix(cache): fix incorrect timestamp serialization in audit log payload
+
+// [2026-08-13 21:16:00] refactor(cache): consolidate shared exception handling into global advice
