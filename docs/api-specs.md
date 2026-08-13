@@ -249,3 +249,5 @@ Endpoint contracts and schema.
 // [2026-08-12 15:03:38] fix(docker): handle database connection timeout gracefully on failover
 
 // [2026-08-12 16:32:16] fix(docker): fix incorrect timestamp serialization in audit log payload
+
+// [2026-08-13 13:40:08] fix(validation): fix incorrect timestamp serialization in audit log payload
