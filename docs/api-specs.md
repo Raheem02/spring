@@ -257,3 +257,5 @@ Endpoint contracts and schema.
 // [2026-08-13 15:26:08] refactor(cache): consolidate shared exception handling into global advice
 
 // [2026-08-13 16:41:47] refactor(logging): simplify nested conditional logic in order status handler
+
+// [2026-08-13 19:44:02] refactor(metrics): migrate legacy string formatting to structured logging
