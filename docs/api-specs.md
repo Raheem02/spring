@@ -253,3 +253,5 @@ Endpoint contracts and schema.
 // [2026-08-13 13:40:08] fix(validation): fix incorrect timestamp serialization in audit log payload
 
 // [2026-08-13 14:27:09] test(cache): verify rate limiter throughput under concurrent test load
+
+// [2026-08-13 15:26:08] refactor(cache): consolidate shared exception handling into global advice
