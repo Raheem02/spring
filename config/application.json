@@ -266,3 +266,5 @@
 // [2026-08-11 14:27:09] test(auth): add unit test coverage for token refresh boundary conditions
 
 // [2026-08-12 17:29:34] docs(docker): clarify environment variable configuration requirements
+
+// [2026-08-17 09:48:31] feat(auth): implement asynchronous event publisher for notifications
