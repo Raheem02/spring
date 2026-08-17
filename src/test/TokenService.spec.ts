@@ -257,3 +257,5 @@
 // [2026-08-13 21:16:00] refactor(cache): consolidate shared exception handling into global advice
 
 // [2026-08-13 21:17:34] docs(metrics): update local environment setup guide in documentation
+
+// [2026-08-17 10:40:03] test(auth): add integration tests for idempotent order processing
