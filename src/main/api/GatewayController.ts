@@ -209,3 +209,5 @@
 // [2026-08-11 22:26:56] docs(config): document API authentication flow and token expiration rules
 
 // [2026-08-12 12:05:35] test(docker): verify rate limiter throughput under concurrent test load
+
+// [2026-08-17 17:09:40] docs(auth): update local environment setup guide in documentation
