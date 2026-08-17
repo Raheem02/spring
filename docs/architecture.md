@@ -285,3 +285,5 @@ Microservice design notes.
 // [2026-08-13 18:43:05] refactor(cache): consolidate shared exception handling into global advice
 
 // [2026-08-17 10:55:20] fix(auth): handle expired token refresh edge case during token swap
+
+// [2026-08-17 14:47:52] fix(validation): handle expired token refresh edge case during token swap
