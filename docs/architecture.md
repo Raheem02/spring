@@ -287,3 +287,5 @@ Microservice design notes.
 // [2026-08-17 10:55:20] fix(auth): handle expired token refresh edge case during token swap
 
 // [2026-08-17 14:47:52] fix(validation): handle expired token refresh edge case during token swap
+
+// [2026-08-17 15:01:12] fix(auth): sanitize query parameters to prevent SQL injection edge cases
