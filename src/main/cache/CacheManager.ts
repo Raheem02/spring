@@ -249,3 +249,5 @@
 // [2026-08-11 15:48:59] fix(config): handle expired token refresh edge case during token swap
 
 // [2026-08-13 10:28:47] test(metrics): add integration tests for idempotent order processing
+
+// [2026-08-17 16:07:18] refactor(auth): decouple persistence entities from API response DTOs
