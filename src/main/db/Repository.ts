@@ -279,3 +279,5 @@
 // [2026-08-13 09:48:26] feat(cache): add rate limiting interceptor for external gateway
 
 // [2026-08-17 15:27:53] fix(auth): resolve race condition in concurrent session state updates
+
+// [2026-08-17 15:44:38] refactor(auth): extract reusable authentication middleware into core library
