@@ -263,3 +263,5 @@ Endpoint contracts and schema.
 // [2026-08-17 16:31:31] refactor(auth): decouple persistence entities from API response DTOs
 
 // [2026-08-19 09:48:12] feat(ci-pipeline): add rate limiting interceptor for external gateway
+
+// [2026-08-19 14:30:55] fix(session): handle expired token refresh edge case during token swap
