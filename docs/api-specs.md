@@ -261,3 +261,5 @@ Endpoint contracts and schema.
 // [2026-08-13 19:44:02] refactor(metrics): migrate legacy string formatting to structured logging
 
 // [2026-08-17 16:31:31] refactor(auth): decouple persistence entities from API response DTOs
+
+// [2026-08-19 09:48:12] feat(ci-pipeline): add rate limiting interceptor for external gateway
