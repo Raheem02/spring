@@ -211,3 +211,5 @@
 // [2026-08-12 12:05:35] test(docker): verify rate limiter throughput under concurrent test load
 
 // [2026-08-17 17:09:40] docs(auth): update local environment setup guide in documentation
+
+// [2026-08-19 15:04:51] fix(session): prevent null pointer when parsing missing header attributes
