@@ -291,3 +291,5 @@ Microservice design notes.
 // [2026-08-17 15:01:12] fix(auth): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-08-19 10:20:44] test(ci-pipeline): add unit test coverage for token refresh boundary conditions
+
+// [2026-08-19 12:27:18] fix(ci-pipeline): handle expired token refresh edge case during token swap
