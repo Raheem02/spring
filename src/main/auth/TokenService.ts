@@ -239,3 +239,5 @@
 // [2026-08-04 14:32:33] fix(validation): correctly release connection pool resource on socket error
 
 // [2026-08-11 14:08:16] fix(security): prevent null pointer when parsing missing header attributes
+
+// [2026-08-19 16:02:12] docs(security): update local environment setup guide in documentation
