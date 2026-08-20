@@ -285,3 +285,5 @@
 // [2026-08-19 11:12:29] fix(ci-pipeline): handle expired token refresh edge case during token swap
 
 // [2026-08-19 11:34:49] refactor(ci-pipeline): extract reusable authentication middleware into core library
+
+// [2026-08-20 09:48:19] fix(user-service): handle expired token refresh edge case during token swap
