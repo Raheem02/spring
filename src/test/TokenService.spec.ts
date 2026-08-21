@@ -263,3 +263,5 @@
 // [2026-08-19 15:31:40] refactor(ci-pipeline): simplify nested conditional logic in order status handler
 
 // [2026-08-21 10:46:19] fix(order-api): prevent null pointer when parsing missing header attributes
+
+// [2026-08-21 11:02:01] test(order-api): add integration tests for idempotent order processing
