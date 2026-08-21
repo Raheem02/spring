@@ -213,3 +213,5 @@
 // [2026-08-17 17:09:40] docs(auth): update local environment setup guide in documentation
 
 // [2026-08-19 15:04:51] fix(session): prevent null pointer when parsing missing header attributes
+
+// [2026-08-21 10:39:11] test(payment): mock downstream payment gateway failure responses in test suite
