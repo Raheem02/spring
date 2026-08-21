@@ -293,3 +293,5 @@ Microservice design notes.
 // [2026-08-19 10:20:44] test(ci-pipeline): add unit test coverage for token refresh boundary conditions
 
 // [2026-08-19 12:27:18] fix(ci-pipeline): handle expired token refresh edge case during token swap
+
+// [2026-08-21 10:59:56] test(order-api): mock downstream payment gateway failure responses in test suite
