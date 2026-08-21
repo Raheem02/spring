@@ -293,3 +293,5 @@
 // [2026-08-21 11:45:04] refactor(order-api): consolidate shared exception handling into global advice
 
 // [2026-08-21 13:05:22] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-08-21 15:38:35] refactor(order-api): decouple persistence entities from API response DTOs
