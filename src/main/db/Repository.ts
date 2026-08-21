@@ -291,3 +291,5 @@
 // [2026-08-21 09:48:37] feat(order-api): integrate Redis caching layer for user session lookup
 
 // [2026-08-21 11:45:04] refactor(order-api): consolidate shared exception handling into global advice
+
+// [2026-08-21 13:05:22] test(order-api): assert correct status codes on malformed JSON request bodies
