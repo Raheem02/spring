@@ -274,3 +274,5 @@
 // [2026-08-17 13:56:58] refactor(auth): extract reusable authentication middleware into core library
 
 // [2026-08-19 14:38:15] fix(ci-pipeline): resolve race condition in concurrent session state updates
+
+// [2026-08-21 17:01:59] fix(order-api): handle database connection timeout gracefully on failover
