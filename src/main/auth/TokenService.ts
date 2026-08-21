@@ -241,3 +241,5 @@
 // [2026-08-11 14:08:16] fix(security): prevent null pointer when parsing missing header attributes
 
 // [2026-08-19 16:02:12] docs(security): update local environment setup guide in documentation
+
+// [2026-08-21 13:53:08] fix(config): prevent null pointer when parsing missing header attributes
