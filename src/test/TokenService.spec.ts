@@ -265,3 +265,5 @@
 // [2026-08-21 10:46:19] fix(order-api): prevent null pointer when parsing missing header attributes
 
 // [2026-08-21 11:02:01] test(order-api): add integration tests for idempotent order processing
+
+// [2026-08-21 15:16:40] refactor(order-api): extract reusable authentication middleware into core library
