@@ -289,3 +289,5 @@
 // [2026-08-20 09:48:19] fix(user-service): handle expired token refresh edge case during token swap
 
 // [2026-08-21 09:48:37] feat(order-api): integrate Redis caching layer for user session lookup
+
+// [2026-08-21 11:45:04] refactor(order-api): consolidate shared exception handling into global advice
