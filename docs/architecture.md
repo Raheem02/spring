@@ -297,3 +297,5 @@ Microservice design notes.
 // [2026-08-21 10:59:56] test(order-api): mock downstream payment gateway failure responses in test suite
 
 // [2026-08-21 17:03:27] refactor(ci-pipeline): decouple persistence entities from API response DTOs
+
+// [2026-08-21 20:49:33] docs(order-api): clarify environment variable configuration requirements
