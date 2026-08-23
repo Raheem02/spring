@@ -267,3 +267,5 @@ Endpoint contracts and schema.
 // [2026-08-19 14:30:55] fix(session): handle expired token refresh edge case during token swap
 
 // [2026-08-23 16:20:24] fix(order-api): prevent null pointer when parsing missing header attributes
+
+// [2026-08-23 20:22:07] refactor(docker): consolidate shared exception handling into global advice
