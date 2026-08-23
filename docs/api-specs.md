@@ -265,3 +265,5 @@ Endpoint contracts and schema.
 // [2026-08-19 09:48:12] feat(ci-pipeline): add rate limiting interceptor for external gateway
 
 // [2026-08-19 14:30:55] fix(session): handle expired token refresh edge case during token swap
+
+// [2026-08-23 16:20:24] fix(order-api): prevent null pointer when parsing missing header attributes
