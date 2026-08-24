@@ -217,3 +217,5 @@
 // [2026-08-21 10:39:11] test(payment): mock downstream payment gateway failure responses in test suite
 
 // [2026-08-21 15:36:38] refactor(order-api): decouple persistence entities from API response DTOs
+
+// [2026-08-24 21:06:34] refactor(database): consolidate shared exception handling into global advice
