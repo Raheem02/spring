@@ -251,3 +251,5 @@
 // [2026-08-13 10:28:47] test(metrics): add integration tests for idempotent order processing
 
 // [2026-08-17 16:07:18] refactor(auth): decouple persistence entities from API response DTOs
+
+// [2026-08-24 11:45:07] feat(database): support paginated responses for transaction search API
