@@ -219,3 +219,5 @@
 // [2026-08-21 15:36:38] refactor(order-api): decouple persistence entities from API response DTOs
 
 // [2026-08-24 21:06:34] refactor(database): consolidate shared exception handling into global advice
+
+// [2026-08-24 21:52:55] docs(database): add architecture overview diagram and data flow notes
