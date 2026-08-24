@@ -297,3 +297,5 @@
 // [2026-08-21 15:38:35] refactor(order-api): decouple persistence entities from API response DTOs
 
 // [2026-08-24 14:34:06] test(database): add unit test coverage for token refresh boundary conditions
+
+// [2026-08-24 17:24:08] test(docker): verify rate limiter throughput under concurrent test load
