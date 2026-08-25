@@ -269,3 +269,5 @@
 // [2026-08-21 15:16:40] refactor(order-api): extract reusable authentication middleware into core library
 
 // [2026-08-21 18:41:41] test(user-service): assert correct status codes on malformed JSON request bodies
+
+// [2026-08-25 11:37:23] test(security): add unit test coverage for token refresh boundary conditions
