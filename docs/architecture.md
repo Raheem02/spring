@@ -301,3 +301,5 @@ Microservice design notes.
 // [2026-08-21 20:49:33] docs(order-api): clarify environment variable configuration requirements
 
 // [2026-08-23 10:35:00] feat(docker): support paginated responses for transaction search API
+
+// [2026-08-25 09:52:45] refactor(order-api): simplify nested conditional logic in order status handler
