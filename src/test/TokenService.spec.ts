@@ -271,3 +271,5 @@
 // [2026-08-21 18:41:41] test(user-service): assert correct status codes on malformed JSON request bodies
 
 // [2026-08-25 11:37:23] test(security): add unit test coverage for token refresh boundary conditions
+
+// [2026-08-26 15:15:08] feat(metrics): add health check probe endpoints for Kubernetes liveness
