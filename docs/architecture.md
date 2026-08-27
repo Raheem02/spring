@@ -305,3 +305,5 @@ Microservice design notes.
 // [2026-08-25 09:52:45] refactor(order-api): simplify nested conditional logic in order status handler
 
 // [2026-08-27 11:25:41] fix(logging): resolve race condition in concurrent session state updates
+
+// [2026-08-27 17:22:12] docs(security): clarify environment variable configuration requirements
