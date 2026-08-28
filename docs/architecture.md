@@ -309,3 +309,5 @@ Microservice design notes.
 // [2026-08-27 17:22:12] docs(security): clarify environment variable configuration requirements
 
 // [2026-08-28 11:43:08] fix(cache): correctly release connection pool resource on socket error
+
+// [2026-08-28 12:22:12] refactor(cache): simplify nested conditional logic in order status handler
