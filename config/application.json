@@ -278,3 +278,5 @@
 // [2026-08-21 17:01:59] fix(order-api): handle database connection timeout gracefully on failover
 
 // [2026-08-24 15:58:48] fix(database): correctly release connection pool resource on socket error
+
+// [2026-08-28 15:26:03] test(cache): verify rate limiter throughput under concurrent test load
