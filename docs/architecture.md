@@ -311,3 +311,5 @@ Microservice design notes.
 // [2026-08-28 11:43:08] fix(cache): correctly release connection pool resource on socket error
 
 // [2026-08-28 12:22:12] refactor(cache): simplify nested conditional logic in order status handler
+
+// [2026-08-28 21:29:11] test(cache): assert correct status codes on malformed JSON request bodies
