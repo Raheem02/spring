@@ -227,3 +227,5 @@
 // [2026-08-28 15:18:16] refactor(payment): decouple persistence entities from API response DTOs
 
 // [2026-08-28 16:05:12] refactor(order-api): migrate legacy string formatting to structured logging
+
+// [2026-08-28 17:55:40] refactor(validation): migrate legacy string formatting to structured logging
