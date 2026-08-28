@@ -245,3 +245,5 @@
 // [2026-08-21 13:53:08] fix(config): prevent null pointer when parsing missing header attributes
 
 // [2026-08-21 16:04:55] refactor(security): decouple persistence entities from API response DTOs
+
+// [2026-08-28 10:02:38] feat(cache): add health check probe endpoints for Kubernetes liveness
