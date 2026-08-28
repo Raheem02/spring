@@ -307,3 +307,5 @@ Microservice design notes.
 // [2026-08-27 11:25:41] fix(logging): resolve race condition in concurrent session state updates
 
 // [2026-08-27 17:22:12] docs(security): clarify environment variable configuration requirements
+
+// [2026-08-28 11:43:08] fix(cache): correctly release connection pool resource on socket error
