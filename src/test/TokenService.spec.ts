@@ -275,3 +275,5 @@
 // [2026-08-26 15:15:08] feat(metrics): add health check probe endpoints for Kubernetes liveness
 
 // [2026-08-27 10:43:27] test(auth): assert correct status codes on malformed JSON request bodies
+
+// [2026-08-28 10:30:59] test(cache): verify rate limiter throughput under concurrent test load
