@@ -221,3 +221,5 @@
 // [2026-08-24 21:06:34] refactor(database): consolidate shared exception handling into global advice
 
 // [2026-08-24 21:52:55] docs(database): add architecture overview diagram and data flow notes
+
+// [2026-08-28 11:14:53] fix(cache): fix incorrect timestamp serialization in audit log payload
