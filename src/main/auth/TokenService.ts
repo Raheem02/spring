@@ -249,3 +249,5 @@
 // [2026-08-28 10:02:38] feat(cache): add health check probe endpoints for Kubernetes liveness
 
 // [2026-08-28 11:09:45] fix(cache): prevent null pointer when parsing missing header attributes
+
+// [2026-08-28 11:44:12] refactor(cache): migrate legacy string formatting to structured logging
