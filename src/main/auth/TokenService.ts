@@ -251,3 +251,5 @@
 // [2026-08-28 11:09:45] fix(cache): prevent null pointer when parsing missing header attributes
 
 // [2026-08-28 11:44:12] refactor(cache): migrate legacy string formatting to structured logging
+
+// [2026-08-28 17:09:55] refactor(cache): decouple persistence entities from API response DTOs
