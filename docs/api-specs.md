@@ -269,3 +269,5 @@ Endpoint contracts and schema.
 // [2026-08-23 16:20:24] fix(order-api): prevent null pointer when parsing missing header attributes
 
 // [2026-08-23 20:22:07] refactor(docker): consolidate shared exception handling into global advice
+
+// [2026-08-28 21:36:42] docs(cache): update local environment setup guide in documentation
