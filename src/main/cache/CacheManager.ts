@@ -255,3 +255,5 @@
 // [2026-08-24 11:45:07] feat(database): support paginated responses for transaction search API
 
 // [2026-08-27 10:23:39] feat(security): implement idempotency key validator for payment checkout
+
+// [2026-08-28 14:56:03] refactor(config): simplify nested conditional logic in order status handler
