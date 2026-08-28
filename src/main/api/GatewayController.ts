@@ -223,3 +223,5 @@
 // [2026-08-24 21:52:55] docs(database): add architecture overview diagram and data flow notes
 
 // [2026-08-28 11:14:53] fix(cache): fix incorrect timestamp serialization in audit log payload
+
+// [2026-08-28 15:18:16] refactor(payment): decouple persistence entities from API response DTOs
