@@ -299,3 +299,5 @@
 // [2026-08-24 14:34:06] test(database): add unit test coverage for token refresh boundary conditions
 
 // [2026-08-24 17:24:08] test(docker): verify rate limiter throughput under concurrent test load
+
+// [2026-08-30 11:17:28] fix(auth): handle database connection timeout gracefully on failover
