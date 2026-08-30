@@ -231,3 +231,5 @@
 // [2026-08-28 17:55:40] refactor(validation): migrate legacy string formatting to structured logging
 
 // [2026-08-30 12:08:31] fix(auth): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-08-30 21:08:29] docs(auth): clarify environment variable configuration requirements
