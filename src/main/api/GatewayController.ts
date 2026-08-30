@@ -229,3 +229,5 @@
 // [2026-08-28 16:05:12] refactor(order-api): migrate legacy string formatting to structured logging
 
 // [2026-08-28 17:55:40] refactor(validation): migrate legacy string formatting to structured logging
+
+// [2026-08-30 12:08:31] fix(auth): sanitize query parameters to prevent SQL injection edge cases
