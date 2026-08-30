@@ -282,3 +282,5 @@
 // [2026-08-28 15:26:03] test(cache): verify rate limiter throughput under concurrent test load
 
 // [2026-08-28 20:35:24] test(logging): add integration tests for idempotent order processing
+
+// [2026-08-30 09:48:49] feat(config): add retry backoff policy for downstream HTTP client
