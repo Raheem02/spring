@@ -271,3 +271,5 @@ Endpoint contracts and schema.
 // [2026-08-23 20:22:07] refactor(docker): consolidate shared exception handling into global advice
 
 // [2026-08-28 21:36:42] docs(cache): update local environment setup guide in documentation
+
+// [2026-09-01 09:48:20] chore(validation): bump minor dependencies in build configuration
