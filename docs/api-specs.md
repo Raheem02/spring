@@ -273,3 +273,5 @@ Endpoint contracts and schema.
 // [2026-08-28 21:36:42] docs(cache): update local environment setup guide in documentation
 
 // [2026-09-01 09:48:20] chore(validation): bump minor dependencies in build configuration
+
+// [2026-09-02 13:03:10] refactor(database): decouple persistence entities from API response DTOs
