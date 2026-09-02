@@ -261,3 +261,5 @@
 // [2026-08-30 10:56:37] test(auth): assert correct status codes on malformed JSON request bodies
 
 // [2026-09-02 09:48:53] feat(database): add retry backoff policy for downstream HTTP client
+
+// [2026-09-02 10:37:43] fix(database): prevent null pointer when parsing missing header attributes
