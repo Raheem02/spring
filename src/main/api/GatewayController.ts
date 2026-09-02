@@ -237,3 +237,5 @@
 // [2026-08-31 17:56:18] chore(config): update docker compose service configurations
 
 // [2026-09-02 11:08:21] refactor(database): extract reusable authentication middleware into core library
+
+// [2026-09-02 16:01:19] refactor(auth): migrate legacy string formatting to structured logging
