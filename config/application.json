@@ -284,3 +284,5 @@
 // [2026-08-28 20:35:24] test(logging): add integration tests for idempotent order processing
 
 // [2026-08-30 09:48:49] feat(config): add retry backoff policy for downstream HTTP client
+
+// [2026-09-02 16:47:30] fix(database): sanitize query parameters to prevent SQL injection edge cases
