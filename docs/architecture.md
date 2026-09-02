@@ -313,3 +313,5 @@ Microservice design notes.
 // [2026-08-28 12:22:12] refactor(cache): simplify nested conditional logic in order status handler
 
 // [2026-08-28 21:29:11] test(cache): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-02 11:00:32] refactor(database): decouple persistence entities from API response DTOs
