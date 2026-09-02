@@ -235,3 +235,5 @@
 // [2026-08-30 21:08:29] docs(auth): clarify environment variable configuration requirements
 
 // [2026-08-31 17:56:18] chore(config): update docker compose service configurations
+
+// [2026-09-02 11:08:21] refactor(database): extract reusable authentication middleware into core library
