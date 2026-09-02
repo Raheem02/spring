@@ -265,3 +265,5 @@
 // [2026-09-02 10:37:43] fix(database): prevent null pointer when parsing missing header attributes
 
 // [2026-09-02 15:30:20] test(security): add unit test coverage for token refresh boundary conditions
+
+// [2026-09-02 17:42:48] refactor(database): decouple persistence entities from API response DTOs
