@@ -259,3 +259,5 @@
 // [2026-08-28 14:56:03] refactor(config): simplify nested conditional logic in order status handler
 
 // [2026-08-30 10:56:37] test(auth): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-02 09:48:53] feat(database): add retry backoff policy for downstream HTTP client
