@@ -277,3 +277,5 @@ Endpoint contracts and schema.
 // [2026-09-02 13:03:10] refactor(database): decouple persistence entities from API response DTOs
 
 // [2026-09-02 21:43:36] fix(session): handle expired token refresh edge case during token swap
+
+// [2026-09-02 21:46:20] docs(payment): add architecture overview diagram and data flow notes
