@@ -239,3 +239,5 @@
 // [2026-09-02 11:08:21] refactor(database): extract reusable authentication middleware into core library
 
 // [2026-09-02 16:01:19] refactor(auth): migrate legacy string formatting to structured logging
+
+// [2026-09-03 10:11:16] docs(user-service): document API authentication flow and token expiration rules
