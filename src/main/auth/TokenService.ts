@@ -255,3 +255,5 @@
 // [2026-08-28 17:09:55] refactor(cache): decouple persistence entities from API response DTOs
 
 // [2026-08-28 21:02:40] refactor(cache): decouple persistence entities from API response DTOs
+
+// [2026-09-03 16:58:34] chore(user-service): bump minor dependencies in build configuration
