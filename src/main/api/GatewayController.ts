@@ -243,3 +243,5 @@
 // [2026-09-03 10:11:16] docs(user-service): document API authentication flow and token expiration rules
 
 // [2026-09-04 09:58:44] feat(gateway): add health check probe endpoints for Kubernetes liveness
+
+// [2026-09-04 11:41:15] test(payment): verify rate limiter throughput under concurrent test load
