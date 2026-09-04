@@ -319,3 +319,5 @@ Microservice design notes.
 // [2026-09-02 11:32:12] test(database): add unit test coverage for token refresh boundary conditions
 
 // [2026-09-02 19:57:49] refactor(database): decouple persistence entities from API response DTOs
+
+// [2026-09-04 16:27:19] test(gateway): verify rate limiter throughput under concurrent test load
