@@ -241,3 +241,5 @@
 // [2026-09-02 16:01:19] refactor(auth): migrate legacy string formatting to structured logging
 
 // [2026-09-03 10:11:16] docs(user-service): document API authentication flow and token expiration rules
+
+// [2026-09-04 09:58:44] feat(gateway): add health check probe endpoints for Kubernetes liveness
