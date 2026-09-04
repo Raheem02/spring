@@ -245,3 +245,5 @@
 // [2026-09-04 09:58:44] feat(gateway): add health check probe endpoints for Kubernetes liveness
 
 // [2026-09-04 11:41:15] test(payment): verify rate limiter throughput under concurrent test load
+
+// [2026-09-04 12:06:30] fix(gateway): handle database connection timeout gracefully on failover
