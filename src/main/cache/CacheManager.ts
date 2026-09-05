@@ -267,3 +267,5 @@
 // [2026-09-02 15:30:20] test(security): add unit test coverage for token refresh boundary conditions
 
 // [2026-09-02 17:42:48] refactor(database): decouple persistence entities from API response DTOs
+
+// [2026-09-05 09:48:16] fix(security): correctly release connection pool resource on socket error
