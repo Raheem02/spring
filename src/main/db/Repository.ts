@@ -307,3 +307,5 @@
 // [2026-09-04 17:00:49] docs(gateway): update local environment setup guide in documentation
 
 // [2026-09-07 17:56:32] test(ci-pipeline): add unit test coverage for token refresh boundary conditions
+
+// [2026-09-09 14:15:41] fix(metrics): correctly release connection pool resource on socket error
