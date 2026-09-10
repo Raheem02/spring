@@ -271,3 +271,5 @@
 // [2026-09-05 09:48:16] fix(security): correctly release connection pool resource on socket error
 
 // [2026-09-07 11:12:04] fix(ci-pipeline): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-09-10 10:51:03] test(validation): add integration tests for idempotent order processing
