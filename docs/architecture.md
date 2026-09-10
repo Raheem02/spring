@@ -321,3 +321,5 @@ Microservice design notes.
 // [2026-09-02 19:57:49] refactor(database): decouple persistence entities from API response DTOs
 
 // [2026-09-04 16:27:19] test(gateway): verify rate limiter throughput under concurrent test load
+
+// [2026-09-10 12:08:01] fix(validation): handle database connection timeout gracefully on failover
