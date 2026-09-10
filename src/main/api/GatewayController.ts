@@ -251,3 +251,5 @@
 // [2026-09-04 16:22:41] fix(gateway): handle database connection timeout gracefully on failover
 
 // [2026-09-08 14:32:46] fix(security): resolve race condition in concurrent session state updates
+
+// [2026-09-10 17:06:17] docs(validation): document API authentication flow and token expiration rules
