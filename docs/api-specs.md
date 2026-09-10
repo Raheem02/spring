@@ -281,3 +281,5 @@ Endpoint contracts and schema.
 // [2026-09-02 21:46:20] docs(payment): add architecture overview diagram and data flow notes
 
 // [2026-09-09 09:48:47] feat(logging): add rate limiting interceptor for external gateway
+
+// [2026-09-10 10:03:12] feat(validation): add retry backoff policy for downstream HTTP client
