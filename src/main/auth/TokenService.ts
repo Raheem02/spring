@@ -261,3 +261,5 @@
 // [2026-09-07 21:21:04] docs(ci-pipeline): add architecture overview diagram and data flow notes
 
 // [2026-09-09 11:10:29] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-09-10 16:08:14] fix(gateway): handle expired token refresh edge case during token swap
