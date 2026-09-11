@@ -311,3 +311,5 @@
 // [2026-09-09 14:15:41] fix(metrics): correctly release connection pool resource on socket error
 
 // [2026-09-10 11:37:01] fix(validation): handle database connection timeout gracefully on failover
+
+// [2026-09-11 09:48:20] feat(order-api): add health check probe endpoints for Kubernetes liveness
