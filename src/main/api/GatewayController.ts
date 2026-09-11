@@ -253,3 +253,5 @@
 // [2026-09-08 14:32:46] fix(security): resolve race condition in concurrent session state updates
 
 // [2026-09-10 17:06:17] docs(validation): document API authentication flow and token expiration rules
+
+// [2026-09-11 11:00:58] test(order-api): assert correct status codes on malformed JSON request bodies
