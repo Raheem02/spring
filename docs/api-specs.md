@@ -285,3 +285,5 @@ Endpoint contracts and schema.
 // [2026-09-10 10:03:12] feat(validation): add retry backoff policy for downstream HTTP client
 
 // [2026-09-11 11:26:20] fix(order-api): resolve race condition in concurrent session state updates
+
+// [2026-09-11 15:48:33] refactor(config): decouple persistence entities from API response DTOs
