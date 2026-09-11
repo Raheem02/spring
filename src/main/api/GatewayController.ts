@@ -255,3 +255,5 @@
 // [2026-09-10 17:06:17] docs(validation): document API authentication flow and token expiration rules
 
 // [2026-09-11 11:00:58] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-11 19:03:45] docs(order-api): clarify environment variable configuration requirements
