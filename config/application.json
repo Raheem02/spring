@@ -300,3 +300,5 @@
 // [2026-09-09 16:32:14] docs(validation): update local environment setup guide in documentation
 
 // [2026-09-14 13:14:03] fix(logging): prevent null pointer when parsing missing header attributes
+
+// [2026-09-15 09:48:27] feat(gateway): add health check probe endpoints for Kubernetes liveness
