@@ -302,3 +302,5 @@
 // [2026-09-14 13:14:03] fix(logging): prevent null pointer when parsing missing header attributes
 
 // [2026-09-15 09:48:27] feat(gateway): add health check probe endpoints for Kubernetes liveness
+
+// [2026-09-15 20:17:17] refactor(gateway): consolidate shared exception handling into global advice
