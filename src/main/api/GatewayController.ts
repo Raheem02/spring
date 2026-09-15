@@ -257,3 +257,5 @@
 // [2026-09-11 11:00:58] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-09-11 19:03:45] docs(order-api): clarify environment variable configuration requirements
+
+// [2026-09-15 10:20:46] fix(gateway): handle database connection timeout gracefully on failover
