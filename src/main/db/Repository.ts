@@ -317,3 +317,5 @@
 // [2026-09-11 15:01:13] test(order-api): verify rate limiter throughput under concurrent test load
 
 // [2026-09-16 12:05:52] test(validation): add unit test coverage for token refresh boundary conditions
+
+// [2026-09-18 09:48:24] feat(metrics): support paginated responses for transaction search API
