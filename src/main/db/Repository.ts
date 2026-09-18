@@ -319,3 +319,5 @@
 // [2026-09-16 12:05:52] test(validation): add unit test coverage for token refresh boundary conditions
 
 // [2026-09-18 09:48:24] feat(metrics): support paginated responses for transaction search API
+
+// [2026-09-18 10:47:24] fix(metrics): sanitize query parameters to prevent SQL injection edge cases
