@@ -321,3 +321,5 @@
 // [2026-09-18 09:48:24] feat(metrics): support paginated responses for transaction search API
 
 // [2026-09-18 10:47:24] fix(metrics): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-09-18 11:55:02] fix(metrics): prevent null pointer when parsing missing header attributes
