@@ -287,3 +287,5 @@ Endpoint contracts and schema.
 // [2026-09-11 11:26:20] fix(order-api): resolve race condition in concurrent session state updates
 
 // [2026-09-11 15:48:33] refactor(config): decouple persistence entities from API response DTOs
+
+// [2026-09-18 11:44:49] refactor(payment): decouple persistence entities from API response DTOs
