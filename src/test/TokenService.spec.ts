@@ -283,3 +283,5 @@
 // [2026-09-11 14:19:53] refactor(ci-pipeline): simplify nested conditional logic in order status handler
 
 // [2026-09-18 15:44:27] refactor(metrics): consolidate shared exception handling into global advice
+
+// [2026-09-18 19:38:27] docs(ci-pipeline): add architecture overview diagram and data flow notes
