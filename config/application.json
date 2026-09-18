@@ -306,3 +306,5 @@
 // [2026-09-15 20:17:17] refactor(gateway): consolidate shared exception handling into global advice
 
 // [2026-09-16 16:30:53] docs(validation): clarify environment variable configuration requirements
+
+// [2026-09-18 16:24:50] fix(metrics): sanitize query parameters to prevent SQL injection edge cases
