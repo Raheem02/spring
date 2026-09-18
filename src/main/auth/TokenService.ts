@@ -265,3 +265,5 @@
 // [2026-09-10 16:08:14] fix(gateway): handle expired token refresh edge case during token swap
 
 // [2026-09-16 11:10:44] fix(order-api): handle expired token refresh edge case during token swap
+
+// [2026-09-18 10:05:26] test(metrics): assert correct status codes on malformed JSON request bodies
