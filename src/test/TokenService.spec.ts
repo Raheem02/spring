@@ -281,3 +281,5 @@
 // [2026-09-09 16:18:39] fix(metrics): fix incorrect timestamp serialization in audit log payload
 
 // [2026-09-11 14:19:53] refactor(ci-pipeline): simplify nested conditional logic in order status handler
+
+// [2026-09-18 15:44:27] refactor(metrics): consolidate shared exception handling into global advice
