@@ -325,3 +325,5 @@
 // [2026-09-18 11:55:02] fix(metrics): prevent null pointer when parsing missing header attributes
 
 // [2026-09-20 10:31:10] feat(order-api): add rate limiting interceptor for external gateway
+
+// [2026-09-20 14:52:52] fix(order-api): fix incorrect timestamp serialization in audit log payload
