@@ -323,3 +323,5 @@
 // [2026-09-18 10:47:24] fix(metrics): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-09-18 11:55:02] fix(metrics): prevent null pointer when parsing missing header attributes
+
+// [2026-09-20 10:31:10] feat(order-api): add rate limiting interceptor for external gateway
