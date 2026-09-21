@@ -310,3 +310,5 @@
 // [2026-09-18 16:24:50] fix(metrics): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-09-20 14:16:03] test(logging): add unit test coverage for token refresh boundary conditions
+
+// [2026-09-21 10:30:04] test(cache): assert correct status codes on malformed JSON request bodies
