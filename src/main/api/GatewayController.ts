@@ -261,3 +261,5 @@
 // [2026-09-15 10:20:46] fix(gateway): handle database connection timeout gracefully on failover
 
 // [2026-09-21 10:13:29] feat(user-service): add health check probe endpoints for Kubernetes liveness
+
+// [2026-09-21 11:22:38] refactor(gateway): extract reusable authentication middleware into core library
