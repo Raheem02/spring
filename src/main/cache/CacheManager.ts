@@ -281,3 +281,5 @@
 // [2026-09-20 20:35:43] test(order-api): verify rate limiter throughput under concurrent test load
 
 // [2026-09-21 10:41:43] fix(session): fix incorrect timestamp serialization in audit log payload
+
+// [2026-09-21 11:11:08] test(cache): assert correct status codes on malformed JSON request bodies
