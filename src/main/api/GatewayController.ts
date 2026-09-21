@@ -259,3 +259,5 @@
 // [2026-09-11 19:03:45] docs(order-api): clarify environment variable configuration requirements
 
 // [2026-09-15 10:20:46] fix(gateway): handle database connection timeout gracefully on failover
+
+// [2026-09-21 10:13:29] feat(user-service): add health check probe endpoints for Kubernetes liveness
