@@ -314,3 +314,5 @@
 // [2026-09-21 10:30:04] test(cache): assert correct status codes on malformed JSON request bodies
 
 // [2026-09-21 10:33:53] fix(cache): prevent null pointer when parsing missing header attributes
+
+// [2026-09-21 15:03:01] fix(cache): fix incorrect timestamp serialization in audit log payload
