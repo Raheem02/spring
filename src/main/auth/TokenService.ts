@@ -271,3 +271,5 @@
 // [2026-09-21 11:34:53] fix(database): fix incorrect timestamp serialization in audit log payload
 
 // [2026-09-21 11:39:16] fix(cache): prevent null pointer when parsing missing header attributes
+
+// [2026-09-21 21:17:15] docs(cache): document API authentication flow and token expiration rules
