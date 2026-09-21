@@ -291,3 +291,5 @@ Endpoint contracts and schema.
 // [2026-09-18 11:44:49] refactor(payment): decouple persistence entities from API response DTOs
 
 // [2026-09-21 16:13:42] refactor(cache): extract reusable authentication middleware into core library
+
+// [2026-09-21 16:53:26] test(cache): add unit test coverage for token refresh boundary conditions
