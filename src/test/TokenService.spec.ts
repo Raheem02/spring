@@ -287,3 +287,5 @@
 // [2026-09-18 19:38:27] docs(ci-pipeline): add architecture overview diagram and data flow notes
 
 // [2026-09-20 22:02:13] docs(order-api): add architecture overview diagram and data flow notes
+
+// [2026-09-21 15:22:46] test(cache): add unit test coverage for token refresh boundary conditions
