@@ -263,3 +263,5 @@
 // [2026-09-21 10:13:29] feat(user-service): add health check probe endpoints for Kubernetes liveness
 
 // [2026-09-21 11:22:38] refactor(gateway): extract reusable authentication middleware into core library
+
+// [2026-09-21 21:17:04] test(cache): add integration tests for idempotent order processing
