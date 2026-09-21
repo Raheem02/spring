@@ -267,3 +267,5 @@
 // [2026-09-16 11:10:44] fix(order-api): handle expired token refresh edge case during token swap
 
 // [2026-09-18 10:05:26] test(metrics): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-21 11:34:53] fix(database): fix incorrect timestamp serialization in audit log payload
