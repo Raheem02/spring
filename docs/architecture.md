@@ -325,3 +325,5 @@ Microservice design notes.
 // [2026-09-10 12:08:01] fix(validation): handle database connection timeout gracefully on failover
 
 // [2026-09-22 17:59:16] test(cache): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-22 21:06:45] docs(cache): clarify environment variable configuration requirements
