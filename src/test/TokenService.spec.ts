@@ -291,3 +291,5 @@
 // [2026-09-21 15:22:46] test(cache): add unit test coverage for token refresh boundary conditions
 
 // [2026-09-21 17:40:17] refactor(cache): simplify nested conditional logic in order status handler
+
+// [2026-09-22 11:15:27] feat(cache): support paginated responses for transaction search API
