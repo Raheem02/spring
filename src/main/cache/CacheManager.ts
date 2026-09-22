@@ -283,3 +283,5 @@
 // [2026-09-21 10:41:43] fix(session): fix incorrect timestamp serialization in audit log payload
 
 // [2026-09-21 11:11:08] test(cache): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-22 17:03:52] test(cache): add integration tests for idempotent order processing
