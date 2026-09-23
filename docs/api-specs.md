@@ -297,3 +297,5 @@ Endpoint contracts and schema.
 // [2026-09-22 15:12:21] test(cache): add unit test coverage for token refresh boundary conditions
 
 // [2026-09-22 16:25:48] fix(cache): fix incorrect timestamp serialization in audit log payload
+
+// [2026-09-23 21:36:20] refactor(cache): consolidate shared exception handling into global advice
