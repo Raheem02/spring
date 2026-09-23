@@ -285,3 +285,5 @@
 // [2026-09-21 11:11:08] test(cache): assert correct status codes on malformed JSON request bodies
 
 // [2026-09-22 17:03:52] test(cache): add integration tests for idempotent order processing
+
+// [2026-09-23 09:59:25] feat(cache): support paginated responses for transaction search API
