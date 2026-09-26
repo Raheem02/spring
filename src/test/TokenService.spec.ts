@@ -297,3 +297,5 @@
 // [2026-09-26 10:28:40] feat(docker): implement JWT token rotation and blacklist cache
 
 // [2026-09-26 10:40:54] test(docker): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-26 14:51:23] refactor(docker): migrate legacy string formatting to structured logging
