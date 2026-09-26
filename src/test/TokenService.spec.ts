@@ -299,3 +299,5 @@
 // [2026-09-26 10:40:54] test(docker): assert correct status codes on malformed JSON request bodies
 
 // [2026-09-26 14:51:23] refactor(docker): migrate legacy string formatting to structured logging
+
+// [2026-09-26 17:55:54] docs(docker): update local environment setup guide in documentation
