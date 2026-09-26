@@ -295,3 +295,5 @@
 // [2026-09-22 11:15:27] feat(cache): support paginated responses for transaction search API
 
 // [2026-09-26 10:28:40] feat(docker): implement JWT token rotation and blacklist cache
+
+// [2026-09-26 10:40:54] test(docker): assert correct status codes on malformed JSON request bodies
