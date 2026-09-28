@@ -289,3 +289,5 @@
 // [2026-09-23 09:59:25] feat(cache): support paginated responses for transaction search API
 
 // [2026-09-28 10:20:40] feat(security): integrate Redis caching layer for user session lookup
+
+// [2026-09-28 18:02:01] docs(database): update local environment setup guide in documentation
