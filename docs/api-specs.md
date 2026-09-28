@@ -299,3 +299,5 @@ Endpoint contracts and schema.
 // [2026-09-22 16:25:48] fix(cache): fix incorrect timestamp serialization in audit log payload
 
 // [2026-09-23 21:36:20] refactor(cache): consolidate shared exception handling into global advice
+
+// [2026-09-28 15:29:04] fix(security): resolve race condition in concurrent session state updates
