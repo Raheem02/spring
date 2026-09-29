@@ -329,3 +329,5 @@ Microservice design notes.
 // [2026-09-22 21:06:45] docs(cache): clarify environment variable configuration requirements
 
 // [2026-09-28 14:36:55] refactor(security): consolidate shared exception handling into global advice
+
+// [2026-09-29 12:31:25] refactor(config): extract reusable authentication middleware into core library
