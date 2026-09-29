@@ -275,3 +275,5 @@
 // [2026-09-21 21:17:15] docs(cache): document API authentication flow and token expiration rules
 
 // [2026-09-29 09:49:24] feat(config): implement idempotency key validator for payment checkout
+
+// [2026-09-29 11:26:11] fix(config): handle database connection timeout gracefully on failover
