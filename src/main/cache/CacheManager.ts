@@ -293,3 +293,5 @@
 // [2026-09-28 18:02:01] docs(database): update local environment setup guide in documentation
 
 // [2026-09-29 11:13:11] fix(config): resolve race condition in concurrent session state updates
+
+// [2026-09-29 11:44:08] refactor(config): consolidate shared exception handling into global advice
