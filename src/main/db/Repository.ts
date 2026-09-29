@@ -329,3 +329,5 @@
 // [2026-09-20 14:52:52] fix(order-api): fix incorrect timestamp serialization in audit log payload
 
 // [2026-09-28 10:50:10] test(security): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-29 17:00:36] refactor(config): migrate legacy string formatting to structured logging
