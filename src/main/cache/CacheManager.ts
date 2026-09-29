@@ -299,3 +299,5 @@
 // [2026-09-29 20:11:43] fix(config): handle database connection timeout gracefully on failover
 
 // [2026-09-29 21:42:37] fix(config): resolve race condition in concurrent session state updates
+
+// [2026-09-29 22:09:15] docs(config): add architecture overview diagram and data flow notes
