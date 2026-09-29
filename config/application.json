@@ -320,3 +320,5 @@
 // [2026-09-26 10:57:46] fix(docker): correctly release connection pool resource on socket error
 
 // [2026-09-28 11:34:57] fix(security): handle expired token refresh edge case during token swap
+
+// [2026-09-29 17:24:17] refactor(config): migrate legacy string formatting to structured logging
