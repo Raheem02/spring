@@ -297,3 +297,5 @@
 // [2026-09-29 11:44:08] refactor(config): consolidate shared exception handling into global advice
 
 // [2026-09-29 20:11:43] fix(config): handle database connection timeout gracefully on failover
+
+// [2026-09-29 21:42:37] fix(config): resolve race condition in concurrent session state updates
