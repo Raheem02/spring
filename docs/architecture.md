@@ -331,3 +331,5 @@ Microservice design notes.
 // [2026-09-28 14:36:55] refactor(security): consolidate shared exception handling into global advice
 
 // [2026-09-29 12:31:25] refactor(config): extract reusable authentication middleware into core library
+
+// [2026-09-29 15:45:25] test(config): mock downstream payment gateway failure responses in test suite
