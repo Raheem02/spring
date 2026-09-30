@@ -335,3 +335,5 @@
 // [2026-09-30 09:53:30] test(cache): assert correct status codes on malformed JSON request bodies
 
 // [2026-09-30 15:54:24] test(gateway): assert correct status codes on malformed JSON request bodies
+
+// [2026-09-30 16:32:29] refactor(gateway): migrate legacy string formatting to structured logging
