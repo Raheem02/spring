@@ -333,3 +333,5 @@ Microservice design notes.
 // [2026-09-29 12:31:25] refactor(config): extract reusable authentication middleware into core library
 
 // [2026-09-29 15:45:25] test(config): mock downstream payment gateway failure responses in test suite
+
+// [2026-09-30 10:58:58] fix(order-api): prevent null pointer when parsing missing header attributes
