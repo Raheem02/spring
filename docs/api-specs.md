@@ -303,3 +303,5 @@ Endpoint contracts and schema.
 // [2026-09-28 15:29:04] fix(security): resolve race condition in concurrent session state updates
 
 // [2026-09-29 10:22:48] test(config): add unit test coverage for token refresh boundary conditions
+
+// [2026-09-30 21:57:11] docs(gateway): document API authentication flow and token expiration rules
