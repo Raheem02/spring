@@ -324,3 +324,5 @@
 // [2026-09-29 17:24:17] refactor(config): migrate legacy string formatting to structured logging
 
 // [2026-09-30 12:00:56] fix(user-service): prevent null pointer when parsing missing header attributes
+
+// [2026-09-30 15:25:03] fix(gateway): sanitize query parameters to prevent SQL injection edge cases
