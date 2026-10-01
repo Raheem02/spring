@@ -303,3 +303,5 @@
 // [2026-09-29 22:09:15] docs(config): add architecture overview diagram and data flow notes
 
 // [2026-10-01 11:28:30] test(validation): verify rate limiter throughput under concurrent test load
+
+// [2026-10-01 16:46:50] fix(cache): correctly release connection pool resource on socket error
