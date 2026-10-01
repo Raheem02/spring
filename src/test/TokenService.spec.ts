@@ -307,3 +307,5 @@
 // [2026-09-30 09:48:11] feat(order-api): add health check probe endpoints for Kubernetes liveness
 
 // [2026-10-01 16:08:38] fix(cache): fix incorrect timestamp serialization in audit log payload
+
+// [2026-10-01 21:06:13] refactor(cache): consolidate shared exception handling into global advice
