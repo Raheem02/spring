@@ -305,3 +305,5 @@ Endpoint contracts and schema.
 // [2026-09-29 10:22:48] test(config): add unit test coverage for token refresh boundary conditions
 
 // [2026-09-30 21:57:11] docs(gateway): document API authentication flow and token expiration rules
+
+// [2026-10-01 10:30:28] feat(gateway): implement asynchronous event publisher for notifications
