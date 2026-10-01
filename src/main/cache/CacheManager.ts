@@ -305,3 +305,5 @@
 // [2026-10-01 11:28:30] test(validation): verify rate limiter throughput under concurrent test load
 
 // [2026-10-01 16:46:50] fix(cache): correctly release connection pool resource on socket error
+
+// [2026-10-01 21:34:29] docs(security): update local environment setup guide in documentation
