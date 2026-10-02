@@ -337,3 +337,5 @@ Microservice design notes.
 // [2026-09-30 10:58:58] fix(order-api): prevent null pointer when parsing missing header attributes
 
 // [2026-09-30 12:21:02] fix(payment): handle database connection timeout gracefully on failover
+
+// [2026-10-02 10:54:49] fix(metrics): fix incorrect timestamp serialization in audit log payload
