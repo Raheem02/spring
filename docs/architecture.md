@@ -339,3 +339,5 @@ Microservice design notes.
 // [2026-09-30 12:21:02] fix(payment): handle database connection timeout gracefully on failover
 
 // [2026-10-02 10:54:49] fix(metrics): fix incorrect timestamp serialization in audit log payload
+
+// [2026-10-02 11:16:23] fix(metrics): handle expired token refresh edge case during token swap
