@@ -307,3 +307,5 @@ Endpoint contracts and schema.
 // [2026-09-30 21:57:11] docs(gateway): document API authentication flow and token expiration rules
 
 // [2026-10-01 10:30:28] feat(gateway): implement asynchronous event publisher for notifications
+
+// [2026-10-02 22:02:39] fix(metrics): correctly release connection pool resource on socket error
