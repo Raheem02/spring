@@ -341,3 +341,5 @@ Microservice design notes.
 // [2026-10-02 10:54:49] fix(metrics): fix incorrect timestamp serialization in audit log payload
 
 // [2026-10-02 11:16:23] fix(metrics): handle expired token refresh edge case during token swap
+
+// [2026-10-02 22:05:29] docs(metrics): add architecture overview diagram and data flow notes
