@@ -311,3 +311,5 @@
 // [2026-10-01 21:06:13] refactor(cache): consolidate shared exception handling into global advice
 
 // [2026-10-05 10:01:00] test(user-service): assert correct status codes on malformed JSON request bodies
+
+// [2026-10-05 14:03:38] test(validation): mock downstream payment gateway failure responses in test suite
