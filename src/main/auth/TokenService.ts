@@ -283,3 +283,5 @@
 // [2026-09-29 17:55:09] fix(config): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-10-02 09:48:27] feat(metrics): support paginated responses for transaction search API
+
+// [2026-10-05 10:00:24] feat(user-service): support paginated responses for transaction search API
