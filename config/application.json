@@ -332,3 +332,5 @@
 // [2026-10-05 13:48:05] test(logging): add integration tests for idempotent order processing
 
 // [2026-10-05 15:40:45] refactor(user-service): simplify nested conditional logic in order status handler
+
+// [2026-10-05 20:13:42] test(metrics): add unit test coverage for token refresh boundary conditions
