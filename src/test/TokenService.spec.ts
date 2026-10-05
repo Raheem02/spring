@@ -309,3 +309,5 @@
 // [2026-10-01 16:08:38] fix(cache): fix incorrect timestamp serialization in audit log payload
 
 // [2026-10-01 21:06:13] refactor(cache): consolidate shared exception handling into global advice
+
+// [2026-10-05 10:01:00] test(user-service): assert correct status codes on malformed JSON request bodies
