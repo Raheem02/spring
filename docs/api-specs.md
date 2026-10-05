@@ -309,3 +309,5 @@ Endpoint contracts and schema.
 // [2026-10-01 10:30:28] feat(gateway): implement asynchronous event publisher for notifications
 
 // [2026-10-02 22:02:39] fix(metrics): correctly release connection pool resource on socket error
+
+// [2026-10-05 20:38:16] docs(user-service): add architecture overview diagram and data flow notes
