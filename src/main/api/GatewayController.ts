@@ -269,3 +269,5 @@
 // [2026-09-23 15:32:47] fix(validation): resolve race condition in concurrent session state updates
 
 // [2026-09-29 16:25:30] fix(ci-pipeline): correctly release connection pool resource on socket error
+
+// [2026-10-05 11:01:49] fix(user-service): handle expired token refresh edge case during token swap
