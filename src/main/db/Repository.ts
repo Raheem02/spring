@@ -339,3 +339,5 @@
 // [2026-09-30 16:32:29] refactor(gateway): migrate legacy string formatting to structured logging
 
 // [2026-10-02 15:11:33] test(metrics): verify rate limiter throughput under concurrent test load
+
+// [2026-10-05 15:11:01] refactor(order-api): migrate legacy string formatting to structured logging
