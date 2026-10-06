@@ -289,3 +289,5 @@
 // [2026-10-05 11:59:42] test(user-service): mock downstream payment gateway failure responses in test suite
 
 // [2026-10-06 10:13:45] feat(auth): implement asynchronous event publisher for notifications
+
+// [2026-10-06 14:28:55] refactor(auth): migrate legacy string formatting to structured logging
