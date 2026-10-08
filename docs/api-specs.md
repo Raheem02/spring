@@ -313,3 +313,5 @@ Endpoint contracts and schema.
 // [2026-10-05 20:38:16] docs(user-service): add architecture overview diagram and data flow notes
 
 // [2026-10-06 10:59:16] fix(docker): fix incorrect timestamp serialization in audit log payload
+
+// [2026-10-08 10:52:04] feat(gateway): implement JWT token rotation and blacklist cache
