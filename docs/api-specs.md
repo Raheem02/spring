@@ -315,3 +315,5 @@ Endpoint contracts and schema.
 // [2026-10-06 10:59:16] fix(docker): fix incorrect timestamp serialization in audit log payload
 
 // [2026-10-08 10:52:04] feat(gateway): implement JWT token rotation and blacklist cache
+
+// [2026-10-09 16:28:27] refactor(payment): consolidate shared exception handling into global advice
