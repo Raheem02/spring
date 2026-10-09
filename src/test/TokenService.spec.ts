@@ -315,3 +315,5 @@
 // [2026-10-05 14:03:38] test(validation): mock downstream payment gateway failure responses in test suite
 
 // [2026-10-06 10:25:42] test(auth): add unit test coverage for token refresh boundary conditions
+
+// [2026-10-09 12:23:34] refactor(metrics): consolidate shared exception handling into global advice
