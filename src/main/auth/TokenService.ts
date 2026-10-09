@@ -291,3 +291,5 @@
 // [2026-10-06 10:13:45] feat(auth): implement asynchronous event publisher for notifications
 
 // [2026-10-06 14:28:55] refactor(auth): migrate legacy string formatting to structured logging
+
+// [2026-10-09 09:48:09] feat(metrics): add health check probe endpoints for Kubernetes liveness
