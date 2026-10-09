@@ -342,3 +342,5 @@
 // [2026-10-09 10:04:56] test(metrics): add unit test coverage for token refresh boundary conditions
 
 // [2026-10-09 14:15:09] fix(metrics): handle expired token refresh edge case during token swap
+
+// [2026-10-09 14:45:01] fix(metrics): handle database connection timeout gracefully on failover
