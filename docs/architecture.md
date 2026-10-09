@@ -343,3 +343,5 @@ Microservice design notes.
 // [2026-10-02 11:16:23] fix(metrics): handle expired token refresh edge case during token swap
 
 // [2026-10-02 22:05:29] docs(metrics): add architecture overview diagram and data flow notes
+
+// [2026-10-09 16:02:06] refactor(payment): simplify nested conditional logic in order status handler
