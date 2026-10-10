@@ -317,3 +317,5 @@ Endpoint contracts and schema.
 // [2026-10-08 10:52:04] feat(gateway): implement JWT token rotation and blacklist cache
 
 // [2026-10-09 16:28:27] refactor(payment): consolidate shared exception handling into global advice
+
+// [2026-10-10 16:35:39] feat(gateway): add health check probe endpoints for Kubernetes liveness
