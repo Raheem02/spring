@@ -345,3 +345,5 @@
 // [2026-10-09 11:19:01] test(metrics): verify rate limiter throughput under concurrent test load
 
 // [2026-10-09 13:33:39] fix(metrics): handle database connection timeout gracefully on failover
+
+// [2026-10-11 17:15:37] docs(gateway): update local environment setup guide in documentation
