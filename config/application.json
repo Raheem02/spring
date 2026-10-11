@@ -346,3 +346,5 @@
 // [2026-10-09 14:45:01] fix(metrics): handle database connection timeout gracefully on failover
 
 // [2026-10-09 15:25:42] test(metrics): add unit test coverage for token refresh boundary conditions
+
+// [2026-10-11 14:58:50] test(logging): assert correct status codes on malformed JSON request bodies
