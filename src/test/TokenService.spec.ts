@@ -321,3 +321,5 @@
 // [2026-10-09 16:34:22] docs(order-api): document API authentication flow and token expiration rules
 
 // [2026-10-10 16:47:57] test(payment): add unit test coverage for token refresh boundary conditions
+
+// [2026-10-11 12:09:13] fix(gateway): prevent null pointer when parsing missing header attributes
