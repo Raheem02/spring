@@ -323,3 +323,5 @@
 // [2026-10-10 16:47:57] test(payment): add unit test coverage for token refresh boundary conditions
 
 // [2026-10-11 12:09:13] fix(gateway): prevent null pointer when parsing missing header attributes
+
+// [2026-10-12 10:47:57] docs(payment): update local environment setup guide in documentation
