@@ -297,3 +297,5 @@
 // [2026-10-09 10:42:31] fix(session): resolve race condition in concurrent session state updates
 
 // [2026-10-09 11:51:20] test(metrics): verify rate limiter throughput under concurrent test load
+
+// [2026-10-12 10:44:27] test(user-service): add integration tests for idempotent order processing
