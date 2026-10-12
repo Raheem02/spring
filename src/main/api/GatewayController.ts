@@ -273,3 +273,5 @@
 // [2026-10-05 11:01:49] fix(user-service): handle expired token refresh edge case during token swap
 
 // [2026-10-06 15:01:34] docs(auth): update local environment setup guide in documentation
+
+// [2026-10-12 10:16:47] fix(docker): fix incorrect timestamp serialization in audit log payload
