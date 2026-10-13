@@ -277,3 +277,5 @@
 // [2026-10-12 10:16:47] fix(docker): fix incorrect timestamp serialization in audit log payload
 
 // [2026-10-13 10:12:05] fix(logging): handle database connection timeout gracefully on failover
+
+// [2026-10-13 11:42:41] test(logging): add integration tests for idempotent order processing
