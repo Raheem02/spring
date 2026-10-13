@@ -325,3 +325,5 @@ Endpoint contracts and schema.
 // [2026-10-13 12:29:48] refactor(logging): consolidate shared exception handling into global advice
 
 // [2026-10-13 15:07:04] fix(logging): sanitize query parameters to prevent SQL injection edge cases
+
+// [2026-10-13 15:40:18] fix(payment): handle expired token refresh edge case during token swap
