@@ -319,3 +319,5 @@ Endpoint contracts and schema.
 // [2026-10-09 16:28:27] refactor(payment): consolidate shared exception handling into global advice
 
 // [2026-10-10 16:35:39] feat(gateway): add health check probe endpoints for Kubernetes liveness
+
+// [2026-10-13 10:17:52] refactor(logging): simplify nested conditional logic in order status handler
