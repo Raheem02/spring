@@ -303,3 +303,5 @@
 // [2026-10-13 09:48:17] feat(logging): implement asynchronous event publisher for notifications
 
 // [2026-10-13 12:22:33] test(logging): verify rate limiter throughput under concurrent test load
+
+// [2026-10-13 14:08:54] fix(logging): prevent null pointer when parsing missing header attributes
