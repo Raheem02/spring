@@ -345,3 +345,5 @@ Microservice design notes.
 // [2026-10-02 22:05:29] docs(metrics): add architecture overview diagram and data flow notes
 
 // [2026-10-09 16:02:06] refactor(payment): simplify nested conditional logic in order status handler
+
+// [2026-10-13 09:48:19] test(logging): assert correct status codes on malformed JSON request bodies
