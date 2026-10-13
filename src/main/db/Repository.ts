@@ -347,3 +347,5 @@
 // [2026-10-09 13:33:39] fix(metrics): handle database connection timeout gracefully on failover
 
 // [2026-10-11 17:15:37] docs(gateway): update local environment setup guide in documentation
+
+// [2026-10-13 21:25:06] docs(payment): document API authentication flow and token expiration rules
