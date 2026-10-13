@@ -325,3 +325,5 @@
 // [2026-10-11 12:09:13] fix(gateway): prevent null pointer when parsing missing header attributes
 
 // [2026-10-12 10:47:57] docs(payment): update local environment setup guide in documentation
+
+// [2026-10-13 14:32:50] refactor(logging): simplify nested conditional logic in order status handler
