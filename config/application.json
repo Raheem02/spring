@@ -348,3 +348,5 @@
 // [2026-10-09 15:25:42] test(metrics): add unit test coverage for token refresh boundary conditions
 
 // [2026-10-11 14:58:50] test(logging): assert correct status codes on malformed JSON request bodies
+
+// [2026-10-15 12:10:29] feat(docker): implement JWT token rotation and blacklist cache
