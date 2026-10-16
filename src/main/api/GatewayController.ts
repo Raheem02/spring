@@ -281,3 +281,5 @@
 // [2026-10-13 11:42:41] test(logging): add integration tests for idempotent order processing
 
 // [2026-10-13 16:11:23] test(payment): add unit test coverage for token refresh boundary conditions
+
+// [2026-10-16 21:24:39] fix(order-api): correctly release connection pool resource on socket error
