@@ -349,3 +349,5 @@
 // [2026-10-11 17:15:37] docs(gateway): update local environment setup guide in documentation
 
 // [2026-10-13 21:25:06] docs(payment): document API authentication flow and token expiration rules
+
+// [2026-10-16 15:32:41] test(order-api): mock downstream payment gateway failure responses in test suite
