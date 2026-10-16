@@ -349,3 +349,5 @@ Microservice design notes.
 // [2026-10-13 09:48:19] test(logging): assert correct status codes on malformed JSON request bodies
 
 // [2026-10-13 14:57:24] fix(auth): correctly release connection pool resource on socket error
+
+// [2026-10-16 20:23:43] fix(order-api): correctly release connection pool resource on socket error
