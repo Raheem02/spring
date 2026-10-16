@@ -327,3 +327,5 @@ Endpoint contracts and schema.
 // [2026-10-13 15:07:04] fix(logging): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-10-13 15:40:18] fix(payment): handle expired token refresh edge case during token swap
+
+// [2026-10-16 22:30:46] docs(order-api): update local environment setup guide in documentation
