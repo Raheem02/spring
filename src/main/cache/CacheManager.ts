@@ -313,3 +313,5 @@
 // [2026-10-09 13:05:12] test(metrics): add unit test coverage for token refresh boundary conditions
 
 // [2026-10-15 16:39:40] test(validation): add unit test coverage for token refresh boundary conditions
+
+// [2026-10-17 14:02:02] fix(payment): handle expired token refresh edge case during token swap
