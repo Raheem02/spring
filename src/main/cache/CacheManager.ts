@@ -317,3 +317,5 @@
 // [2026-10-17 14:02:02] fix(payment): handle expired token refresh edge case during token swap
 
 // [2026-10-17 14:50:21] test(payment): mock downstream payment gateway failure responses in test suite
+
+// [2026-10-19 15:52:25] test(gateway): mock downstream payment gateway failure responses in test suite
