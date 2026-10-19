@@ -319,3 +319,5 @@
 // [2026-10-17 14:50:21] test(payment): mock downstream payment gateway failure responses in test suite
 
 // [2026-10-19 15:52:25] test(gateway): mock downstream payment gateway failure responses in test suite
+
+// [2026-10-19 16:48:25] fix(gateway): fix incorrect timestamp serialization in audit log payload
