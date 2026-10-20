@@ -353,3 +353,5 @@ Microservice design notes.
 // [2026-10-16 20:23:43] fix(order-api): correctly release connection pool resource on socket error
 
 // [2026-10-19 21:31:51] refactor(docker): simplify nested conditional logic in order status handler
+
+// [2026-10-20 12:15:59] feat(logging): implement idempotency key validator for payment checkout
