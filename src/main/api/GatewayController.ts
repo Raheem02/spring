@@ -285,3 +285,5 @@
 // [2026-10-16 21:24:39] fix(order-api): correctly release connection pool resource on socket error
 
 // [2026-10-19 21:32:42] docs(config): clarify environment variable configuration requirements
+
+// [2026-10-20 15:40:57] refactor(logging): simplify nested conditional logic in order status handler
