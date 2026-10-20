@@ -309,3 +309,5 @@
 // [2026-10-16 14:09:14] feat(order-api): implement asynchronous event publisher for notifications
 
 // [2026-10-20 12:30:39] test(logging): assert correct status codes on malformed JSON request bodies
+
+// [2026-10-20 15:32:01] fix(logging): correctly release connection pool resource on socket error
