@@ -350,3 +350,5 @@
 // [2026-10-11 14:58:50] test(logging): assert correct status codes on malformed JSON request bodies
 
 // [2026-10-15 12:10:29] feat(docker): implement JWT token rotation and blacklist cache
+
+// [2026-10-20 16:42:27] fix(logging): handle database connection timeout gracefully on failover
