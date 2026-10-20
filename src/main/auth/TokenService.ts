@@ -307,3 +307,5 @@
 // [2026-10-13 14:08:54] fix(logging): prevent null pointer when parsing missing header attributes
 
 // [2026-10-16 14:09:14] feat(order-api): implement asynchronous event publisher for notifications
+
+// [2026-10-20 12:30:39] test(logging): assert correct status codes on malformed JSON request bodies
