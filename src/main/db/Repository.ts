@@ -353,3 +353,5 @@
 // [2026-10-16 15:32:41] test(order-api): mock downstream payment gateway failure responses in test suite
 
 // [2026-10-20 17:11:39] docs(logging): document API authentication flow and token expiration rules
+
+// [2026-10-21 11:53:49] docs(user-service): document API authentication flow and token expiration rules
