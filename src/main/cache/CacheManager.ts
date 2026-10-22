@@ -321,3 +321,5 @@
 // [2026-10-19 15:52:25] test(gateway): mock downstream payment gateway failure responses in test suite
 
 // [2026-10-19 16:48:25] fix(gateway): fix incorrect timestamp serialization in audit log payload
+
+// [2026-10-22 16:56:07] fix(order-api): handle expired token refresh edge case during token swap
