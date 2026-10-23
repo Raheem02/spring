@@ -335,3 +335,5 @@
 // [2026-10-19 15:42:39] feat(gateway): support paginated responses for transaction search API
 
 // [2026-10-22 14:40:07] test(order-api): verify rate limiter throughput under concurrent test load
+
+// [2026-10-23 16:38:42] refactor(validation): consolidate shared exception handling into global advice
