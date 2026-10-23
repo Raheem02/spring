@@ -357,3 +357,5 @@
 // [2026-10-21 11:53:49] docs(user-service): document API authentication flow and token expiration rules
 
 // [2026-10-22 21:10:23] test(order-api): assert correct status codes on malformed JSON request bodies
+
+// [2026-10-23 10:55:12] test(validation): add integration tests for idempotent order processing
