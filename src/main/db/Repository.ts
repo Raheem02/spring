@@ -359,3 +359,5 @@
 // [2026-10-22 21:10:23] test(order-api): assert correct status codes on malformed JSON request bodies
 
 // [2026-10-23 10:55:12] test(validation): add integration tests for idempotent order processing
+
+// [2026-10-23 19:33:32] docs(validation): update local environment setup guide in documentation
