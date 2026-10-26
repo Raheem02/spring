@@ -325,3 +325,5 @@
 // [2026-10-22 16:56:07] fix(order-api): handle expired token refresh edge case during token swap
 
 // [2026-10-23 14:55:44] fix(validation): fix incorrect timestamp serialization in audit log payload
+
+// [2026-10-26 15:57:33] docs(cache): update local environment setup guide in documentation
