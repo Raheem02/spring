@@ -354,3 +354,5 @@
 // [2026-10-20 16:42:27] fix(logging): handle database connection timeout gracefully on failover
 
 // [2026-10-22 21:45:44] docs(security): update local environment setup guide in documentation
+
+// [2026-10-27 20:57:16] fix(logging): prevent null pointer when parsing missing header attributes
