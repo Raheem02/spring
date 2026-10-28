@@ -361,3 +361,5 @@ Microservice design notes.
 // [2026-10-23 15:07:48] test(validation): mock downstream payment gateway failure responses in test suite
 
 // [2026-10-27 12:31:26] feat(session): implement idempotency key validator for payment checkout
+
+// [2026-10-28 10:28:39] fix(user-service): fix incorrect timestamp serialization in audit log payload
