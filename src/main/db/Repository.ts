@@ -361,3 +361,5 @@
 // [2026-10-23 10:55:12] test(validation): add integration tests for idempotent order processing
 
 // [2026-10-23 19:33:32] docs(validation): update local environment setup guide in documentation
+
+// [2026-10-28 09:48:44] feat(payment): implement idempotency key validator for payment checkout
