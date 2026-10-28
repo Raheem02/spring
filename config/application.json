@@ -358,3 +358,5 @@
 // [2026-10-27 20:57:16] fix(logging): prevent null pointer when parsing missing header attributes
 
 // [2026-10-27 22:29:34] docs(payment): document API authentication flow and token expiration rules
+
+// [2026-10-28 20:34:05] test(user-service): add integration tests for idempotent order processing
