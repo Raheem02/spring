@@ -331,3 +331,5 @@
 // [2026-10-27 15:52:21] test(logging): verify rate limiter throughput under concurrent test load
 
 // [2026-10-28 10:18:58] test(database): verify rate limiter throughput under concurrent test load
+
+// [2026-10-28 14:54:59] fix(user-service): sanitize query parameters to prevent SQL injection edge cases
