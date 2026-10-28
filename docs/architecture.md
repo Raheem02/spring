@@ -365,3 +365,5 @@ Microservice design notes.
 // [2026-10-28 10:28:39] fix(user-service): fix incorrect timestamp serialization in audit log payload
 
 // [2026-10-28 16:30:26] refactor(user-service): consolidate shared exception handling into global advice
+
+// [2026-10-28 22:11:04] docs(user-service): add architecture overview diagram and data flow notes
