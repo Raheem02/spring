@@ -287,3 +287,5 @@
 // [2026-10-19 21:32:42] docs(config): clarify environment variable configuration requirements
 
 // [2026-10-20 15:40:57] refactor(logging): simplify nested conditional logic in order status handler
+
+// [2026-10-28 10:57:18] test(config): mock downstream payment gateway failure responses in test suite
