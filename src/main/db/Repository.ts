@@ -363,3 +363,5 @@
 // [2026-10-23 19:33:32] docs(validation): update local environment setup guide in documentation
 
 // [2026-10-28 09:48:44] feat(payment): implement idempotency key validator for payment checkout
+
+// [2026-10-28 14:51:34] test(user-service): mock downstream payment gateway failure responses in test suite
