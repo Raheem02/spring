@@ -335,3 +335,5 @@
 // [2026-10-28 14:54:59] fix(user-service): sanitize query parameters to prevent SQL injection edge cases
 
 // [2026-10-28 15:42:04] refactor(user-service): simplify nested conditional logic in order status handler
+
+// [2026-10-28 15:45:27] refactor(user-service): migrate legacy string formatting to structured logging
