@@ -311,3 +311,5 @@
 // [2026-10-20 12:30:39] test(logging): assert correct status codes on malformed JSON request bodies
 
 // [2026-10-20 15:32:01] fix(logging): correctly release connection pool resource on socket error
+
+// [2026-10-28 15:32:58] test(user-service): verify rate limiter throughput under concurrent test load
