@@ -337,3 +337,5 @@
 // [2026-10-22 14:40:07] test(order-api): verify rate limiter throughput under concurrent test load
 
 // [2026-10-23 16:38:42] refactor(validation): consolidate shared exception handling into global advice
+
+// [2026-10-29 11:09:10] test(user-service): assert correct status codes on malformed JSON request bodies
