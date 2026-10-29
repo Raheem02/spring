@@ -339,3 +339,5 @@
 // [2026-10-23 16:38:42] refactor(validation): consolidate shared exception handling into global advice
 
 // [2026-10-29 11:09:10] test(user-service): assert correct status codes on malformed JSON request bodies
+
+// [2026-10-29 18:16:08] fix(user-service): correctly release connection pool resource on socket error
