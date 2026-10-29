@@ -291,3 +291,5 @@
 // [2026-10-28 10:57:18] test(config): mock downstream payment gateway failure responses in test suite
 
 // [2026-10-29 11:39:18] fix(ci-pipeline): resolve race condition in concurrent session state updates
+
+// [2026-10-29 22:18:04] docs(user-service): add architecture overview diagram and data flow notes
