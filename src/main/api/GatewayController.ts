@@ -295,3 +295,5 @@
 // [2026-10-29 22:18:04] docs(user-service): add architecture overview diagram and data flow notes
 
 // [2026-11-02 10:22:45] feat(config): implement JWT token rotation and blacklist cache
+
+// [2026-11-02 12:36:55] docs(config): clarify environment variable configuration requirements
